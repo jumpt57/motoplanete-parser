@@ -1,0 +1,68 @@
+[ {
+  "id" : 4684,
+  "idMotoplanete" : 4736,
+  "name" : "Buell Racing 1190 RX ",
+  "urlMotoplanete" : "http://www.motoplanete.com/erik-buell-racing/4736/1190-RX-2014/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/erik-buell-racing/EBR-1190-RX-2014.jpg",
+  "year" : "2014",
+  "maxSpeed" : 280,
+  "zeroToHundred" : null,
+  "price" : 15000,
+  "priceABS" : null,
+  "categoryId" : 1,
+  "imagesUrl" : [ "http://www.motoplanete.com/erik-buell-racing/EBR-1190-RX-2014.jpg" ],
+  "idManufacturer" : 32,
+  "rearAxle" : {
+    "id" : 4684,
+    "rearShock" : "Mono-amortisseur",
+    "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
+    "rearWheel" : "190 / 55 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4684,
+    "fork" : "Fourche téléhydraulique inversée Ø nc",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 386 mm, étrier 8 pistons"
+  },
+  "engine" : {
+    "id" : 4684,
+    "gasSupply" : "injection Ø nc",
+    "torque" : 14.0,
+    "torqueRpm" : 8200.0,
+    "act" : null,
+    "power" : 185.0,
+    "powerRpm" : 10600.0,
+    "cooling" : "par eau",
+    "displacement" : "1190 cc (106 x 67.5 mm)",
+    "type" : "Bicylindre en V à 72°, 4 temps",
+    "powerToWeightRatio" : 1.03,
+    "valve" : "4 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4684,
+    "gearboxSpeeds" : "6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4684,
+    "dryWeight" : 190.0,
+    "seatHeight" : 826.0,
+    "type" : "périmétique en aluminum avec réservoir intégré",
+    "tankCapacity" : 17.1,
+    "lenght" : 2040,
+    "wheelbase" : 1409,
+    "width" : 737,
+    "height" : 1110.0,
+    "movingWeight" : null
+  }
+} ]

@@ -1,0 +1,68 @@
+[ {
+  "id" : 4623,
+  "idMotoplanete" : 4254,
+  "name" : "DUU ",
+  "urlMotoplanete" : "http://www.motoplanete.com/CRS/4254/DUU-2012/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/CRS/CRS-DUU-2012.jpg",
+  "year" : "2012",
+  "maxSpeed" : 200,
+  "zeroToHundred" : null,
+  "price" : 22724,
+  "priceABS" : null,
+  "categoryId" : 15,
+  "imagesUrl" : [ "http://www.motoplanete.com/CRS/CRS-DUU-2012.jpg" ],
+  "idManufacturer" : 27,
+  "rearAxle" : {
+    "id" : 4623,
+    "rearShock" : "Monobras et mono-amortisseur, déb : 127 mm",
+    "rearBrake" : "1 disque Ø 260 mm, étrier 2 pistons",
+    "rearWheel" : "190 / 55 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4623,
+    "fork" : "Fourche téléhydraulique inversée Ø 48 mm, déb : 120 mm",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 17\"",
+    "frontBrake" : "2 disques wave Ø 320mm, étriers radiaux à 4 pistons"
+  },
+  "engine" : {
+    "id" : 4623,
+    "gasSupply" : "Injection Ø nc",
+    "torque" : 15.0,
+    "torqueRpm" : 4300.0,
+    "act" : null,
+    "power" : 95.0,
+    "powerRpm" : 5100.0,
+    "cooling" : "Refroidissement par air",
+    "displacement" : "1916 cc (104.8 x 111.1 mm)",
+    "type" : "Bicylindre en V à 56°, 4 temps",
+    "powerToWeightRatio" : 2.58,
+    "valve" : "2 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4623,
+    "gearboxSpeeds" : "5 ou 6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4623,
+    "dryWeight" : 245.0,
+    "seatHeight" : 800.0,
+    "type" : "Structure principale en tubes inox de grosse section",
+    "tankCapacity" : 15.5,
+    "lenght" : 2197,
+    "wheelbase" : 1576,
+    "width" : 770,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

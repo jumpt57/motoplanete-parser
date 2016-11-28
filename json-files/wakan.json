@@ -1,0 +1,68 @@
+[ {
+  "id" : 4988,
+  "idMotoplanete" : 1675,
+  "name" : "ROADSTER 1640 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/wakan/1675/ROADSTER-1640-2009/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/wakan/1640-roadster-2009.jpg",
+  "year" : "2009",
+  "maxSpeed" : 248,
+  "zeroToHundred" : null,
+  "price" : 33500,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/wakan/1640-roadster-2009.jpg" ],
+  "idManufacturer" : 70,
+  "rearAxle" : {
+    "id" : 4988,
+    "rearShock" : "Mono-amortisseur",
+    "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
+    "rearWheel" : "180 / 55 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4988,
+    "fork" : "Fourche téléhydraulique inversée Ø 46 mm",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 340 mm, étrier à 6 pistons"
+  },
+  "engine" : {
+    "id" : 4988,
+    "gasSupply" : "1 carburateur Ø 41 mm",
+    "torque" : 15.9,
+    "torqueRpm" : 4150.0,
+    "act" : null,
+    "power" : 115.0,
+    "powerRpm" : 6250.0,
+    "cooling" : "Refroidissement par air",
+    "displacement" : "1640 cc (101.6 x 101.6 mm)",
+    "type" : "Bicylindre en V à 45°, 4 temps",
+    "powerToWeightRatio" : 1.54,
+    "valve" : "2 soupapes par cylindre",
+    "valveCommand" : "culbuté",
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4988,
+    "gearboxSpeeds" : "5 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4988,
+    "dryWeight" : 177.0,
+    "seatHeight" : 790.0,
+    "type" : null,
+    "tankCapacity" : 13.0,
+    "lenght" : null,
+    "wheelbase" : 1337,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

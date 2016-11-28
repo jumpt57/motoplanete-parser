@@ -1,0 +1,68 @@
+[ {
+  "id" : 4757,
+  "idMotoplanete" : 4968,
+  "name" : "C-01 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/lotus/4968/C-01-2014/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/lotus/Lotus-C-01-2014.jpg",
+  "year" : "2014",
+  "maxSpeed" : null,
+  "zeroToHundred" : null,
+  "price" : null,
+  "priceABS" : null,
+  "categoryId" : 17,
+  "imagesUrl" : [ "http://www.motoplanete.com/lotus/Lotus-C-01-2014.jpg" ],
+  "idManufacturer" : 44,
+  "rearAxle" : {
+    "id" : 4757,
+    "rearShock" : "2 amortisseurs latéraux, déb : 70 mm",
+    "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
+    "rearWheel" : "190 / 55 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4757,
+    "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 80 mm",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 19\"",
+    "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+  },
+  "engine" : {
+    "id" : 4757,
+    "gasSupply" : "injection Ø nc",
+    "torque" : null,
+    "torqueRpm" : null,
+    "act" : "2 ACT",
+    "power" : 200.0,
+    "powerRpm" : null,
+    "cooling" : "par eau",
+    "displacement" : "1195 cc (105 x 69 mm)",
+    "type" : "Bicylindre en V à 75°, 4 temps",
+    "powerToWeightRatio" : 0.91,
+    "valve" : "4 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4757,
+    "gearboxSpeeds" : "6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4757,
+    "dryWeight" : 181.0,
+    "seatHeight" : 710.0,
+    "type" : null,
+    "tankCapacity" : 10.5,
+    "lenght" : null,
+    "wheelbase" : 1645,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

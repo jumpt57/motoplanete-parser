@@ -1,0 +1,68 @@
+[ {
+  "id" : 4789,
+  "idMotoplanete" : 3311,
+  "name" : "Mission R ",
+  "urlMotoplanete" : "http://www.motoplanete.com/mission-motorcycles/3311/Mission-R-2011/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/mission-motorcycles/Mission-R-electric-superbike.jpg",
+  "year" : "2011",
+  "maxSpeed" : 257,
+  "zeroToHundred" : null,
+  "price" : 60000,
+  "priceABS" : null,
+  "categoryId" : 1,
+  "imagesUrl" : [ "http://www.motoplanete.com/mission-motorcycles/Mission-R-electric-superbike.jpg" ],
+  "idManufacturer" : 50,
+  "rearAxle" : {
+    "id" : 4789,
+    "rearShock" : "Monobras et mono-amortisseur Öhlins TTX36",
+    "rearBrake" : "1 disque Ø 245 mm, étrier Brembo 2 pistons",
+    "rearWheel" : null,
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4789,
+    "fork" : "Fourche téléhydraulique Ohlins FGR 000 inversée Ø 43 mm",
+    "frontShock" : null,
+    "frontWheel" : null,
+    "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs Brembo 4 pistons"
+  },
+  "engine" : {
+    "id" : 4789,
+    "gasSupply" : null,
+    "torque" : 15.9,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 141.0,
+    "powerRpm" : null,
+    "cooling" : "Refroidissement liquide",
+    "displacement" : null,
+    "type" : "Electrique",
+    "powerToWeightRatio" : null,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4789,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "chaine",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4789,
+    "dryWeight" : null,
+    "seatHeight" : null,
+    "type" : "Treillis tubulaire en acier",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : null,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : 247.0
+  }
+} ]

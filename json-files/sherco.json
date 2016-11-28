@@ -1,0 +1,68 @@
+[ {
+  "id" : 4923,
+  "idMotoplanete" : 3986,
+  "name" : "ST125R ",
+  "urlMotoplanete" : "http://www.motoplanete.com/sherco/3986/ST125R-2012/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/sherco/sherco-ST125R-2012.jpg",
+  "year" : "2012",
+  "maxSpeed" : null,
+  "zeroToHundred" : null,
+  "price" : 5500,
+  "priceABS" : null,
+  "categoryId" : 24,
+  "imagesUrl" : [ "http://www.motoplanete.com/sherco/sherco-ST125R-2012.jpg" ],
+  "idManufacturer" : 65,
+  "rearAxle" : {
+    "id" : 4923,
+    "rearShock" : "Mono-amortisseur, déb : 175 mm",
+    "rearBrake" : "1 disque Ø 145 mm, étrier 1 piston",
+    "rearWheel" : null,
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4923,
+    "fork" : "Fourche téléhydraulique Ø 39 mm, déb : 165 mm",
+    "frontShock" : null,
+    "frontWheel" : null,
+    "frontBrake" : "1 disque Ø 185 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 4923,
+    "gasSupply" : "Carburateur Ø nc",
+    "torque" : null,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : null,
+    "powerRpm" : null,
+    "cooling" : "Refroidissement liquide",
+    "displacement" : "124.7 cc (56 x 50.7 mm)",
+    "type" : "Monocylindre, 2 temps",
+    "powerToWeightRatio" : null,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4923,
+    "gearboxSpeeds" : "5 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4923,
+    "dryWeight" : 67.0,
+    "seatHeight" : 645.0,
+    "type" : "tubulaire au chrome-molybdène",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1322,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

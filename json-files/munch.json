@@ -1,0 +1,68 @@
+[ {
+  "id" : 4840,
+  "idMotoplanete" : 633,
+  "name" : "MAMMUT 2000 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/munch/633/MAMMUT-2000-2000/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/munch/mammut.jpg",
+  "year" : "2000",
+  "maxSpeed" : 250,
+  "zeroToHundred" : 3.2,
+  "price" : 86000,
+  "priceABS" : null,
+  "categoryId" : 1,
+  "imagesUrl" : [ "http://www.motoplanete.com/munch/mammut.jpg" ],
+  "idManufacturer" : 54,
+  "rearAxle" : {
+    "id" : 4840,
+    "rearShock" : "2 amortisseurs horizontaux, déb : 65 mm",
+    "rearBrake" : "1 disque Ø 280 mm, étrier 4 pistons",
+    "rearWheel" : "200 / 50 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4840,
+    "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 17\"",
+    "frontBrake" : "2 disques Ø 320 mm, étriers 8 pistons"
+  },
+  "engine" : {
+    "id" : 4840,
+    "gasSupply" : "Injection électronique",
+    "torque" : 30.1,
+    "torqueRpm" : 3500.0,
+    "act" : "2 ACT",
+    "power" : 260.0,
+    "powerRpm" : 5650.0,
+    "cooling" : "Refroidissement par eau",
+    "displacement" : "1998 cc (86 x 86 mm)",
+    "type" : "4 Cylindres en ligne, 4 temps",
+    "powerToWeightRatio" : 1.36,
+    "valve" : "4 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4840,
+    "gearboxSpeeds" : "6 vitesses",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4840,
+    "dryWeight" : 354.0,
+    "seatHeight" : 780.0,
+    "type" : "Double berceau acier",
+    "tankCapacity" : 26.5,
+    "lenght" : 2146,
+    "wheelbase" : null,
+    "width" : null,
+    "height" : 800.0,
+    "movingWeight" : null
+  }
+} ]

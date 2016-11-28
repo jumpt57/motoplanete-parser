@@ -1,0 +1,68 @@
+[ {
+  "id" : 4692,
+  "idMotoplanete" : 2387,
+  "name" : "VR6 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/horex/2387/VR6-2012/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/horex/Horex-VR6-2011.jpg",
+  "year" : "2012",
+  "maxSpeed" : 250,
+  "zeroToHundred" : null,
+  "price" : 21700,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/horex/Horex-VR6-2011.jpg" ],
+  "idManufacturer" : 38,
+  "rearAxle" : {
+    "id" : 4692,
+    "rearShock" : "Mono-amortisseur, déb : 120 mm",
+    "rearBrake" : "1 disque Ø nc, étrier à 2 pistons",
+    "rearWheel" : "190 / 55 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4692,
+    "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 130 mm",
+    "frontShock" : null,
+    "frontWheel" : "120 / 70 - 17\"",
+    "frontBrake" : "2 disques pétales Ø nc, étriers radiaux 4 pistons"
+  },
+  "engine" : {
+    "id" : 4692,
+    "gasSupply" : "Injection + compresseur",
+    "torque" : 13.7,
+    "torqueRpm" : 7000.0,
+    "act" : "3 ACT",
+    "power" : 161.0,
+    "powerRpm" : 9000.0,
+    "cooling" : "Refroidissement liquide",
+    "displacement" : "1218 cc (68 x 55 mm)",
+    "type" : "6 cylindres en VR à 15°, 4 temps",
+    "powerToWeightRatio" : 1.48,
+    "valve" : "3 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4692,
+    "gearboxSpeeds" : "6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4692,
+    "dryWeight" : 239.0,
+    "seatHeight" : 820.0,
+    "type" : "double poutre en alu",
+    "tankCapacity" : 18.0,
+    "lenght" : null,
+    "wheelbase" : 1475,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

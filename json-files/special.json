@@ -1,0 +1,68 @@
+[ {
+  "id" : 4924,
+  "idMotoplanete" : 212,
+  "name" : "AKIRA - moto de Kaneda ",
+  "urlMotoplanete" : "http://www.motoplanete.com/special/212/AKIRA---moto-de-Kaneda-2019/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/special/akira_kaneda-moto-2019.jpg",
+  "year" : "2019",
+  "maxSpeed" : 243,
+  "zeroToHundred" : null,
+  "price" : null,
+  "priceABS" : null,
+  "categoryId" : 1,
+  "imagesUrl" : [ "http://www.motoplanete.com/special/akira_kaneda-moto-2019.jpg" ],
+  "idManufacturer" : 66,
+  "rearAxle" : {
+    "id" : 4924,
+    "rearShock" : null,
+    "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
+    "rearWheel" : null,
+    "type" : "Monobras"
+  },
+  "frontAxle" : {
+    "id" : 4924,
+    "fork" : null,
+    "frontShock" : "4 amortisseurs combinés",
+    "frontWheel" : null,
+    "frontBrake" : "2 disques Ø nc, étriers 4 pistons"
+  },
+  "engine" : {
+    "id" : 4924,
+    "gasSupply" : null,
+    "torque" : null,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 200.0,
+    "powerRpm" : 15000.0,
+    "cooling" : null,
+    "displacement" : null,
+    "type" : "Bicylindre , 4 temps",
+    "powerToWeightRatio" : 0.77,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4924,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : null,
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4924,
+    "dryWeight" : 154.0,
+    "seatHeight" : 340.0,
+    "type" : "Structure coque",
+    "tankCapacity" : null,
+    "lenght" : 2947,
+    "wheelbase" : 2194,
+    "width" : 831,
+    "height" : 1171.0,
+    "movingWeight" : null
+  }
+} ]

@@ -1,0 +1,68 @@
+[ {
+  "id" : 4685,
+  "idMotoplanete" : 2681,
+  "name" : "W3 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/feuling/2681/W3-2000/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/feuling/feuling-W3-2000.jpg",
+  "year" : "2000",
+  "maxSpeed" : 236,
+  "zeroToHundred" : null,
+  "price" : 44422,
+  "priceABS" : null,
+  "categoryId" : 15,
+  "imagesUrl" : [ "http://www.motoplanete.com/feuling/feuling-W3-2000.jpg" ],
+  "idManufacturer" : 34,
+  "rearAxle" : {
+    "id" : 4685,
+    "rearShock" : "2 combinés latéraux",
+    "rearBrake" : "1 disque Ø 292 mm, étrier 2 pistons",
+    "rearWheel" : null,
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4685,
+    "fork" : "Fourche téléhydraulique inversée Ø nc",
+    "frontShock" : null,
+    "frontWheel" : null,
+    "frontBrake" : "2 disques Ø 292 mm , étriers 4 pistons"
+  },
+  "engine" : {
+    "id" : 4685,
+    "gasSupply" : "3 carburateurs Ø 40mm",
+    "torque" : 25.5,
+    "torqueRpm" : 3000.0,
+    "act" : null,
+    "power" : 150.0,
+    "powerRpm" : 5000.0,
+    "cooling" : "Refroidissement par air",
+    "displacement" : "2470 cc (101.6 x 101.6 mm)",
+    "type" : "3 Cylindres en W à 45°, 4 temps",
+    "powerToWeightRatio" : 1.79,
+    "valve" : "2 soupapes par cylindre",
+    "valveCommand" : "culbuté",
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4685,
+    "gearboxSpeeds" : "5 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4685,
+    "dryWeight" : 268.0,
+    "seatHeight" : null,
+    "type" : "Double berceau en acier",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : null,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

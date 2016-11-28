@@ -1,0 +1,68 @@
+[ {
+  "id" : 4839,
+  "idMotoplanete" : 3435,
+  "name" : "MST-01 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/motus/3435/MST-01-2012/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/motus/Motus-MST-2012.jpg",
+  "year" : "2012",
+  "maxSpeed" : 200,
+  "zeroToHundred" : null,
+  "price" : 20000,
+  "priceABS" : null,
+  "categoryId" : 12,
+  "imagesUrl" : [ "http://www.motoplanete.com/motus/Motus-MST-2012.jpg" ],
+  "idManufacturer" : 53,
+  "rearAxle" : {
+    "id" : 4839,
+    "rearShock" : "Mono-amortisseur, déb : 120 mm",
+    "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
+    "rearWheel" : null,
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4839,
+    "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
+    "frontShock" : null,
+    "frontWheel" : null,
+    "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
+  },
+  "engine" : {
+    "id" : 4839,
+    "gasSupply" : "Injection Ø nc",
+    "torque" : 16.7,
+    "torqueRpm" : 4500.0,
+    "act" : "1 ACT",
+    "power" : 161.0,
+    "powerRpm" : 7800.0,
+    "cooling" : "Refroidissement liquide",
+    "displacement" : "1645 cc (86.5 x 70 mm)",
+    "type" : "4 Cylindres en V longitudinal à 90°, 4 temps",
+    "powerToWeightRatio" : 1.41,
+    "valve" : "2 soupapes par cylindre",
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4839,
+    "gearboxSpeeds" : "6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "chaine",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4839,
+    "dryWeight" : 227.0,
+    "seatHeight" : 787.0,
+    "type" : "treillis en tubes d'acier",
+    "tankCapacity" : 22.7,
+    "lenght" : 2130,
+    "wheelbase" : 1473,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

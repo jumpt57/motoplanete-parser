@@ -1,0 +1,68 @@
+[ {
+  "id" : 4898,
+  "idMotoplanete" : 129,
+  "name" : "Rapom V8 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/rapom/129/Rapom-V8-2007/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/rapom/Rapom-V8.jpg",
+  "year" : "2007",
+  "maxSpeed" : 400,
+  "zeroToHundred" : 2.8,
+  "price" : null,
+  "priceABS" : null,
+  "categoryId" : 1,
+  "imagesUrl" : [ "http://www.motoplanete.com/rapom/Rapom-V8.jpg" ],
+  "idManufacturer" : 59,
+  "rearAxle" : {
+    "id" : 4898,
+    "rearShock" : null,
+    "rearBrake" : "Simple disque Harrison Billet Ø nc, étriers à 6 pistons",
+    "rearWheel" : "290 - 15\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4898,
+    "fork" : "fourche téléscopique",
+    "frontShock" : null,
+    "frontWheel" : "180 / 70 - 15\"",
+    "frontBrake" : "Simple disque Harrison Billet Ø nc, étriers à 6 pistons"
+  },
+  "engine" : {
+    "id" : 4898,
+    "gasSupply" : null,
+    "torque" : null,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 1000.0,
+    "powerRpm" : null,
+    "cooling" : "par eau",
+    "displacement" : "8193 cc (111.25 x 105.41 mm)",
+    "type" : "8 cylindres en V, 4 temps",
+    "powerToWeightRatio" : 0.45,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4898,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "chaîne",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4898,
+    "dryWeight" : 454.0,
+    "seatHeight" : null,
+    "type" : "treillis tubulaire de 32 mm utilisant le moteur comme élément de rigidité",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : null,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

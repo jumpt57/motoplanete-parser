@@ -1,0 +1,68 @@
+[ {
+  "id" : 4691,
+  "idMotoplanete" : 3228,
+  "name" : "& Wolfmüller 1488 ",
+  "urlMotoplanete" : "http://www.motoplanete.com/hildebrand-wolfmuller/3228/1488-1894/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/hildebrand-wolfmuller/hildebrand-wolfmuller-1894.jpg",
+  "year" : "1894",
+  "maxSpeed" : 48,
+  "zeroToHundred" : null,
+  "price" : 100000,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/hildebrand-wolfmuller/hildebrand-wolfmuller-1894.jpg" ],
+  "idManufacturer" : 37,
+  "rearAxle" : {
+    "id" : 4691,
+    "rearShock" : null,
+    "rearBrake" : null,
+    "rearWheel" : null,
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 4691,
+    "fork" : "Fourche rigide",
+    "frontShock" : null,
+    "frontWheel" : null,
+    "frontBrake" : null
+  },
+  "engine" : {
+    "id" : 4691,
+    "gasSupply" : "par carburateur Ø nc",
+    "torque" : null,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 3.0,
+    "powerRpm" : 240.0,
+    "cooling" : "Refroidissement liquide",
+    "displacement" : "1488 cc (90 x 117 mm)",
+    "type" : "Bicylindre parallèle, 4 temps",
+    "powerToWeightRatio" : null,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 4691,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : null,
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 4691,
+    "dryWeight" : null,
+    "seatHeight" : null,
+    "type" : "Tubulaire en acier",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : null,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : 60.0
+  }
+} ]
