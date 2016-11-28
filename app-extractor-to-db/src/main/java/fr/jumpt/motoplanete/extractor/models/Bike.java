@@ -6,6 +6,8 @@ import java.sql.SQLException;
 import java.util.List;
 
 public class Bike {
+	
+	public static int ID = 0;
 
 	private int id;
 	private int idMotoplanete;
@@ -44,7 +46,7 @@ public class Bike {
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.name = name.trim();
 	}
 
 	public String getUrlMotoplanete() {
@@ -68,7 +70,7 @@ public class Bike {
 	}
 
 	public void setYear(String year) {
-		this.year = year;
+		this.year = year.trim();
 	}
 
 	public Integer getMaxSpeed() {

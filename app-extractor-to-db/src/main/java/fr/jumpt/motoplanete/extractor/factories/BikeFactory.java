@@ -2,7 +2,6 @@ package fr.jumpt.motoplanete.extractor.factories;
 
 import java.util.ArrayList;
 
-import fr.jumpt.motoplanete.extractor.dba.SimpleDba;
 import fr.jumpt.motoplanete.extractor.models.Bike;
 import fr.jumpt.motoplanete.extractor.models.Engine;
 import fr.jumpt.motoplanete.extractor.models.Frame;
@@ -14,20 +13,14 @@ public abstract class BikeFactory {
 	
 	public static Bike create(){
 		
-		int id = SimpleDba.getMaxId(SimpleDba.MAX_ID_BIKE_GENERAL) + 1;
+		int id = Bike.ID++;
 		
 		Bike bike = new Bike();
 		bike.setId(id);
 		bike.setImagesUrl(new ArrayList<String>());
 		
 		Engine engine = new Engine();
-		engine.setId(id);		
-		/*engine.setAct("");
-		engine.setBridable("");
-		engine.setCooling("");
-		engine.setDisplacement("");
-		engine.setEngineIntake("");
-		engine.setGasSupply("");*/
+		engine.setId(id);
 		
 		bike.setEngine(engine);
 		

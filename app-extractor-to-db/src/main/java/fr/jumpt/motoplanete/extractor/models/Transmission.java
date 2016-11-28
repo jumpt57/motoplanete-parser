@@ -7,6 +7,7 @@ public class Transmission {
 	private String geerboxType;
 	private String secondaryTransmission;
 	private String type;
+	private String reverse;
 
 	public Transmission() {
 		super();
@@ -50,6 +51,14 @@ public class Transmission {
 
 	public void setType(String type) {
 		this.type = type;
+	}
+
+	public String getReverse() {
+		return reverse;
+	}
+
+	public void setReverse(String reverse) {
+		this.reverse = reverse;
 	}
 
 }

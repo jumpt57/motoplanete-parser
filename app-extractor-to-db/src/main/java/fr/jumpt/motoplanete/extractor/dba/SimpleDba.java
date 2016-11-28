@@ -169,13 +169,14 @@ public class SimpleDba {
 	public static Integer insertBike(Bike bike) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
+
 			String query = "INSERT INTO data_bikes.bike_general_information (id, name, images_url, year, max_speed, "
 					+ " zero_to_hundred, price, price_with_abs, id_category, id_rear_axle, id_front_axle, id_engine, id_transmission, id_frame,  id_manufacturer) "
 					+ " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setObject(1, bike.getId());
-			stmt.setObject(2, bike.getName());
+			stmt.setObject(2, bike.getName().trim());
 			stmt.setObject(3, bike.getImagesUrlArray(con));
 			stmt.setObject(4, bike.getYear());
 			stmt.setObject(5, bike.getMaxSpeed());
@@ -193,6 +194,7 @@ public class SimpleDba {
 			int result = stmt.executeUpdate();
 			stmt.close();
 			return result;
+
 		} catch (Exception e) {
 			System.out.println("insertBike error");
 			return null;
@@ -214,8 +216,8 @@ public class SimpleDba {
 		Connection con = ConnectionManager.getConnexion();
 		try {
 			String query = "INSERT INTO data_bikes.bike_engine (id, gas_supply, torque, act, power, cooling, displacement, type, "
-					+ " power_to_weight_ratio, valve, valve_command, engine_intake, bridable, max_power_rpm, max_torque_rpm, camshaft) "
-					+ " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
+					+ " power_to_weight_ratio, valve, valve_command, engine_intake, bridable, max_power_rpm, max_torque_rpm, camshaft, battery_pack) "
+					+ " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setObject(1, engine.getId());
@@ -234,6 +236,7 @@ public class SimpleDba {
 			stmt.setObject(14, engine.getPowerRpm());
 			stmt.setObject(15, engine.getTorqueRpm());
 			stmt.setObject(16, engine.getCamshaft());
+			stmt.setObject(17, engine.getBatteryPack());
 
 			SimpleDba.insertBikeFeaturesValue("cooling", engine.getCooling());
 			SimpleDba.insertBikeFeaturesValue("act", engine.getAct());
@@ -365,8 +368,8 @@ public class SimpleDba {
 	public static Integer insertTransmission(Transmission transmission) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_transmission (id, gearbox_speeds, geerbox_type, secondary_transmission, type) "
-					+ " VALUES (?, ?, ?, ?, ?);";
+			String query = "INSERT INTO data_bikes.bike_transmission (id, gearbox_speeds, geerbox_type, secondary_transmission, type, reverse) "
+					+ " VALUES (?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setObject(1, transmission.getId());
@@ -374,6 +377,7 @@ public class SimpleDba {
 			stmt.setObject(3, transmission.getGeerboxType());
 			stmt.setObject(4, transmission.getSecondaryTransmission());
 			stmt.setObject(5, transmission.getType());
+			stmt.setObject(6, transmission.getReverse());
 
 			int result = stmt.executeUpdate();
 			stmt.close();
@@ -455,7 +459,7 @@ public class SimpleDba {
 	public static Integer insertBikeFeaturesValue(String feature, String value) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			if(value == null){
+			if (value == null) {
 				return null;
 			}
 			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary WHERE feature LIKE ? AND value LIKE ?;";

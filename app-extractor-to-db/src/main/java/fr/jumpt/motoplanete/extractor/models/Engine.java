@@ -18,6 +18,7 @@ public class Engine {
 	private String engineIntake;
 	private String bridable;
 	private String camshaft;
+	private String batteryPack;
 
 	public Engine() {
 		super();
@@ -149,6 +150,14 @@ public class Engine {
 
 	public void setCamshaft(String camshaft) {
 		this.camshaft = camshaft;
+	}
+
+	public String getBatteryPack() {
+		return batteryPack;
+	}
+
+	public void setBatteryPack(String batteryPack) {
+		this.batteryPack = batteryPack;
 	}
 
 }

@@ -14,7 +14,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import fr.jumpt.motoplanete.extractor.dba.SimpleDba;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import fr.jumpt.motoplanete.extractor.factories.ManufacturerFactory;
 import fr.jumpt.motoplanete.extractor.models.Manufacturer;
 import fr.jumpt.motoplanete.extractor.utils.LinksMotoplanete;
@@ -25,20 +27,18 @@ public abstract class ManufacturersWorker {
 	/**
 	 * 
 	 */
-	public static List<Manufacturer> loadManufacturers() {
+	public static void loadManufacturers() {
 		System.out.println("Manufacturers loading start");
 		try {			
 			List<Manufacturer> mans = new ArrayList<Manufacturer>();
 			
 			processHtmlPage(Jsoup.connect(LinksMotoplanete.MANUFACTURERS_INDEX).get(), mans);
-			//processHtmlPage(Jsoup.connect(LinksMotoplanete.MANUFACTURERS_INDEX2).get(), mans);
+			processHtmlPage(Jsoup.connect(LinksMotoplanete.MANUFACTURERS_INDEX2).get(), mans);
 			
+			toJson(mans);			
 			System.out.println("Manufacturers loading end");
-			
-			return mans;
 		} catch (Exception e) {
 			e.printStackTrace();
-			return null;
 		}		
 	}
 
@@ -61,8 +61,6 @@ public abstract class ManufacturersWorker {
 			if (img != null) {
 				ma.setLogoUrl(img.attr("src"));
 			}
-			
-			SimpleDba.insertManufacturer(ma);
 			
 			mans.add(ma);
 		}
@@ -158,6 +156,17 @@ public abstract class ManufacturersWorker {
 			System.out.println("erreur lors de la transformation en json");
 			e.printStackTrace();
 		}
+	}
+	
+	public static List<Manufacturer> jsonToObject(){
+		ObjectMapper mapper = new ObjectMapper();		
+		try {
+			List<Manufacturer> mans = mapper.readValue(new File(LinksMotoplanete.OBJECT_JSON_DIRECTORY  + "manufacturers.json"), new TypeReference<List<Manufacturer>>(){});
+			return mans;
+		} catch (Exception e) {
+			System.out.println("Erreur lors de la convertion json vers objet.");
+			return null;
+		}		
 	}
 
 }

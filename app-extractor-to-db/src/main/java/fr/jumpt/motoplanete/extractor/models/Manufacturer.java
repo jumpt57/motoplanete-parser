@@ -11,6 +11,8 @@ import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 @JsonIdentityInfo(generator = ObjectIdGenerators.IntSequenceGenerator.class, property = "@name")
 public class Manufacturer {
 	
+	public static int ID = 0;
+	
 	private int id;
 	private String name;
 	private List<String> years;

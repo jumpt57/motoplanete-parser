@@ -1,11 +1,16 @@
 package fr.jumpt.motoplanete.extractor.workers;
 
+import java.io.File;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import fr.jumpt.motoplanete.extractor.dba.SimpleDba;
 import fr.jumpt.motoplanete.extractor.factories.BikeFactory;
@@ -20,23 +25,20 @@ public abstract class BikesWorker {
 	/**
 	 * 
 	 */
-	public static void loadBikes(List<Manufacturer> mans) {
-
+	public static void loadBikes() {
 		try {
-			for (Manufacturer manufacturer : mans) {
-				/*
-				 * if(manufacturer.getId() != 9){ continue; }
-				 */
+			for (Manufacturer manufacturer : ManufacturersWorker.jsonToObject()) {
+				List<Bike> bikes = new ArrayList<Bike>();
 				for (String year : manufacturer.getYears()) {
 					System.out.println(manufacturer.getName() + " " + year);
 					try {
-						processHtmlPage(manufacturer, year);
+						processHtmlPage(manufacturer, year, bikes);
 					} catch (Exception e) {
 						e.printStackTrace();
 						throw new RuntimeException(e);
 					}
 				}
-				break;
+				toJson(manufacturer, bikes);
 			}
 
 		} catch (Exception e) {
@@ -50,7 +52,7 @@ public abstract class BikesWorker {
 	 * @param year
 	 * @throws Exception
 	 */
-	private static void processHtmlPage(Manufacturer manufacturer, String year) throws Exception {
+	private static void processHtmlPage(Manufacturer manufacturer, String year, List<Bike> bikes) throws Exception {
 		try {
 			Document sommaireManufacturer = Jsoup.connect(LinksMotoplanete.MANUFACTURER_PAGE + "/"
 					+ manufacturer.getIdMotoplanete() + "/" + year + "/" + manufacturer.getNameMotoplanete() + ".php")
@@ -60,6 +62,7 @@ public abstract class BikesWorker {
 			Element article = divinfofiche.getElementsByTag("article").first();
 
 			Elements liBikes = article.getElementsByTag("li");
+
 			for (Element liBike : liBikes) {
 				if (!liBike.getElementsByTag("a").first().attr("href").contains("essai.html")) {
 					Document ficheBike = Jsoup.connect(liBike.getElementsByTag("a").first().attr("href")).get();
@@ -74,12 +77,7 @@ public abstract class BikesWorker {
 						extractTrainAvantInfo(ficheBike, bike);
 						extractMoteurInfo(ficheBike, bike);
 
-						SimpleDba.insertFrame(bike.getFrame());
-						SimpleDba.insertFrontAxle(bike.getFrontAxle());
-						SimpleDba.insertRearAxle(bike.getRearAxle());
-						SimpleDba.insertTransmission(bike.getTransmission());
-						SimpleDba.insertEngine(bike.getEngine());
-						SimpleDba.insertBike(bike);
+						bikes.add(bike);
 					} else {
 						continue;
 					}
@@ -162,7 +160,8 @@ public abstract class BikesWorker {
 				} else if (element.text().contains("ACT")) {
 					bike.getEngine().setAct(element.text());
 				} else if (element.text().contains("kg/ch")) {
-					bike.getEngine().setPowerToWeightRatio(Double.parseDouble(element.text().split(":")[1].trim().replace("kg/ch", "").trim()));
+					bike.getEngine().setPowerToWeightRatio(
+							Double.parseDouble(element.text().split(":")[1].trim().replace("kg/ch", "").trim()));
 				} else if (element.text().contains("bridable") || element.text().contains("A2")) {
 					bike.getEngine().setBridable(element.text());
 				} else if (element.text().contains("ch")) {
@@ -200,10 +199,11 @@ public abstract class BikesWorker {
 					bike.getEngine().setCooling(element.text().split(":")[1].trim());
 				} else if (element.text().contains("2")) {
 					// rien
-				} else if(element.text().contains("simple arbre à came en tê")){
+				} else if (element.text().contains("simple arbre à came en tê")) {
 					bike.getEngine().setCamshaft(element.text().replace("tê", "tête"));
-				}				
-				else {
+				} else if (element.text().contains("Batterie Li-Ion")) {
+					bike.getEngine().setBatteryPack(element.text());
+				} else {
 					System.out.println(element.text());
 				}
 			}
@@ -413,7 +413,10 @@ public abstract class BikesWorker {
 						|| element.text().contains("5 rapport")) {
 					bike.getTransmission().setGearboxSpeeds(element.text());
 					bike.getTransmission().setGeerboxType("manuelle");
-				} else {
+				} else if(element.text().contains("marche arrière")){
+					bike.getTransmission().setReverse(element.text());
+				}
+				else {
 					System.out.println(element.text());
 				}
 			}
@@ -421,11 +424,25 @@ public abstract class BikesWorker {
 		}
 	}
 
-	public static void toJson(Manufacturer man) {
+	public static void toJson(Manufacturer man, List<Bike> bikes) {
 		try {
-			ObjectToJsonHelper.convertManufacturer(man, man.getName() + ".json");
+			ObjectToJsonHelper.convertBikes(bikes, man.getNameMotoplanete() + ".json");
 		} catch (Exception e) {
 			e.printStackTrace();
+		}
+	}
+
+	public static List<Bike> jsonToObject(Manufacturer man) {
+		ObjectMapper mapper = new ObjectMapper();
+		try {
+			List<Bike> bikes = mapper.readValue(
+					new File(LinksMotoplanete.OBJECT_JSON_DIRECTORY + man.getNameMotoplanete() + ".json"),
+					new TypeReference<List<Bike>>() {
+					});
+			return bikes;
+		} catch (Exception e) {
+			System.out.println("Erreur lors de la convertion json vers objet.");
+			return null;
 		}
 	}
 
