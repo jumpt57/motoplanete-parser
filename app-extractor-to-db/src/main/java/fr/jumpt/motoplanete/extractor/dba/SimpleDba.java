@@ -238,9 +238,6 @@ public class SimpleDba {
 			stmt.setObject(16, engine.getCamshaft());
 			stmt.setObject(17, engine.getBatteryPack());
 
-			SimpleDba.insertBikeFeaturesValue("cooling", engine.getCooling());
-			SimpleDba.insertBikeFeaturesValue("act", engine.getAct());
-
 			int result = stmt.executeUpdate();
 			stmt.close();
 			return result;
@@ -456,16 +453,17 @@ public class SimpleDba {
 		}
 	}
 
-	public static Integer insertBikeFeaturesValue(String feature, String value) {
+	public static Integer insertBikeFeaturesValue(String type, String feature, String value) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
 			if (value == null) {
 				return null;
 			}
-			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary WHERE feature LIKE ? AND value LIKE ?;";
+			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary WHERE type LIKE ? AND feature LIKE ? AND value LIKE ?;";
 			PreparedStatement stmt = con.prepareStatement(query1);
-			stmt.setObject(1, feature);
-			stmt.setObject(2, value);
+			stmt.setObject(1, type);
+			stmt.setObject(2, feature);
+			stmt.setObject(3, value);
 
 			ResultSet rs = stmt.executeQuery();
 			while (rs.next()) {
@@ -474,11 +472,12 @@ public class SimpleDba {
 				stmt.close();
 
 				if (result == 0) {
-					String query2 = "INSERT INTO data_bikes.bike_features_dictionary (feature, value, correct_value) VALUES (?, ?, ?);";
+					String query2 = "INSERT INTO data_bikes.bike_features_dictionary (type, feature, value, correct_value) VALUES (?, ?, ?, ?);";
 					PreparedStatement stmt2 = con.prepareStatement(query2);
-					stmt2.setObject(1, feature);
-					stmt2.setObject(2, value);
-					stmt2.setObject(3, "");
+					stmt2.setObject(1, type);
+					stmt2.setObject(2, feature);
+					stmt2.setObject(3, value);
+					stmt2.setObject(4, "");
 
 					int result2 = stmt2.executeUpdate();
 					stmt2.close();
