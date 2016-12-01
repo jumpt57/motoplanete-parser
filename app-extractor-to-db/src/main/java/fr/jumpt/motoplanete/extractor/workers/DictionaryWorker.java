@@ -1,7 +1,10 @@
 package fr.jumpt.motoplanete.extractor.workers;
 
+import org.apache.commons.lang3.StringUtils;
+
 import fr.jumpt.motoplanete.extractor.dba.SimpleDba;
 import fr.jumpt.motoplanete.extractor.models.Bike;
+import fr.jumpt.motoplanete.extractor.models.Dictionary;
 import fr.jumpt.motoplanete.extractor.models.Manufacturer;
 
 public abstract class DictionaryWorker {
@@ -67,6 +70,46 @@ public abstract class DictionaryWorker {
 			System.out.println("Problème lors du traitement des données du dictionnaire");
 		}
 
+	}
+	
+	public static void featuresCorrection(){
+		try{
+			for (Dictionary dico : SimpleDba.getAllDictionary()) {
+				if(dico.getCorrectValue().isEmpty()){
+					dico.setCorrectValue(StringUtils.capitalize(dico.getValue().trim()));
+					SimpleDba.updateDictionary(dico);
+				}		
+				else if(dico.getCorrectValue().contains("\\'")){									
+					dico.setCorrectValue(dico.getCorrectValue().replace("\\'", "''"));				
+					SimpleDba.updateDictionary(dico);
+				}
+			}
+			
+		} catch(Exception e){
+			System.out.println("Problème lors de la correction des données du dictionnaire");
+		}
+	}
+	
+	public static void copyToCorrectedFeaturesTable(){
+		try{
+			for (Dictionary dico : SimpleDba.getAllDictionary()) {
+				SimpleDba.insertBikeFeaturesValueCorrected(dico);		
+			}
+			
+		} catch(Exception e){
+			System.out.println("Problème lors du dump des corrections des données du dictionnaire");
+		}
+	}
+	
+	public static void correctAllValues(){
+		try{
+			for (Dictionary dico : SimpleDba.getAllDictionary()) {
+				SimpleDba.updateBikesValue(dico);								
+			}
+			
+		} catch(Exception e){
+			System.out.println("Problème lors de la correction des données des motos via le dictionnaire");
+		}
 	}
 
 }

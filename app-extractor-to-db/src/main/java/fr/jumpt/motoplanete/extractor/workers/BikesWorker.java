@@ -200,7 +200,7 @@ public abstract class BikesWorker {
 				} else if (element.text().contains("2")) {
 					// rien
 				} else if (element.text().contains("simple arbre à came en tê")) {
-					bike.getEngine().setCamshaft(element.text().replace("tê", "tête"));
+					bike.getEngine().setAct("1 A.C.T.");
 				} else if (element.text().contains("Batterie Li-Ion")) {
 					bike.getEngine().setBatteryPack(element.text());
 				} else {
@@ -414,7 +414,7 @@ public abstract class BikesWorker {
 					bike.getTransmission().setGearboxSpeeds(element.text());
 					bike.getTransmission().setGeerboxType("manuelle");
 				} else if(element.text().contains("marche arrière")){
-					bike.getTransmission().setReverse(element.text());
+					bike.getTransmission().setGearboxSpeeds(element.text());
 				}
 				else {
 					System.out.println(element.text());

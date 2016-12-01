@@ -5,8 +5,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
 
 import fr.jumpt.motoplanete.extractor.models.Bike;
+import fr.jumpt.motoplanete.extractor.models.Dictionary;
 import fr.jumpt.motoplanete.extractor.models.Engine;
 import fr.jumpt.motoplanete.extractor.models.Frame;
 import fr.jumpt.motoplanete.extractor.models.FrontAxle;
@@ -365,7 +368,7 @@ public class SimpleDba {
 	public static Integer insertTransmission(Transmission transmission) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_transmission (id, gearbox_speeds, geerbox_type, secondary_transmission, type, reverse) "
+			String query = "INSERT INTO data_bikes.bike_transmission (id, gearbox_speeds, gearbox_type, secondary_transmission, type, reverse) "
 					+ " VALUES (?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
@@ -500,5 +503,139 @@ public class SimpleDba {
 			}
 		}
 	}
+	
+	public static Integer insertBikeFeaturesValueCorrected(Dictionary dico) {
+		Connection con = ConnectionManager.getConnexion();
+		try {
+			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary_corrected WHERE type LIKE ? AND feature LIKE ? AND correct_value LIKE ?;";
+			PreparedStatement stmt = con.prepareStatement(query1);
+			stmt.setObject(1, dico.getType());
+			stmt.setObject(2, dico.getFeature());
+			stmt.setObject(3, dico.getCorrectValue());
 
+			ResultSet rs = stmt.executeQuery();
+			while (rs.next()) {
+				int result = rs.getInt(1);
+				rs.close();
+				stmt.close();
+
+				if (result == 0) {
+					String query2 = "INSERT INTO data_bikes.bike_features_dictionary_corrected (type, feature, correct_value) VALUES (?, ?, ?);";
+					PreparedStatement stmt2 = con.prepareStatement(query2);
+					stmt2.setObject(1, dico.getType());
+					stmt2.setObject(2, dico.getFeature());
+					stmt2.setObject(3, dico.getCorrectValue());
+
+					int result2 = stmt2.executeUpdate();
+					stmt2.close();
+					return result2;
+				} else {
+					return result;
+				}
+			}
+
+			return null;
+
+		} catch (Exception e) {
+			System.out.println("insertBikeFeaturesValueCorrected error");
+			return null;
+		} finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				System.out.println("Problème pour fermer la connexion");
+			}
+		}
+	}
+
+
+	public static List<Dictionary> getAllDictionary() {
+
+		Connection con = ConnectionManager.getConnexion();
+		try {
+			List<Dictionary> dicos = new ArrayList<Dictionary>();
+			String query = "SELECT type, feature, value, correct_value FROM data_bikes.bike_features_dictionary;";
+			PreparedStatement stmt = con.prepareStatement(query);
+
+			ResultSet rs = stmt.executeQuery();
+			while (rs.next()) {
+				Dictionary dico = new Dictionary();
+				dico.setType(rs.getString(1));
+				dico.setFeature(rs.getString(2));
+				dico.setValue(rs.getString(3));
+				dico.setCorrectValue(rs.getString(4));
+
+				dicos.add(dico);
+
+			}
+
+			stmt.close();
+			rs.close();
+			return dicos;
+		} catch (Exception e) {
+			System.out.println("getAllDictionary error");
+			return null;
+		} finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				System.out.println("Problème pour fermer la connexion");
+			}
+		}
+	}
+	
+	public static Integer updateDictionary(Dictionary dictionary) {
+
+		Connection con = ConnectionManager.getConnexion();
+		try {
+			String query = "UPDATE data_bikes.bike_features_dictionary SET correct_value = ? WHERE type = ? AND feature = ? AND value = ?;";
+			PreparedStatement stmt = con.prepareStatement(query);
+			stmt.setObject(1, dictionary.getCorrectValue());
+			stmt.setObject(2, dictionary.getType());
+			stmt.setObject(3, dictionary.getFeature());
+			stmt.setObject(4, dictionary.getValue());
+
+			int result = stmt.executeUpdate();
+			stmt.close();
+
+			return result;
+		} catch (Exception e) {
+			System.out.println("updateDictionary error");
+			return null;
+		} finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				System.out.println("Problème pour fermer la connexion");
+			}
+		}
+	}
+	
+	public static Integer updateBikesValue(Dictionary dictionary) {
+
+		Connection con = ConnectionManager.getConnexion();
+		
+		String query = "UPDATE data_bikes."+ dictionary.getType() +" SET " + dictionary.getFeature() + " = '"
+				+ dictionary.getCorrectValue() +"' WHERE "+dictionary.getFeature()+" = '"+dictionary.getValue()+"';";
+		
+		try {
+			
+			PreparedStatement stmt = con.prepareStatement(query);			
+
+			int result = stmt.executeUpdate();
+			
+			stmt.close();
+
+			return result;
+		} catch (Exception e) {
+			System.out.println("updateBikesValue error");
+			return null;
+		} finally {
+			try {
+				con.close();
+			} catch (SQLException e) {
+				System.out.println("Problème pour fermer la connexion");
+			}
+		}
+	}
 }
