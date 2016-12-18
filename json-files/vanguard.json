@@ -1,0 +1,68 @@
+[ {
+  "id" : 6406,
+  "idMotoplanete" : 6470,
+  "name" : "1900 Roadster",
+  "urlMotoplanete" : "http://www.motoplanete.com/Vanguard/6470/1900-Roadster-2018/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/Vanguard/Vanguard-1917-Roadster-2018.jpg",
+  "year" : "2018",
+  "maxSpeed" : 200,
+  "zeroToHundred" : null,
+  "price" : 28000,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/Vanguard/Vanguard-1917-Roadster-2018.jpg" ],
+  "idManufacturer" : 69,
+  "rearAxle" : {
+    "id" : 6406,
+    "rearShock" : null,
+    "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
+    "rearWheel" : "200 / 50 ou 240 / 40 - 18\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6406,
+    "fork" : "Fourche téléhydraulique inversée Öhlins Ø 48 mm",
+    "frontShock" : null,
+    "frontWheel" : "130 / 60 - 18\"",
+    "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monobloc Brembo 4 pistons"
+  },
+  "engine" : {
+    "id" : 6406,
+    "gasSupply" : null,
+    "torque" : 15.3,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 100.0,
+    "powerRpm" : null,
+    "cooling" : "par air",
+    "displacement" : "1917 cc (104.8 x 111.1 mm)",
+    "type" : "Bicylindre en V à 56°, 4 temps",
+    "powerToWeightRatio" : 2.5,
+    "valve" : null,
+    "valveCommand" : "culbuté",
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6406,
+    "gearboxSpeeds" : "6 rapports",
+    "geerboxType" : "manuelle",
+    "secondaryTransmission" : "cardan",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6406,
+    "dryWeight" : 250.0,
+    "seatHeight" : 813.0,
+    "type" : null,
+    "tankCapacity" : 21.0,
+    "lenght" : null,
+    "wheelbase" : 1664,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

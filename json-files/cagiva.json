@@ -1,7 +1,7 @@
 [ {
-  "id" : 4550,
+  "id" : 6027,
   "idMotoplanete" : 5003,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/5003/125-MITO-SP-525-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Cagiva-mito-2010-SP_525.jpg",
   "year" : "2014",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 5190,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Cagiva-mito-2010-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4550,
+    "id" : 6027,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4550,
+    "id" : 6027,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4550,
+    "id" : 6027,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4550,
+    "id" : 6027,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4550,
+    "id" : 6027,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4551,
+  "id" : 6028,
   "idMotoplanete" : 5001,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/5001/125-RAPTOR-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg",
   "year" : "2014",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 4390,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4551,
+    "id" : 6028,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4551,
+    "id" : 6028,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4551,
+    "id" : 6028,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4551,
+    "id" : 6028,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4551,
+    "id" : 6028,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4552,
+  "id" : 6029,
   "idMotoplanete" : 5002,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/5002/125-MITO-SP-525-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Cagiva-mito-2010-SP_525.jpg",
   "year" : "2013",
@@ -143,25 +143,25 @@
   "zeroToHundred" : null,
   "price" : 5190,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Cagiva-mito-2010-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4552,
+    "id" : 6029,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4552,
+    "id" : 6029,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4552,
+    "id" : 6029,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4552,
+    "id" : 6029,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4552,
+    "id" : 6029,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4553,
+  "id" : 6030,
   "idMotoplanete" : 5000,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/5000/125-RAPTOR-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg",
   "year" : "2013",
@@ -210,25 +210,25 @@
   "zeroToHundred" : null,
   "price" : 4390,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4553,
+    "id" : 6030,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4553,
+    "id" : 6030,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4553,
+    "id" : 6030,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4553,
+    "id" : 6030,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4553,
+    "id" : 6030,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4554,
+  "id" : 6031,
   "idMotoplanete" : 4119,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4119/125-MITO-SP-525-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/mito-2010-SP_525.jpg",
   "year" : "2012",
@@ -277,25 +277,25 @@
   "zeroToHundred" : null,
   "price" : 5190,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/mito-2010-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4554,
+    "id" : 6031,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4554,
+    "id" : 6031,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4554,
+    "id" : 6031,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4554,
+    "id" : 6031,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4554,
+    "id" : 6031,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4555,
+  "id" : 6032,
   "idMotoplanete" : 4121,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4121/125-RAPTOR-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg",
   "year" : "2012",
@@ -344,25 +344,25 @@
   "zeroToHundred" : null,
   "price" : 4390,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4555,
+    "id" : 6032,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4555,
+    "id" : 6032,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4555,
+    "id" : 6032,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4555,
+    "id" : 6032,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4555,
+    "id" : 6032,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4556,
+  "id" : 6033,
   "idMotoplanete" : 4118,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4118/125-MITO-SP-525-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/mito-2009-SP_525.jpg",
   "year" : "2011",
@@ -411,25 +411,25 @@
   "zeroToHundred" : null,
   "price" : 5190,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/mito-2009-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4556,
+    "id" : 6033,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4556,
+    "id" : 6033,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4556,
+    "id" : 6033,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4556,
+    "id" : 6033,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4556,
+    "id" : 6033,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4557,
+  "id" : 6034,
   "idMotoplanete" : 4120,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4120/125-RAPTOR-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2009.jpg",
   "year" : "2011",
@@ -478,25 +478,25 @@
   "zeroToHundred" : null,
   "price" : 4390,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2009.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4557,
+    "id" : 6034,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4557,
+    "id" : 6034,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4557,
+    "id" : 6034,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4557,
+    "id" : 6034,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4557,
+    "id" : 6034,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4558,
+  "id" : 6035,
   "idMotoplanete" : 2451,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2451/125-MITO-SP-525-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/mito-2010-SP_525.jpg",
   "year" : "2010",
@@ -545,25 +545,25 @@
   "zeroToHundred" : null,
   "price" : 5290,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/mito-2010-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4558,
+    "id" : 6035,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4558,
+    "id" : 6035,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4558,
+    "id" : 6035,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4558,
+    "id" : 6035,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4558,
+    "id" : 6035,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4559,
+  "id" : 6036,
   "idMotoplanete" : 2450,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2450/125-RAPTOR-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg",
   "year" : "2010",
@@ -612,25 +612,25 @@
   "zeroToHundred" : null,
   "price" : 4490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2010.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4559,
+    "id" : 6036,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4559,
+    "id" : 6036,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4559,
+    "id" : 6036,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4559,
+    "id" : 6036,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4559,
+    "id" : 6036,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -669,9 +669,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4560,
+  "id" : 6037,
   "idMotoplanete" : 1094,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1094/125-MITO-SP-525-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/mito-2009-SP_525.jpg",
   "year" : "2009",
@@ -679,25 +679,25 @@
   "zeroToHundred" : null,
   "price" : 4990,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/mito-2009-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4560,
+    "id" : 6037,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4560,
+    "id" : 6037,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4560,
+    "id" : 6037,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4560,
+    "id" : 6037,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4560,
+    "id" : 6037,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4561,
+  "id" : 6038,
   "idMotoplanete" : 2449,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2449/125-RAPTOR-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2009.jpg",
   "year" : "2009",
@@ -746,25 +746,25 @@
   "zeroToHundred" : null,
   "price" : 4385,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2009.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4561,
+    "id" : 6038,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4561,
+    "id" : 6038,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4561,
+    "id" : 6038,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4561,
+    "id" : 6038,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4561,
+    "id" : 6038,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4562,
+  "id" : 6039,
   "idMotoplanete" : 1093,
-  "name" : "125 MITO SP 525 ",
+  "name" : "125 MITO SP 525",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1093/125-MITO-SP-525-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/mito-2008-SP_525.jpg",
   "year" : "2008",
@@ -813,25 +813,25 @@
   "zeroToHundred" : null,
   "price" : 4990,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/mito-2008-SP_525.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4562,
+    "id" : 6039,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4562,
+    "id" : 6039,
     "fork" : "Fourche hydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4562,
+    "id" : 6039,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4562,
+    "id" : 6039,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4562,
+    "id" : 6039,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "Doube longeron en aluminium",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4563,
+  "id" : 6040,
   "idMotoplanete" : 2448,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2448/125-RAPTOR-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2008.jpg",
   "year" : "2008",
@@ -880,25 +880,25 @@
   "zeroToHundred" : null,
   "price" : 4999,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2008.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4563,
+    "id" : 6040,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4563,
+    "id" : 6040,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4563,
+    "id" : 6040,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4563,
+    "id" : 6040,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4563,
+    "id" : 6040,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4564,
+  "id" : 6041,
   "idMotoplanete" : 1092,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1092/125-MITO-EV-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2007.jpg",
   "year" : "2007",
@@ -947,25 +947,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2007.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4564,
+    "id" : 6041,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4564,
+    "id" : 6041,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4564,
+    "id" : 6041,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4564,
+    "id" : 6041,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4564,
+    "id" : 6041,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4565,
+  "id" : 6042,
   "idMotoplanete" : 2447,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2447/125-RAPTOR-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2007.jpg",
   "year" : "2007",
@@ -1014,25 +1014,25 @@
   "zeroToHundred" : null,
   "price" : 4999,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2007.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4565,
+    "id" : 6042,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4565,
+    "id" : 6042,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4565,
+    "id" : 6042,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4565,
+    "id" : 6042,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4565,
+    "id" : 6042,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -1071,9 +1071,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4566,
+  "id" : 6043,
   "idMotoplanete" : 1091,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1091/125-MITO-EV-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2006.jpg",
   "year" : "2006",
@@ -1081,25 +1081,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2006.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4566,
+    "id" : 6043,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4566,
+    "id" : 6043,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4566,
+    "id" : 6043,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4566,
+    "id" : 6043,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4566,
+    "id" : 6043,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4567,
+  "id" : 6044,
   "idMotoplanete" : 2446,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2446/125-RAPTOR-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2006.jpg",
   "year" : "2006",
@@ -1148,25 +1148,25 @@
   "zeroToHundred" : null,
   "price" : 4999,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2006.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4567,
+    "id" : 6044,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4567,
+    "id" : 6044,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4567,
+    "id" : 6044,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4567,
+    "id" : 6044,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4567,
+    "id" : 6044,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4568,
+  "id" : 6045,
   "idMotoplanete" : 4037,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4037/1000-RAPTOR-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2005.jpg",
   "year" : "2005",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4568,
+    "id" : 6045,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4568,
+    "id" : 6045,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4568,
+    "id" : 6045,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4568,
+    "id" : 6045,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4568,
+    "id" : 6045,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -1272,9 +1272,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4569,
+  "id" : 6046,
   "idMotoplanete" : 2461,
-  "name" : "1000 X-TRA RAPTOR ",
+  "name" : "1000 X-TRA RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2461/1000-X-TRA-RAPTOR-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg",
   "year" : "2005",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4569,
+    "id" : 6046,
     "rearShock" : "Mono-amortisseur, déb : 138 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4569,
+    "id" : 6046,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4569,
+    "id" : 6046,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4569,
+    "id" : 6046,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4569,
+    "id" : 6046,
     "dryWeight" : 192.0,
     "seatHeight" : 805.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1339,9 +1339,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4570,
+  "id" : 6047,
   "idMotoplanete" : 2719,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2719/1000-NAVIGATOR-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2005.jpg",
   "year" : "2005",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4570,
+    "id" : 6047,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4570,
+    "id" : 6047,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4570,
+    "id" : 6047,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4570,
+    "id" : 6047,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4570,
+    "id" : 6047,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -1406,9 +1406,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4571,
+  "id" : 6048,
   "idMotoplanete" : 1090,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1090/125-MITO-EV-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2005.jpg",
   "year" : "2005",
@@ -1416,25 +1416,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4571,
+    "id" : 6048,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4571,
+    "id" : 6048,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4571,
+    "id" : 6048,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4571,
+    "id" : 6048,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4571,
+    "id" : 6048,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -1473,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4572,
+  "id" : 6049,
   "idMotoplanete" : 2445,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2445/125-RAPTOR-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2005.jpg",
   "year" : "2005",
@@ -1483,25 +1483,25 @@
   "zeroToHundred" : null,
   "price" : 4999,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4572,
+    "id" : 6049,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4572,
+    "id" : 6049,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4572,
+    "id" : 6049,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4572,
+    "id" : 6049,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4572,
+    "id" : 6049,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4573,
+  "id" : 6050,
   "idMotoplanete" : 4036,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4036/1000-RAPTOR-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2004.jpg",
   "year" : "2004",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2004.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4573,
+    "id" : 6050,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4573,
+    "id" : 6050,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4573,
+    "id" : 6050,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4573,
+    "id" : 6050,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4573,
+    "id" : 6050,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -1607,9 +1607,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4574,
+  "id" : 6051,
   "idMotoplanete" : 2460,
-  "name" : "1000 X-TRA RAPTOR ",
+  "name" : "1000 X-TRA RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2460/1000-X-TRA-RAPTOR-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg",
   "year" : "2004",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4574,
+    "id" : 6051,
     "rearShock" : "Mono-amortisseur, déb : 138 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4574,
+    "id" : 6051,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4574,
+    "id" : 6051,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4574,
+    "id" : 6051,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4574,
+    "id" : 6051,
     "dryWeight" : 192.0,
     "seatHeight" : 805.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4575,
+  "id" : 6052,
   "idMotoplanete" : 2718,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2718/1000-NAVIGATOR-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2004.jpg",
   "year" : "2004",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2004.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4575,
+    "id" : 6052,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4575,
+    "id" : 6052,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4575,
+    "id" : 6052,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4575,
+    "id" : 6052,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4575,
+    "id" : 6052,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -1741,9 +1741,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4576,
+  "id" : 6053,
   "idMotoplanete" : 1089,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1089/125-MITO-EV-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2004.jpg",
   "year" : "2004",
@@ -1751,25 +1751,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2004.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4576,
+    "id" : 6053,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4576,
+    "id" : 6053,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4576,
+    "id" : 6053,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4576,
+    "id" : 6053,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4576,
+    "id" : 6053,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -1808,9 +1808,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4577,
+  "id" : 6054,
   "idMotoplanete" : 2438,
-  "name" : "125 RAPTOR ",
+  "name" : "125 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2438/125-RAPTOR-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2004.jpg",
   "year" : "2004",
@@ -1818,25 +1818,25 @@
   "zeroToHundred" : null,
   "price" : 4999,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-raptor-2004.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4577,
+    "id" : 6054,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4577,
+    "id" : 6054,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4577,
+    "id" : 6054,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8500.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4577,
+    "id" : 6054,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4577,
+    "id" : 6054,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en aluminium",
@@ -1875,9 +1875,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4578,
+  "id" : 6055,
   "idMotoplanete" : 4035,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4035/1000-RAPTOR-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2003.jpg",
   "year" : "2003",
@@ -1887,23 +1887,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2003.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4578,
+    "id" : 6055,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4578,
+    "id" : 6055,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4578,
+    "id" : 6055,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4578,
+    "id" : 6055,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4578,
+    "id" : 6055,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -1942,9 +1942,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4579,
+  "id" : 6056,
   "idMotoplanete" : 2459,
-  "name" : "1000 X-TRA RAPTOR ",
+  "name" : "1000 X-TRA RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2459/1000-X-TRA-RAPTOR-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg",
   "year" : "2003",
@@ -1954,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4579,
+    "id" : 6056,
     "rearShock" : "Mono-amortisseur, déb : 138 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4579,
+    "id" : 6056,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4579,
+    "id" : 6056,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4579,
+    "id" : 6056,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4579,
+    "id" : 6056,
     "dryWeight" : 192.0,
     "seatHeight" : 805.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -2009,9 +2009,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4580,
+  "id" : 6057,
   "idMotoplanete" : 2717,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2717/1000-NAVIGATOR-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2003.jpg",
   "year" : "2003",
@@ -2021,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2003.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4580,
+    "id" : 6057,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4580,
+    "id" : 6057,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4580,
+    "id" : 6057,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4580,
+    "id" : 6057,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4580,
+    "id" : 6057,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -2076,9 +2076,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4581,
+  "id" : 6058,
   "idMotoplanete" : 1088,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1088/125-MITO-EV-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2003.jpg",
   "year" : "2003",
@@ -2086,25 +2086,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2003.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4581,
+    "id" : 6058,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4581,
+    "id" : 6058,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4581,
+    "id" : 6058,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4581,
+    "id" : 6058,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4581,
+    "id" : 6058,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -2143,9 +2143,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4582,
+  "id" : 6059,
   "idMotoplanete" : 2444,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2444/125-PLANET-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-2003.jpg",
   "year" : "2003",
@@ -2153,25 +2153,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-2003.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4582,
+    "id" : 6059,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4582,
+    "id" : 6059,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4582,
+    "id" : 6059,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4582,
+    "id" : 6059,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4582,
+    "id" : 6059,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -2210,9 +2210,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4583,
+  "id" : 6060,
   "idMotoplanete" : 4034,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4034/1000-RAPTOR-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2002.jpg",
   "year" : "2002",
@@ -2222,23 +2222,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2002.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4583,
+    "id" : 6060,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4583,
+    "id" : 6060,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4583,
+    "id" : 6060,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -2257,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4583,
+    "id" : 6060,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2265,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4583,
+    "id" : 6060,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -2277,9 +2277,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4584,
+  "id" : 6061,
   "idMotoplanete" : 2457,
-  "name" : "1000 X-TRA RAPTOR ",
+  "name" : "1000 X-TRA RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2457/1000-X-TRA-RAPTOR-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg",
   "year" : "2002",
@@ -2289,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-X-Tra-raptor-2005.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4584,
+    "id" : 6061,
     "rearShock" : "Mono-amortisseur, déb : 138 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4584,
+    "id" : 6061,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4584,
+    "id" : 6061,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -2324,7 +2324,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4584,
+    "id" : 6061,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2332,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4584,
+    "id" : 6061,
     "dryWeight" : 192.0,
     "seatHeight" : 805.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -2344,9 +2344,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4585,
+  "id" : 6062,
   "idMotoplanete" : 2716,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2716/1000-NAVIGATOR-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2002.jpg",
   "year" : "2002",
@@ -2356,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2002.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4585,
+    "id" : 6062,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4585,
+    "id" : 6062,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4585,
+    "id" : 6062,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -2391,7 +2391,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4585,
+    "id" : 6062,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2399,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4585,
+    "id" : 6062,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -2411,9 +2411,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4586,
+  "id" : 6063,
   "idMotoplanete" : 1087,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1087/125-MITO-EV-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2002.jpg",
   "year" : "2002",
@@ -2421,25 +2421,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2002.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4586,
+    "id" : 6063,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4586,
+    "id" : 6063,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4586,
+    "id" : 6063,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -2458,7 +2458,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4586,
+    "id" : 6063,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2466,7 +2466,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4586,
+    "id" : 6063,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -2478,9 +2478,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4587,
+  "id" : 6064,
   "idMotoplanete" : 2443,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2443/125-PLANET-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-2002.jpg",
   "year" : "2002",
@@ -2488,25 +2488,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-2002.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4587,
+    "id" : 6064,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4587,
+    "id" : 6064,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4587,
+    "id" : 6064,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -2525,7 +2525,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4587,
+    "id" : 6064,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2533,7 +2533,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4587,
+    "id" : 6064,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -2545,9 +2545,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4588,
+  "id" : 6065,
   "idMotoplanete" : 4033,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/4033/1000-RAPTOR-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2001.jpg",
   "year" : "2001",
@@ -2557,23 +2557,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2001.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4588,
+    "id" : 6065,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4588,
+    "id" : 6065,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4588,
+    "id" : 6065,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -2592,7 +2592,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4588,
+    "id" : 6065,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2600,7 +2600,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4588,
+    "id" : 6065,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -2612,9 +2612,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4589,
+  "id" : 6066,
   "idMotoplanete" : 516,
-  "name" : "650 RAPTOR ",
+  "name" : "650 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/516/650-RAPTOR--2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/raptor-650.jpg",
   "year" : "2001",
@@ -2624,23 +2624,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/raptor-650.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4589,
+    "id" : 6066,
     "rearShock" : "Monoamortisseur, déb : 138 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "160 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4589,
+    "id" : 6066,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4589,
+    "id" : 6066,
     "gasSupply" : "2 carburateurs Mikuni Ø 39 mm",
     "torque" : 6.5,
     "torqueRpm" : 7400.0,
@@ -2659,7 +2659,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4589,
+    "id" : 6066,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2667,7 +2667,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4589,
+    "id" : 6066,
     "dryWeight" : 180.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -2679,9 +2679,9 @@
     "movingWeight" : 195.0
   }
 }, {
-  "id" : 4590,
+  "id" : 6067,
   "idMotoplanete" : 2715,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2715/1000-NAVIGATOR-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2001.jpg",
   "year" : "2001",
@@ -2691,23 +2691,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2001.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4590,
+    "id" : 6067,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4590,
+    "id" : 6067,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4590,
+    "id" : 6067,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -2726,7 +2726,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4590,
+    "id" : 6067,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2734,7 +2734,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4590,
+    "id" : 6067,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -2746,9 +2746,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4591,
+  "id" : 6068,
   "idMotoplanete" : 1086,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1086/125-MITO-EV-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2001.jpg",
   "year" : "2001",
@@ -2756,25 +2756,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2001.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4591,
+    "id" : 6068,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4591,
+    "id" : 6068,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4591,
+    "id" : 6068,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -2793,7 +2793,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4591,
+    "id" : 6068,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2801,7 +2801,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4591,
+    "id" : 6068,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -2813,9 +2813,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4592,
+  "id" : 6069,
   "idMotoplanete" : 2442,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2442/125-PLANET-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-2001.jpg",
   "year" : "2001",
@@ -2823,25 +2823,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-2001.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4592,
+    "id" : 6069,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4592,
+    "id" : 6069,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4592,
+    "id" : 6069,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -2860,7 +2860,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4592,
+    "id" : 6069,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2868,7 +2868,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4592,
+    "id" : 6069,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -2880,9 +2880,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4593,
+  "id" : 6070,
   "idMotoplanete" : 3762,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3762/125-ROADSTER-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "2001",
@@ -2890,25 +2890,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4593,
+    "id" : 6070,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4593,
+    "id" : 6070,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4593,
+    "id" : 6070,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -2927,7 +2927,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4593,
+    "id" : 6070,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2935,7 +2935,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4593,
+    "id" : 6070,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -2947,9 +2947,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4594,
+  "id" : 6071,
   "idMotoplanete" : 3209,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3209/125-SUPERCITY-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "2001",
@@ -2957,25 +2957,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4594,
+    "id" : 6071,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4594,
+    "id" : 6071,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4594,
+    "id" : 6071,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -2994,7 +2994,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4594,
+    "id" : 6071,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3002,7 +3002,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4594,
+    "id" : 6071,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -3014,9 +3014,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4595,
+  "id" : 6072,
   "idMotoplanete" : 521,
-  "name" : "1000 RAPTOR ",
+  "name" : "1000 RAPTOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/521/1000-RAPTOR-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2000.jpg",
   "year" : "2000",
@@ -3026,23 +3026,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-raptor-2000.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4595,
+    "id" : 6072,
     "rearShock" : "Monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4595,
+    "id" : 6072,
     "fork" : "Fourche téléhydraulique inversée Ø 43, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4595,
+    "id" : 6072,
     "gasSupply" : "Injection électronique",
     "torque" : 9.2,
     "torqueRpm" : 7000.0,
@@ -3061,7 +3061,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4595,
+    "id" : 6072,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3069,7 +3069,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4595,
+    "id" : 6072,
     "dryWeight" : 192.0,
     "seatHeight" : 775.0,
     "type" : "Treillis tubulaire en acier",
@@ -3081,9 +3081,9 @@
     "movingWeight" : 219.0
   }
 }, {
-  "id" : 4596,
+  "id" : 6073,
   "idMotoplanete" : 2714,
-  "name" : "1000 NAVIGATOR ",
+  "name" : "1000 NAVIGATOR",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2714/1000-NAVIGATOR-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2000.jpg",
   "year" : "2000",
@@ -3093,23 +3093,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-1000-navigator-2000.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4596,
+    "id" : 6073,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4596,
+    "id" : 6073,
     "fork" : "Fourche téléhydraulique Ø 45 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 18\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4596,
+    "id" : 6073,
     "gasSupply" : "Injection Ø nc",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -3128,7 +3128,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4596,
+    "id" : 6073,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3136,7 +3136,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4596,
+    "id" : 6073,
     "dryWeight" : 210.0,
     "seatHeight" : 850.0,
     "type" : "treillis en tube d'acier, moteur suspendu",
@@ -3148,9 +3148,9 @@
     "movingWeight" : 240.0
   }
 }, {
-  "id" : 4597,
+  "id" : 6074,
   "idMotoplanete" : 1085,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1085/125-MITO-EV-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-2000.jpg",
   "year" : "2000",
@@ -3158,25 +3158,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-2000.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4597,
+    "id" : 6074,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4597,
+    "id" : 6074,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4597,
+    "id" : 6074,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -3195,7 +3195,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4597,
+    "id" : 6074,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3203,7 +3203,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4597,
+    "id" : 6074,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -3215,9 +3215,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4598,
+  "id" : 6075,
   "idMotoplanete" : 2441,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2441/125-PLANET-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-2000.jpg",
   "year" : "2000",
@@ -3225,25 +3225,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-2000.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4598,
+    "id" : 6075,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4598,
+    "id" : 6075,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4598,
+    "id" : 6075,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -3262,7 +3262,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4598,
+    "id" : 6075,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3270,7 +3270,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4598,
+    "id" : 6075,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -3282,9 +3282,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4599,
+  "id" : 6076,
   "idMotoplanete" : 3761,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3761/125-ROADSTER-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "2000",
@@ -3292,25 +3292,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4599,
+    "id" : 6076,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4599,
+    "id" : 6076,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4599,
+    "id" : 6076,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -3329,7 +3329,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4599,
+    "id" : 6076,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3337,7 +3337,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4599,
+    "id" : 6076,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -3349,9 +3349,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4600,
+  "id" : 6077,
   "idMotoplanete" : 3208,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3208/125-SUPERCITY-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "2000",
@@ -3359,25 +3359,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4600,
+    "id" : 6077,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4600,
+    "id" : 6077,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4600,
+    "id" : 6077,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -3396,7 +3396,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4600,
+    "id" : 6077,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3404,7 +3404,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4600,
+    "id" : 6077,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -3416,9 +3416,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4601,
+  "id" : 6078,
   "idMotoplanete" : 1084,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1084/125-MITO-EV-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1999.jpg",
   "year" : "1999",
@@ -3426,25 +3426,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1999.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4601,
+    "id" : 6078,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4601,
+    "id" : 6078,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4601,
+    "id" : 6078,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -3463,7 +3463,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4601,
+    "id" : 6078,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3471,7 +3471,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4601,
+    "id" : 6078,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -3483,9 +3483,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4602,
+  "id" : 6079,
   "idMotoplanete" : 2440,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2440/125-PLANET-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-1999.jpg",
   "year" : "1999",
@@ -3493,25 +3493,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-1999.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4602,
+    "id" : 6079,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4602,
+    "id" : 6079,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4602,
+    "id" : 6079,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -3530,7 +3530,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4602,
+    "id" : 6079,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3538,7 +3538,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4602,
+    "id" : 6079,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -3550,9 +3550,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4603,
+  "id" : 6080,
   "idMotoplanete" : 3760,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3760/125-ROADSTER-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1999",
@@ -3560,25 +3560,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4603,
+    "id" : 6080,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4603,
+    "id" : 6080,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4603,
+    "id" : 6080,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -3597,7 +3597,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4603,
+    "id" : 6080,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3605,7 +3605,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4603,
+    "id" : 6080,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -3617,9 +3617,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4604,
+  "id" : 6081,
   "idMotoplanete" : 3207,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3207/125-SUPERCITY-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1999",
@@ -3627,25 +3627,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4604,
+    "id" : 6081,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4604,
+    "id" : 6081,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4604,
+    "id" : 6081,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -3664,7 +3664,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4604,
+    "id" : 6081,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3672,7 +3672,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4604,
+    "id" : 6081,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -3684,9 +3684,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4605,
+  "id" : 6082,
   "idMotoplanete" : 1083,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1083/125-MITO-EV-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1998.jpg",
   "year" : "1998",
@@ -3694,25 +3694,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1998.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4605,
+    "id" : 6082,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4605,
+    "id" : 6082,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4605,
+    "id" : 6082,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -3731,7 +3731,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4605,
+    "id" : 6082,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3739,7 +3739,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4605,
+    "id" : 6082,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -3751,9 +3751,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4606,
+  "id" : 6083,
   "idMotoplanete" : 2439,
-  "name" : "125 PLANET ",
+  "name" : "125 PLANET",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/2439/125-PLANET-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-planet-1998.jpg",
   "year" : "1998",
@@ -3761,25 +3761,25 @@
   "zeroToHundred" : null,
   "price" : 4849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-planet-1998.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4606,
+    "id" : 6083,
     "rearShock" : "Mono-amortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4606,
+    "id" : 6083,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier à 4 pistons"
   },
   "engine" : {
-    "id" : 4606,
+    "id" : 6083,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 1.8,
     "torqueRpm" : 8000.0,
@@ -3798,7 +3798,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4606,
+    "id" : 6083,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3806,7 +3806,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4606,
+    "id" : 6083,
     "dryWeight" : 125.0,
     "seatHeight" : 775.0,
     "type" : "double poutre en alu",
@@ -3818,9 +3818,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4607,
+  "id" : 6084,
   "idMotoplanete" : 3759,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3759/125-ROADSTER-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1998",
@@ -3828,25 +3828,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4607,
+    "id" : 6084,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4607,
+    "id" : 6084,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4607,
+    "id" : 6084,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -3865,7 +3865,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4607,
+    "id" : 6084,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3873,7 +3873,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4607,
+    "id" : 6084,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -3885,9 +3885,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4608,
+  "id" : 6085,
   "idMotoplanete" : 1082,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1082/125-MITO-EV-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1997.jpg",
   "year" : "1997",
@@ -3895,25 +3895,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1997.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4608,
+    "id" : 6085,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4608,
+    "id" : 6085,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4608,
+    "id" : 6085,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -3932,7 +3932,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4608,
+    "id" : 6085,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3940,7 +3940,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4608,
+    "id" : 6085,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -3952,9 +3952,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4609,
+  "id" : 6086,
   "idMotoplanete" : 3758,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3758/125-ROADSTER-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1997",
@@ -3962,25 +3962,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4609,
+    "id" : 6086,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4609,
+    "id" : 6086,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4609,
+    "id" : 6086,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -3999,7 +3999,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4609,
+    "id" : 6086,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -4007,7 +4007,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4609,
+    "id" : 6086,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -4019,9 +4019,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4610,
+  "id" : 6087,
   "idMotoplanete" : 3205,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3205/125-SUPERCITY-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1997",
@@ -4029,25 +4029,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4610,
+    "id" : 6087,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4610,
+    "id" : 6087,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4610,
+    "id" : 6087,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4066,7 +4066,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4610,
+    "id" : 6087,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4074,7 +4074,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4610,
+    "id" : 6087,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4086,9 +4086,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4611,
+  "id" : 6088,
   "idMotoplanete" : 1081,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1081/125-MITO-EV-1996/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1996.jpg",
   "year" : "1996",
@@ -4096,25 +4096,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1996.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4611,
+    "id" : 6088,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4611,
+    "id" : 6088,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4611,
+    "id" : 6088,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -4133,7 +4133,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4611,
+    "id" : 6088,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4141,7 +4141,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4611,
+    "id" : 6088,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -4153,9 +4153,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4612,
+  "id" : 6089,
   "idMotoplanete" : 3757,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3757/125-ROADSTER-1996/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1996",
@@ -4163,25 +4163,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4612,
+    "id" : 6089,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4612,
+    "id" : 6089,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4612,
+    "id" : 6089,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -4200,7 +4200,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4612,
+    "id" : 6089,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -4208,7 +4208,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4612,
+    "id" : 6089,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -4220,9 +4220,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4613,
+  "id" : 6090,
   "idMotoplanete" : 3204,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3204/125-SUPERCITY-1996/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1996",
@@ -4230,25 +4230,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4613,
+    "id" : 6090,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4613,
+    "id" : 6090,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4613,
+    "id" : 6090,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4267,7 +4267,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4613,
+    "id" : 6090,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4275,7 +4275,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4613,
+    "id" : 6090,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4287,9 +4287,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4614,
+  "id" : 6091,
   "idMotoplanete" : 1080,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1080/125-MITO-EV-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1995.jpg",
   "year" : "1995",
@@ -4297,25 +4297,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1995.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4614,
+    "id" : 6091,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4614,
+    "id" : 6091,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4614,
+    "id" : 6091,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -4334,7 +4334,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4614,
+    "id" : 6091,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4342,7 +4342,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4614,
+    "id" : 6091,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -4354,9 +4354,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4615,
+  "id" : 6092,
   "idMotoplanete" : 3756,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3756/125-ROADSTER-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1995",
@@ -4364,25 +4364,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4615,
+    "id" : 6092,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4615,
+    "id" : 6092,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4615,
+    "id" : 6092,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -4401,7 +4401,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4615,
+    "id" : 6092,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -4409,7 +4409,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4615,
+    "id" : 6092,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -4421,9 +4421,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4616,
+  "id" : 6093,
   "idMotoplanete" : 3203,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3203/125-SUPERCITY-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1995",
@@ -4431,25 +4431,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4616,
+    "id" : 6093,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4616,
+    "id" : 6093,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4616,
+    "id" : 6093,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4468,7 +4468,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4616,
+    "id" : 6093,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4476,7 +4476,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4616,
+    "id" : 6093,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4488,9 +4488,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4617,
+  "id" : 6094,
   "idMotoplanete" : 1079,
-  "name" : "125 MITO EV ",
+  "name" : "125 MITO EV",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/1079/125-MITO-EV-1994/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/Mito-125-1994.jpg",
   "year" : "1994",
@@ -4498,25 +4498,25 @@
   "zeroToHundred" : null,
   "price" : 5795,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/Mito-125-1994.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4617,
+    "id" : 6094,
     "rearShock" : "Mono-amortisseur, déb : 133.5 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4617,
+    "id" : 6094,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 4 pistons"
   },
   "engine" : {
-    "id" : 4617,
+    "id" : 6094,
     "gasSupply" : "1 carburateur Ø 28 mm",
     "torque" : 2.34,
     "torqueRpm" : 11000.0,
@@ -4535,7 +4535,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4617,
+    "id" : 6094,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4543,7 +4543,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4617,
+    "id" : 6094,
     "dryWeight" : 129.0,
     "seatHeight" : 760.0,
     "type" : "périmétrique double poutre alu",
@@ -4555,9 +4555,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4618,
+  "id" : 6095,
   "idMotoplanete" : 3755,
-  "name" : "125 ROADSTER ",
+  "name" : "125 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3755/125-ROADSTER-1994/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg",
   "year" : "1994",
@@ -4565,25 +4565,25 @@
   "zeroToHundred" : 13.9,
   "price" : 1951,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-roadster-521.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4618,
+    "id" : 6095,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4618,
+    "id" : 6095,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 160 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4618,
+    "id" : 6095,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.85,
     "torqueRpm" : 9000.0,
@@ -4602,7 +4602,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4618,
+    "id" : 6095,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -4610,7 +4610,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4618,
+    "id" : 6095,
     "dryWeight" : 125.0,
     "seatHeight" : 765.0,
     "type" : "tubulaire en acier",
@@ -4622,9 +4622,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4619,
+  "id" : 6096,
   "idMotoplanete" : 3202,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3202/125-SUPERCITY-1994/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1994",
@@ -4632,25 +4632,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4619,
+    "id" : 6096,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4619,
+    "id" : 6096,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4619,
+    "id" : 6096,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4669,7 +4669,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4619,
+    "id" : 6096,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4677,7 +4677,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4619,
+    "id" : 6096,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4689,9 +4689,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4620,
+  "id" : 6097,
   "idMotoplanete" : 3201,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3201/125-SUPERCITY-1993/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1993",
@@ -4699,25 +4699,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4620,
+    "id" : 6097,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4620,
+    "id" : 6097,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4620,
+    "id" : 6097,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4736,7 +4736,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4620,
+    "id" : 6097,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4744,7 +4744,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4620,
+    "id" : 6097,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4756,9 +4756,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4621,
+  "id" : 6098,
   "idMotoplanete" : 3200,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3200/125-SUPERCITY-1992/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1992",
@@ -4766,25 +4766,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4621,
+    "id" : 6098,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4621,
+    "id" : 6098,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4621,
+    "id" : 6098,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4803,7 +4803,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4621,
+    "id" : 6098,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4811,7 +4811,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4621,
+    "id" : 6098,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,
@@ -4823,9 +4823,9 @@
     "movingWeight" : 136.0
   }
 }, {
-  "id" : 4622,
+  "id" : 6099,
   "idMotoplanete" : 3199,
-  "name" : "125 SUPERCITY ",
+  "name" : "125 SUPERCITY",
   "urlMotoplanete" : "http://www.motoplanete.com/cagiva/3199/125-SUPERCITY-1991/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg",
   "year" : "1991",
@@ -4833,25 +4833,25 @@
   "zeroToHundred" : null,
   "price" : 4340,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/cagiva/cagiva-125-supercity.jpg" ],
-  "idManufacturer" : 25,
+  "idManufacturer" : 26,
   "rearAxle" : {
-    "id" : 4622,
+    "id" : 6099,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "Simple disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "150 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4622,
+    "id" : 6099,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4622,
+    "id" : 6099,
     "gasSupply" : "1 carburateur Ø 34 mm",
     "torque" : 2.1,
     "torqueRpm" : 10200.0,
@@ -4870,7 +4870,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4622,
+    "id" : 6099,
     "gearboxSpeeds" : "7 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4878,7 +4878,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4622,
+    "id" : 6099,
     "dryWeight" : 125.0,
     "seatHeight" : 870.0,
     "type" : null,

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4732,
+  "id" : 6205,
   "idMotoplanete" : 6263,
-  "name" : "125 Twin ",
+  "name" : "125 Twin",
   "urlMotoplanete" : "http://www.motoplanete.com/icone/6263/125-Twin-2017/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/icone/Icone-125-Twin-2017.jpg",
   "year" : "2017",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/icone/Icone-125-Twin-2017.jpg" ],
-  "idManufacturer" : 41,
+  "idManufacturer" : 42,
   "rearAxle" : {
-    "id" : 4732,
+    "id" : 6205,
     "rearShock" : "2 amortisseurs latéraux",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "140 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4732,
+    "id" : 6205,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4732,
+    "id" : 6205,
     "gasSupply" : "2 Carburateurs Ø 26 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4732,
+    "id" : 6205,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4732,
+    "id" : 6205,
     "dryWeight" : 150.0,
     "seatHeight" : 690.0,
     "type" : "berceau tubulaire en acier",

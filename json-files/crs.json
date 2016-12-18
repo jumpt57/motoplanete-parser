@@ -1,7 +1,7 @@
 [ {
-  "id" : 4623,
+  "id" : 6100,
   "idMotoplanete" : 4254,
-  "name" : "DUU ",
+  "name" : "DUU",
   "urlMotoplanete" : "http://www.motoplanete.com/CRS/4254/DUU-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/CRS/CRS-DUU-2012.jpg",
   "year" : "2012",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/CRS/CRS-DUU-2012.jpg" ],
-  "idManufacturer" : 27,
+  "idManufacturer" : 28,
   "rearAxle" : {
-    "id" : 4623,
+    "id" : 6100,
     "rearShock" : "Monobras et mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 260 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4623,
+    "id" : 6100,
     "fork" : "Fourche téléhydraulique inversée Ø 48 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques wave Ø 320mm, étriers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4623,
+    "id" : 6100,
     "gasSupply" : "Injection Ø nc",
     "torque" : 15.0,
     "torqueRpm" : 4300.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4623,
+    "id" : 6100,
     "gearboxSpeeds" : "5 ou 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4623,
+    "id" : 6100,
     "dryWeight" : 245.0,
     "seatHeight" : 800.0,
     "type" : "Structure principale en tubes inox de grosse section",

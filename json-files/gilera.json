@@ -1,7 +1,7 @@
 [ {
-  "id" : 4687,
+  "id" : 6162,
   "idMotoplanete" : 3999,
-  "name" : "125 COGUAR ",
+  "name" : "125 COGUAR",
   "urlMotoplanete" : "http://www.motoplanete.com/gilera/3999/125-COGUAR-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg",
   "year" : "2002",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 3000,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg" ],
-  "idManufacturer" : 36,
+  "idManufacturer" : 37,
   "rearAxle" : {
-    "id" : 4687,
+    "id" : 6162,
     "rearShock" : "2 combinés latéraux, déb : 110 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4687,
+    "id" : 6162,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4687,
+    "id" : 6162,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4687,
+    "id" : 6162,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4687,
+    "id" : 6162,
     "dryWeight" : 123.0,
     "seatHeight" : 730.0,
     "type" : "Double berceau tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4688,
+  "id" : 6163,
   "idMotoplanete" : 3998,
-  "name" : "125 COGUAR ",
+  "name" : "125 COGUAR",
   "urlMotoplanete" : "http://www.motoplanete.com/gilera/3998/125-COGUAR-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg",
   "year" : "2001",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 3000,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg" ],
-  "idManufacturer" : 36,
+  "idManufacturer" : 37,
   "rearAxle" : {
-    "id" : 4688,
+    "id" : 6163,
     "rearShock" : "2 combinés latéraux, déb : 110 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4688,
+    "id" : 6163,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4688,
+    "id" : 6163,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4688,
+    "id" : 6163,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4688,
+    "id" : 6163,
     "dryWeight" : 123.0,
     "seatHeight" : 730.0,
     "type" : "Double berceau tubulaire en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4689,
+  "id" : 6164,
   "idMotoplanete" : 3997,
-  "name" : "125 COGUAR ",
+  "name" : "125 COGUAR",
   "urlMotoplanete" : "http://www.motoplanete.com/gilera/3997/125-COGUAR-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg",
   "year" : "2000",
@@ -143,25 +143,25 @@
   "zeroToHundred" : null,
   "price" : 3000,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg" ],
-  "idManufacturer" : 36,
+  "idManufacturer" : 37,
   "rearAxle" : {
-    "id" : 4689,
+    "id" : 6164,
     "rearShock" : "2 combinés latéraux, déb : 110 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4689,
+    "id" : 6164,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4689,
+    "id" : 6164,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4689,
+    "id" : 6164,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4689,
+    "id" : 6164,
     "dryWeight" : 123.0,
     "seatHeight" : 730.0,
     "type" : "Double berceau tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4690,
+  "id" : 6165,
   "idMotoplanete" : 3996,
-  "name" : "125 COGUAR ",
+  "name" : "125 COGUAR",
   "urlMotoplanete" : "http://www.motoplanete.com/gilera/3996/125-COGUAR-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg",
   "year" : "1999",
@@ -210,25 +210,25 @@
   "zeroToHundred" : null,
   "price" : 3000,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/gilera/gilera-125-coguar.jpg" ],
-  "idManufacturer" : 36,
+  "idManufacturer" : 37,
   "rearAxle" : {
-    "id" : 4690,
+    "id" : 6165,
     "rearShock" : "2 combinés latéraux, déb : 110 mm",
     "rearBrake" : "1 tambour Ø 160 mm",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4690,
+    "id" : 6165,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4690,
+    "id" : 6165,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4690,
+    "id" : 6165,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4690,
+    "id" : 6165,
     "dryWeight" : 123.0,
     "seatHeight" : 730.0,
     "type" : "Double berceau tubulaire en acier",

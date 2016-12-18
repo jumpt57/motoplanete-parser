@@ -162,7 +162,7 @@
   "@name" : 17,
   "id" : 16,
   "name" : "Ariel",
-  "years" : [ ],
+  "years" : [ "2017", "2014" ],
   "description" : "",
   "logoUrl" : "http://www.motoplanete.com/Ariel/Ariel-logo.png",
   "imagesUrl" : [ ],
@@ -171,6 +171,16 @@
 }, {
   "@name" : 18,
   "id" : 17,
+  "name" : "Armotia",
+  "years" : [ "2017" ],
+  "description" : "",
+  "logoUrl" : "http://www.motoplanete.com/armotia/Armotia-logo.gif",
+  "imagesUrl" : [ ],
+  "idMotoplanete" : 82,
+  "nameMotoplanete" : "armotia"
+}, {
+  "@name" : 19,
+  "id" : 18,
   "name" : "Avinton",
   "years" : [ "2017", "2016", "2015" ],
   "description" : "",
@@ -179,8 +189,8 @@
   "idMotoplanete" : 70,
   "nameMotoplanete" : "avinton"
 }, {
-  "@name" : 19,
-  "id" : 18,
+  "@name" : 20,
+  "id" : 19,
   "name" : "Bfg",
   "years" : [ "1982" ],
   "description" : "",
@@ -189,8 +199,8 @@
   "idMotoplanete" : 20,
   "nameMotoplanete" : "bfg"
 }, {
-  "@name" : 20,
-  "id" : 19,
+  "@name" : 21,
+  "id" : 20,
   "name" : "Bimota",
   "years" : [ "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1992", "1984", "1983" ],
   "description" : "",
@@ -199,8 +209,8 @@
   "idMotoplanete" : 21,
   "nameMotoplanete" : "bimota"
 }, {
-  "@name" : 21,
-  "id" : 20,
+  "@name" : 22,
+  "id" : 21,
   "name" : "Borile",
   "years" : [ ],
   "description" : "",
@@ -209,8 +219,8 @@
   "idMotoplanete" : 22,
   "nameMotoplanete" : "borile"
 }, {
-  "@name" : 22,
-  "id" : 21,
+  "@name" : 23,
+  "id" : 22,
   "name" : "Boxer Design",
   "years" : [ "2006", "2004", "2003", "2002", "2001" ],
   "description" : "",
@@ -219,8 +229,8 @@
   "idMotoplanete" : 23,
   "nameMotoplanete" : "boxer-design"
 }, {
-  "@name" : 23,
-  "id" : 22,
+  "@name" : 24,
+  "id" : 23,
   "name" : "Brough Superior",
   "years" : [ "2016", "1932" ],
   "description" : "",
@@ -229,8 +239,8 @@
   "idMotoplanete" : 54,
   "nameMotoplanete" : "brough-superior"
 }, {
-  "@name" : 24,
-  "id" : 23,
+  "@name" : 25,
+  "id" : 24,
   "name" : "Buell",
   "years" : [ "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997" ],
   "description" : "",
@@ -239,8 +249,8 @@
   "idMotoplanete" : 6,
   "nameMotoplanete" : "buell"
 }, {
-  "@name" : 25,
-  "id" : 24,
+  "@name" : 26,
+  "id" : 25,
   "name" : "Bultaco",
   "years" : [ "2015" ],
   "description" : "",
@@ -249,8 +259,8 @@
   "idMotoplanete" : 68,
   "nameMotoplanete" : "bultaco"
 }, {
-  "@name" : 26,
-  "id" : 25,
+  "@name" : 27,
+  "id" : 26,
   "name" : "Cagiva",
   "years" : [ "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993", "1992", "1991" ],
   "description" : "",
@@ -259,8 +269,8 @@
   "idMotoplanete" : 7,
   "nameMotoplanete" : "cagiva"
 }, {
-  "@name" : 27,
-  "id" : 26,
+  "@name" : 28,
+  "id" : 27,
   "name" : "Ccm",
   "years" : [ ],
   "description" : "",
@@ -269,8 +279,8 @@
   "idMotoplanete" : 55,
   "nameMotoplanete" : "ccm"
 }, {
-  "@name" : 28,
-  "id" : 27,
+  "@name" : 29,
+  "id" : 28,
   "name" : "Crs",
   "years" : [ "2012" ],
   "description" : "",
@@ -279,8 +289,8 @@
   "idMotoplanete" : 64,
   "nameMotoplanete" : "crs"
 }, {
-  "@name" : 29,
-  "id" : 28,
+  "@name" : 30,
+  "id" : 29,
   "name" : "Daelim",
   "years" : [ "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997" ],
   "description" : "",
@@ -289,8 +299,8 @@
   "idMotoplanete" : 41,
   "nameMotoplanete" : "daelim"
 }, {
-  "@name" : 30,
-  "id" : 29,
+  "@name" : 31,
+  "id" : 30,
   "name" : "Derbi",
   "years" : [ "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004" ],
   "description" : "",
@@ -299,8 +309,8 @@
   "idMotoplanete" : 25,
   "nameMotoplanete" : "derbi"
 }, {
-  "@name" : 31,
-  "id" : 30,
+  "@name" : 32,
+  "id" : 31,
   "name" : "Dodge",
   "years" : [ "2003" ],
   "description" : "",
@@ -309,8 +319,8 @@
   "idMotoplanete" : 24,
   "nameMotoplanete" : "dodge"
 }, {
-  "@name" : 32,
-  "id" : 31,
+  "@name" : 33,
+  "id" : 32,
   "name" : "Energica",
   "years" : [ ],
   "description" : "",
@@ -319,8 +329,8 @@
   "idMotoplanete" : 77,
   "nameMotoplanete" : "energica"
 }, {
-  "@name" : 33,
-  "id" : 32,
+  "@name" : 34,
+  "id" : 33,
   "name" : "Erik Buell Racing",
   "years" : [ "2014" ],
   "description" : "",
@@ -329,8 +339,8 @@
   "idMotoplanete" : 66,
   "nameMotoplanete" : "erik-buell-racing"
 }, {
-  "@name" : 34,
-  "id" : 33,
+  "@name" : 35,
+  "id" : 34,
   "name" : "Fantic",
   "years" : [ ],
   "description" : "",
@@ -339,8 +349,8 @@
   "idMotoplanete" : 79,
   "nameMotoplanete" : "fantic"
 }, {
-  "@name" : 35,
-  "id" : 34,
+  "@name" : 36,
+  "id" : 35,
   "name" : "Feuling",
   "years" : [ "2000" ],
   "description" : "",
@@ -349,8 +359,8 @@
   "idMotoplanete" : 42,
   "nameMotoplanete" : "feuling"
 }, {
-  "@name" : 36,
-  "id" : 35,
+  "@name" : 37,
+  "id" : 36,
   "name" : "Fgr",
   "years" : [ "2011" ],
   "description" : "",
@@ -359,8 +369,8 @@
   "idMotoplanete" : 52,
   "nameMotoplanete" : "fgr"
 }, {
-  "@name" : 37,
-  "id" : 36,
+  "@name" : 38,
+  "id" : 37,
   "name" : "Gilera",
   "years" : [ "2002", "2001", "2000", "1999" ],
   "description" : "",
@@ -369,8 +379,8 @@
   "idMotoplanete" : 58,
   "nameMotoplanete" : "gilera"
 }, {
-  "@name" : 38,
-  "id" : 37,
+  "@name" : 39,
+  "id" : 38,
   "name" : "Hildebrand Wolfmuller",
   "years" : [ "1894" ],
   "description" : "",
@@ -379,8 +389,8 @@
   "idMotoplanete" : 50,
   "nameMotoplanete" : "hildebrand-wolfmuller"
 }, {
-  "@name" : 39,
-  "id" : 38,
+  "@name" : 40,
+  "id" : 39,
   "name" : "Horex",
   "years" : [ "2016", "2014", "2012", "1950" ],
   "description" : "",
@@ -389,8 +399,8 @@
   "idMotoplanete" : 40,
   "nameMotoplanete" : "horex"
 }, {
-  "@name" : 40,
-  "id" : 39,
+  "@name" : 41,
+  "id" : 40,
   "name" : "Hrd",
   "years" : [ "2001", "2000", "1999" ],
   "description" : "",
@@ -399,8 +409,8 @@
   "idMotoplanete" : 63,
   "nameMotoplanete" : "hrd"
 }, {
-  "@name" : 41,
-  "id" : 40,
+  "@name" : 42,
+  "id" : 41,
   "name" : "Hyosung",
   "years" : [ "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999" ],
   "description" : "",
@@ -409,8 +419,8 @@
   "idMotoplanete" : 11,
   "nameMotoplanete" : "hyosung"
 }, {
-  "@name" : 42,
-  "id" : 41,
+  "@name" : 43,
+  "id" : 42,
   "name" : "Icone",
   "years" : [ "2017" ],
   "description" : "",
@@ -419,8 +429,8 @@
   "idMotoplanete" : 75,
   "nameMotoplanete" : "icone"
 }, {
-  "@name" : 43,
-  "id" : 42,
+  "@name" : 44,
+  "id" : 43,
   "name" : "Kymco",
   "years" : [ "2012", "2011", "2010", "2009", "2008", "2007" ],
   "description" : "",
@@ -429,8 +439,8 @@
   "idMotoplanete" : 65,
   "nameMotoplanete" : "kymco"
 }, {
-  "@name" : 44,
-  "id" : 43,
+  "@name" : 45,
+  "id" : 44,
   "name" : "Laverda",
   "years" : [ "2004", "2002", "2001", "2000", "1999", "1998", "1989", "1987", "1986", "1985", "1978", "1976" ],
   "description" : "",
@@ -439,8 +449,8 @@
   "idMotoplanete" : 56,
   "nameMotoplanete" : "laverda"
 }, {
-  "@name" : 45,
-  "id" : 44,
+  "@name" : 46,
+  "id" : 45,
   "name" : "Lotus",
   "years" : [ "2014" ],
   "description" : "",
@@ -449,8 +459,8 @@
   "idMotoplanete" : 67,
   "nameMotoplanete" : "lotus"
 }, {
-  "@name" : 46,
-  "id" : 45,
+  "@name" : 47,
+  "id" : 46,
   "name" : "Mtt",
   "years" : [ "2001" ],
   "description" : "",
@@ -459,8 +469,8 @@
   "idMotoplanete" : 32,
   "nameMotoplanete" : "mtt"
 }, {
-  "@name" : 47,
-  "id" : 46,
+  "@name" : 48,
+  "id" : 47,
   "name" : "Mash",
   "years" : [ "2017", "2016", "2015", "2014", "2013", "2012" ],
   "description" : "",
@@ -469,8 +479,8 @@
   "idMotoplanete" : 74,
   "nameMotoplanete" : "mash"
 }, {
-  "@name" : 48,
-  "id" : 47,
+  "@name" : 49,
+  "id" : 48,
   "name" : "Massimo Tamburini",
   "years" : [ ],
   "description" : "",
@@ -479,8 +489,8 @@
   "idMotoplanete" : 71,
   "nameMotoplanete" : "massimo-tamburini"
 }, {
-  "@name" : 49,
-  "id" : 48,
+  "@name" : 50,
+  "id" : 49,
   "name" : "Matchless",
   "years" : [ ],
   "description" : "",
@@ -489,8 +499,8 @@
   "idMotoplanete" : 78,
   "nameMotoplanete" : "matchless"
 }, {
-  "@name" : 50,
-  "id" : 49,
+  "@name" : 51,
+  "id" : 50,
   "name" : "Midual",
   "years" : [ "2016" ],
   "description" : "",
@@ -499,8 +509,8 @@
   "idMotoplanete" : 69,
   "nameMotoplanete" : "midual"
 }, {
-  "@name" : 51,
-  "id" : 50,
+  "@name" : 52,
+  "id" : 51,
   "name" : "Mission Motorcycles",
   "years" : [ "2011" ],
   "description" : "",
@@ -509,8 +519,8 @@
   "idMotoplanete" : 51,
   "nameMotoplanete" : "mission-motorcycles"
 }, {
-  "@name" : 52,
-  "id" : 51,
+  "@name" : 53,
+  "id" : 52,
   "name" : "Mondial",
   "years" : [ "2017", "2004", "2003" ],
   "description" : "",
@@ -519,8 +529,8 @@
   "idMotoplanete" : 30,
   "nameMotoplanete" : "mondial"
 }, {
-  "@name" : 53,
-  "id" : 52,
+  "@name" : 54,
+  "id" : 53,
   "name" : "Morini",
   "years" : [ "2017", "2016", "2015", "2014", "2013", "2012", "2010", "2009", "2008", "2007", "2006" ],
   "description" : "",
@@ -529,8 +539,8 @@
   "idMotoplanete" : 35,
   "nameMotoplanete" : "morini"
 }, {
-  "@name" : 54,
-  "id" : 53,
+  "@name" : 55,
+  "id" : 54,
   "name" : "Motus",
   "years" : [ "2012" ],
   "description" : "",
@@ -539,8 +549,8 @@
   "idMotoplanete" : 53,
   "nameMotoplanete" : "motus"
 }, {
-  "@name" : 55,
-  "id" : 54,
+  "@name" : 56,
+  "id" : 55,
   "name" : "Munch",
   "years" : [ "2000" ],
   "description" : "",
@@ -549,8 +559,8 @@
   "idMotoplanete" : 31,
   "nameMotoplanete" : "munch"
 }, {
-  "@name" : 56,
-  "id" : 55,
+  "@name" : 57,
+  "id" : 56,
   "name" : "Mz",
   "years" : [ "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000" ],
   "description" : "",
@@ -559,8 +569,8 @@
   "idMotoplanete" : 16,
   "nameMotoplanete" : "mz"
 }, {
-  "@name" : 57,
-  "id" : 56,
+  "@name" : 58,
+  "id" : 57,
   "name" : "Ncr",
   "years" : [ "2012", "2010", "2009" ],
   "description" : "",
@@ -569,8 +579,8 @@
   "idMotoplanete" : 27,
   "nameMotoplanete" : "ncr"
 }, {
-  "@name" : 58,
-  "id" : 57,
+  "@name" : 59,
+  "id" : 58,
   "name" : "Norton",
   "years" : [ "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "1968", "1962", "1950" ],
   "description" : "",
@@ -579,8 +589,8 @@
   "idMotoplanete" : 33,
   "nameMotoplanete" : "norton"
 }, {
-  "@name" : 59,
-  "id" : 58,
+  "@name" : 60,
+  "id" : 59,
   "name" : "Perreaux",
   "years" : [ "1871" ],
   "description" : "",
@@ -589,8 +599,8 @@
   "idMotoplanete" : 73,
   "nameMotoplanete" : "perreaux"
 }, {
-  "@name" : 60,
-  "id" : 59,
+  "@name" : 61,
+  "id" : 60,
   "name" : "Rapom",
   "years" : [ "2007" ],
   "description" : "",
@@ -599,8 +609,8 @@
   "idMotoplanete" : 28,
   "nameMotoplanete" : "rapom"
 }, {
-  "@name" : 61,
-  "id" : 60,
+  "@name" : 62,
+  "id" : 61,
   "name" : "Rieju",
   "years" : [ "2012", "2011", "2010", "2009", "2008", "2007", "2006" ],
   "description" : "",
@@ -609,8 +619,8 @@
   "idMotoplanete" : 34,
   "nameMotoplanete" : "rieju"
 }, {
-  "@name" : 62,
-  "id" : 61,
+  "@name" : 63,
+  "id" : 62,
   "name" : "Roehr",
   "years" : [ "2011", "2010", "2009" ],
   "description" : "",
@@ -619,8 +629,8 @@
   "idMotoplanete" : 39,
   "nameMotoplanete" : "roehr"
 }, {
-  "@name" : 63,
-  "id" : 62,
+  "@name" : 64,
+  "id" : 63,
   "name" : "Royal Enfield",
   "years" : [ "2016", "2009" ],
   "description" : "",
@@ -629,8 +639,8 @@
   "idMotoplanete" : 37,
   "nameMotoplanete" : "royal-enfield"
 }, {
-  "@name" : 64,
-  "id" : 63,
+  "@name" : 65,
+  "id" : 64,
   "name" : "Sachs",
   "years" : [ "2005", "2004", "2003", "2002", "2001", "2000", "1999" ],
   "description" : "",
@@ -639,8 +649,8 @@
   "idMotoplanete" : 59,
   "nameMotoplanete" : "sachs"
 }, {
-  "@name" : 65,
-  "id" : 64,
+  "@name" : 66,
+  "id" : 65,
   "name" : "Saxon",
   "years" : [ "2011", "2010", "2009", "2008" ],
   "description" : "",
@@ -649,8 +659,8 @@
   "idMotoplanete" : 36,
   "nameMotoplanete" : "saxon"
 }, {
-  "@name" : 66,
-  "id" : 65,
+  "@name" : 67,
+  "id" : 66,
   "name" : "Sherco",
   "years" : [ "2012" ],
   "description" : "",
@@ -659,8 +669,8 @@
   "idMotoplanete" : 62,
   "nameMotoplanete" : "sherco"
 }, {
-  "@name" : 67,
-  "id" : 66,
+  "@name" : 68,
+  "id" : 67,
   "name" : "Special",
   "years" : [ "2019" ],
   "description" : "",
@@ -669,8 +679,8 @@
   "idMotoplanete" : 29,
   "nameMotoplanete" : "special"
 }, {
-  "@name" : 68,
-  "id" : 67,
+  "@name" : 69,
+  "id" : 68,
   "name" : "Ural",
   "years" : [ "2016", "2015", "1992" ],
   "description" : "",
@@ -679,8 +689,18 @@
   "idMotoplanete" : 72,
   "nameMotoplanete" : "ural"
 }, {
-  "@name" : 69,
-  "id" : 68,
+  "@name" : 70,
+  "id" : 69,
+  "name" : "Vanguard",
+  "years" : [ "2018" ],
+  "description" : "",
+  "logoUrl" : "http://www.motoplanete.com/Vanguard/Vanguard-logo.gif",
+  "imagesUrl" : [ ],
+  "idMotoplanete" : 81,
+  "nameMotoplanete" : "vanguard"
+}, {
+  "@name" : 71,
+  "id" : 70,
   "name" : "Vertemati",
   "years" : [ ],
   "description" : "",
@@ -689,8 +709,8 @@
   "idMotoplanete" : 57,
   "nameMotoplanete" : "vertemati"
 }, {
-  "@name" : 70,
-  "id" : 69,
+  "@name" : 72,
+  "id" : 71,
   "name" : "Voxan",
   "years" : [ "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999" ],
   "description" : "",
@@ -699,8 +719,8 @@
   "idMotoplanete" : 18,
   "nameMotoplanete" : "voxan"
 }, {
-  "@name" : 71,
-  "id" : 70,
+  "@name" : 73,
+  "id" : 72,
   "name" : "Wakan",
   "years" : [ "2009" ],
   "description" : "",
@@ -709,8 +729,8 @@
   "idMotoplanete" : 38,
   "nameMotoplanete" : "wakan"
 }, {
-  "@name" : 72,
-  "id" : 71,
+  "@name" : 74,
+  "id" : 73,
   "name" : "Zero",
   "years" : [ "2017", "2016", "2014", "2013", "2012", "2011" ],
   "description" : "",
@@ -719,8 +739,8 @@
   "idMotoplanete" : 60,
   "nameMotoplanete" : "zero"
 }, {
-  "@name" : 73,
-  "id" : 72,
+  "@name" : 75,
+  "id" : 74,
   "name" : "Zero Engineering",
   "years" : [ ],
   "description" : "",
@@ -729,8 +749,8 @@
   "idMotoplanete" : 80,
   "nameMotoplanete" : "zero-engineering"
 }, {
-  "@name" : 74,
-  "id" : 73,
+  "@name" : 76,
+  "id" : 75,
   "name" : "Zongshen",
   "years" : [ "2007", "2006", "2005", "2004" ],
   "description" : "",

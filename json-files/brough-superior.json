@@ -1,7 +1,7 @@
 [ {
-  "id" : 4494,
+  "id" : 5971,
   "idMotoplanete" : 3525,
-  "name" : "Superior SS100 ",
+  "name" : "Superior SS100",
   "urlMotoplanete" : "http://www.motoplanete.com/brough-superior/3525/SS100-1932/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/brough-superior/brough-superior-SS-100.jpg",
   "year" : "1932",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/brough-superior/brough-superior-SS-100.jpg" ],
-  "idManufacturer" : 22,
+  "idManufacturer" : 23,
   "rearAxle" : {
-    "id" : 4494,
+    "id" : 5971,
     "rearShock" : null,
     "rearBrake" : "1 tambour simple came ÃÂ 203 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4494,
+    "id" : 5971,
     "fork" : "fourche Castle à parallélogramme",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 tambour simple came ÃÂ 178 mm"
   },
   "engine" : {
-    "id" : 4494,
+    "id" : 5971,
     "gasSupply" : "par carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4494,
+    "id" : 5971,
     "gearboxSpeeds" : "4 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4494,
+    "id" : 5971,
     "dryWeight" : 200.0,
     "seatHeight" : null,
     "type" : "double berceau en acier",

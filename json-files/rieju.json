@@ -1,7 +1,7 @@
 [ {
-  "id" : 4899,
+  "id" : 6372,
   "idMotoplanete" : 3892,
-  "name" : "125 RS3 ",
+  "name" : "125 RS3",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/3892/125-RS3-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/rieju-125-RS3-2012.jpg",
   "year" : "2012",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 4099,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/rieju-125-RS3-2012.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4899,
+    "id" : 6372,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4899,
+    "id" : 6372,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étrier radial 2 pistons"
   },
   "engine" : {
-    "id" : 4899,
+    "id" : 6372,
     "gasSupply" : "1 carburateur Ø 30 mm",
     "torque" : 1.2,
     "torqueRpm" : 6000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4899,
+    "id" : 6372,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4899,
+    "id" : 6372,
     "dryWeight" : 128.0,
     "seatHeight" : 845.0,
     "type" : "Double poutre en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4900,
+  "id" : 6373,
   "idMotoplanete" : 3229,
-  "name" : "125 RS3 ",
+  "name" : "125 RS3",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/3229/125-RS3-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/rieju-125-RS3-2011.jpg",
   "year" : "2011",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 3999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/rieju-125-RS3-2011.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4900,
+    "id" : 6373,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4900,
+    "id" : 6373,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étrier radial 2 pistons"
   },
   "engine" : {
-    "id" : 4900,
+    "id" : 6373,
     "gasSupply" : "1 carburateur Ø 30 mm",
     "torque" : 1.2,
     "torqueRpm" : 6000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4900,
+    "id" : 6373,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4900,
+    "id" : 6373,
     "dryWeight" : 128.0,
     "seatHeight" : 845.0,
     "type" : "Double poutre en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4901,
+  "id" : 6374,
   "idMotoplanete" : 2453,
-  "name" : "RS2 ",
+  "name" : "RS2",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/2453/RS2-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/RS2-125-2010.jpg",
   "year" : "2010",
@@ -143,25 +143,25 @@
   "zeroToHundred" : 13.0,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/RS2-125-2010.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4901,
+    "id" : 6374,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4901,
+    "id" : 6374,
     "fork" : "Fourche inversée Showa Ø 35 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "2 disques Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4901,
+    "id" : 6374,
     "gasSupply" : "carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4901,
+    "id" : 6374,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4901,
+    "id" : 6374,
     "dryWeight" : 110.0,
     "seatHeight" : 800.0,
     "type" : "Double tube triangulaire en acier àdouble poutre",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4902,
+  "id" : 6375,
   "idMotoplanete" : 988,
-  "name" : "RS2 ",
+  "name" : "RS2",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/988/RS2-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/RS2-125-2009.jpg",
   "year" : "2009",
@@ -210,25 +210,25 @@
   "zeroToHundred" : 13.0,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/RS2-125-2009.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4902,
+    "id" : 6375,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4902,
+    "id" : 6375,
     "fork" : "Fourche inversée Showa Ø 35 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "2 disques Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4902,
+    "id" : 6375,
     "gasSupply" : "carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4902,
+    "id" : 6375,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4902,
+    "id" : 6375,
     "dryWeight" : 110.0,
     "seatHeight" : 800.0,
     "type" : "Double tube triangulaire en acier àdouble poutre",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4903,
+  "id" : 6376,
   "idMotoplanete" : 989,
-  "name" : "RS2 ",
+  "name" : "RS2",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/989/RS2-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/RS2-125-2008.jpg",
   "year" : "2008",
@@ -277,25 +277,25 @@
   "zeroToHundred" : 13.0,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/RS2-125-2008.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4903,
+    "id" : 6376,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4903,
+    "id" : 6376,
     "fork" : "Fourche inversée Showa Ø 35 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "2 disques Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4903,
+    "id" : 6376,
     "gasSupply" : "carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4903,
+    "id" : 6376,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4903,
+    "id" : 6376,
     "dryWeight" : 110.0,
     "seatHeight" : 800.0,
     "type" : "Double tube triangulaire en acier àdouble poutre",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4904,
+  "id" : 6377,
   "idMotoplanete" : 990,
-  "name" : "RS2 ",
+  "name" : "RS2",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/990/RS2-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/RS2-125-2007.jpg",
   "year" : "2007",
@@ -344,25 +344,25 @@
   "zeroToHundred" : 13.0,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/RS2-125-2007.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4904,
+    "id" : 6377,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4904,
+    "id" : 6377,
     "fork" : "Fourche inversée Showa Ø 35 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "2 disques Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4904,
+    "id" : 6377,
     "gasSupply" : "carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4904,
+    "id" : 6377,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4904,
+    "id" : 6377,
     "dryWeight" : 110.0,
     "seatHeight" : 800.0,
     "type" : "Double tube triangulaire en acier àdouble poutre",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4905,
+  "id" : 6378,
   "idMotoplanete" : 991,
-  "name" : "RS2 ",
+  "name" : "RS2",
   "urlMotoplanete" : "http://www.motoplanete.com/rieju/991/RS2-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rieju/RS2-125-2006.jpg",
   "year" : "2006",
@@ -411,25 +411,25 @@
   "zeroToHundred" : 13.0,
   "price" : 2999,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/rieju/RS2-125-2006.jpg" ],
-  "idManufacturer" : 60,
+  "idManufacturer" : 61,
   "rearAxle" : {
-    "id" : 4905,
+    "id" : 6378,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4905,
+    "id" : 6378,
     "fork" : "Fourche inversée Showa Ø 35 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "2 disques Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4905,
+    "id" : 6378,
     "gasSupply" : "carburateur",
     "torque" : null,
     "torqueRpm" : null,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4905,
+    "id" : 6378,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4905,
+    "id" : 6378,
     "dryWeight" : 110.0,
     "seatHeight" : 800.0,
     "type" : "Double tube triangulaire en acier àdouble poutre",

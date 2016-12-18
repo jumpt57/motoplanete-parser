@@ -1,7 +1,7 @@
 [ {
-  "id" : 4692,
+  "id" : 6167,
   "idMotoplanete" : 2387,
-  "name" : "VR6 ",
+  "name" : "VR6",
   "urlMotoplanete" : "http://www.motoplanete.com/horex/2387/VR6-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/horex/Horex-VR6-2011.jpg",
   "year" : "2012",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/horex/Horex-VR6-2011.jpg" ],
-  "idManufacturer" : 38,
+  "idManufacturer" : 39,
   "rearAxle" : {
-    "id" : 4692,
+    "id" : 6167,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4692,
+    "id" : 6167,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques pétales Ø nc, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4692,
+    "id" : 6167,
     "gasSupply" : "Injection + compresseur",
     "torque" : 13.7,
     "torqueRpm" : 7000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4692,
+    "id" : 6167,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4692,
+    "id" : 6167,
     "dryWeight" : 239.0,
     "seatHeight" : 820.0,
     "type" : "double poutre en alu",

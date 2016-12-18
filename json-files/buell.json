@@ -1,7 +1,7 @@
 [ {
-  "id" : 4495,
+  "id" : 5972,
   "idMotoplanete" : 1277,
-  "name" : "1125 CR ",
+  "name" : "1125 CR",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1277/1125-CR-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/1125-CR-2010.jpg",
   "year" : "2010",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/1125-CR-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4495,
+    "id" : 5972,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4495,
+    "id" : 5972,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4495,
+    "id" : 5972,
     "gasSupply" : "Injection",
     "torque" : 11.1,
     "torqueRpm" : 8000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4495,
+    "id" : 5972,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4495,
+    "id" : 5972,
     "dryWeight" : 170.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4496,
+  "id" : 5973,
   "idMotoplanete" : 1298,
-  "name" : "XB-12 Scg Lightning ",
+  "name" : "XB-12 Scg Lightning",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1298/XB-12-Scg-Lightning-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-Scg-2010.jpg",
   "year" : "2010",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-Scg-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4496,
+    "id" : 5973,
     "rearShock" : "Mono-amortisseur Showa, déb : 90 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4496,
+    "id" : 5973,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 41 mm, déb : 74 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4496,
+    "id" : 5973,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4496,
+    "id" : 5973,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4496,
+    "id" : 5973,
     "dryWeight" : 179.0,
     "seatHeight" : 726.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -133,9 +133,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4497,
+  "id" : 5974,
   "idMotoplanete" : 1275,
-  "name" : "XB-12 SX LIGHTNING City Cross ",
+  "name" : "XB-12 SX LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1275/XB-12-SX-LIGHTNING-City-Cross-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SX-2010.jpg",
   "year" : "2010",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SX-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4497,
+    "id" : 5974,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 129 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4497,
+    "id" : 5974,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4497,
+    "id" : 5974,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4497,
+    "id" : 5974,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4497,
+    "id" : 5974,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4498,
+  "id" : 5975,
   "idMotoplanete" : 1294,
-  "name" : "XB-12Ss LIGHTNING ",
+  "name" : "XB-12Ss LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1294/XB-12Ss-LIGHTNING-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SS-2010.jpg",
   "year" : "2010",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SS-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4498,
+    "id" : 5975,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4498,
+    "id" : 5975,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4498,
+    "id" : 5975,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4498,
+    "id" : 5975,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4498,
+    "id" : 5975,
     "dryWeight" : 181.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -267,9 +267,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4499,
+  "id" : 5976,
   "idMotoplanete" : 1304,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1304/XB-9S-X-LIGHTNING-City-Cross-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2010.jpg",
   "year" : "2010",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4499,
+    "id" : 5976,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4499,
+    "id" : 5976,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4499,
+    "id" : 5976,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4499,
+    "id" : 5976,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4499,
+    "id" : 5976,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -334,9 +334,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4500,
+  "id" : 5977,
   "idMotoplanete" : 1281,
-  "name" : "XB-12 XT Ulysses ",
+  "name" : "XB-12 XT Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1281/XB-12-XT-Ulysses-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2010.jpg",
   "year" : "2010",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4500,
+    "id" : 5977,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4500,
+    "id" : 5977,
     "fork" : "Fourche téléhydraulique inversée Ø 47 mm, déb : 125 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4500,
+    "id" : 5977,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4500,
+    "id" : 5977,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4500,
+    "id" : 5977,
     "dryWeight" : 211.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4501,
+  "id" : 5978,
   "idMotoplanete" : 1289,
-  "name" : "XB-12X Ulysses ",
+  "name" : "XB-12X Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1289/XB-12X-Ulysses-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12X-ulysses-2010.jpg",
   "year" : "2010",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12X-ulysses-2010.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4501,
+    "id" : 5978,
     "rearShock" : "Mono-amortisseur, déb : 162 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4501,
+    "id" : 5978,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4501,
+    "id" : 5978,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4501,
+    "id" : 5978,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4501,
+    "id" : 5978,
     "dryWeight" : 193.0,
     "seatHeight" : 841.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -468,9 +468,9 @@
     "movingWeight" : 232.0
   }
 }, {
-  "id" : 4502,
+  "id" : 5979,
   "idMotoplanete" : 819,
-  "name" : "1125 R ",
+  "name" : "1125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/819/1125-R-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/1125-R_2009.jpg",
   "year" : "2009",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/1125-R_2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4502,
+    "id" : 5979,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4502,
+    "id" : 5979,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4502,
+    "id" : 5979,
     "gasSupply" : "Injection",
     "torque" : 11.1,
     "torqueRpm" : 8000.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4502,
+    "id" : 5979,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4502,
+    "id" : 5979,
     "dryWeight" : 170.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4503,
+  "id" : 5980,
   "idMotoplanete" : 1276,
-  "name" : "1125 CR ",
+  "name" : "1125 CR",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1276/1125-CR-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/1125-CR-2009.jpg",
   "year" : "2009",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/1125-CR-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4503,
+    "id" : 5980,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4503,
+    "id" : 5980,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4503,
+    "id" : 5980,
     "gasSupply" : "Injection",
     "torque" : 11.1,
     "torqueRpm" : 8000.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4503,
+    "id" : 5980,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4503,
+    "id" : 5980,
     "dryWeight" : 170.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4504,
+  "id" : 5981,
   "idMotoplanete" : 1297,
-  "name" : "XB-12 Scg Lightning ",
+  "name" : "XB-12 Scg Lightning",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1297/XB-12-Scg-Lightning-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-Scg-2009.jpg",
   "year" : "2009",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-Scg-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4504,
+    "id" : 5981,
     "rearShock" : "Mono-amortisseur Showa, déb : 90 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4504,
+    "id" : 5981,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 41 mm, déb : 74 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4504,
+    "id" : 5981,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4504,
+    "id" : 5981,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4504,
+    "id" : 5981,
     "dryWeight" : 179.0,
     "seatHeight" : 726.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -669,9 +669,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4505,
+  "id" : 5982,
   "idMotoplanete" : 1293,
-  "name" : "XB-12Ss LIGHTNING ",
+  "name" : "XB-12Ss LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1293/XB-12Ss-LIGHTNING-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SS-2009.jpg",
   "year" : "2009",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SS-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4505,
+    "id" : 5982,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4505,
+    "id" : 5982,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4505,
+    "id" : 5982,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4505,
+    "id" : 5982,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4505,
+    "id" : 5982,
     "dryWeight" : 181.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -736,9 +736,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4506,
+  "id" : 5983,
   "idMotoplanete" : 1303,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1303/XB-9S-X-LIGHTNING-City-Cross-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2009.jpg",
   "year" : "2009",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4506,
+    "id" : 5983,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4506,
+    "id" : 5983,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4506,
+    "id" : 5983,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4506,
+    "id" : 5983,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4506,
+    "id" : 5983,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -803,9 +803,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4507,
+  "id" : 5984,
   "idMotoplanete" : 1280,
-  "name" : "XB-12 XT Ulysses ",
+  "name" : "XB-12 XT Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1280/XB-12-XT-Ulysses-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2009.jpg",
   "year" : "2009",
@@ -815,23 +815,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4507,
+    "id" : 5984,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4507,
+    "id" : 5984,
     "fork" : "Fourche téléhydraulique inversée Ø 47 mm, déb : 125 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4507,
+    "id" : 5984,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4507,
+    "id" : 5984,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4507,
+    "id" : 5984,
     "dryWeight" : 211.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4508,
+  "id" : 5985,
   "idMotoplanete" : 1288,
-  "name" : "XB-12X Ulysses ",
+  "name" : "XB-12X Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1288/XB-12X-Ulysses-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12X-ulysses-2009.jpg",
   "year" : "2009",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12X-ulysses-2009.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4508,
+    "id" : 5985,
     "rearShock" : "Mono-amortisseur, déb : 162 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4508,
+    "id" : 5985,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4508,
+    "id" : 5985,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4508,
+    "id" : 5985,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4508,
+    "id" : 5985,
     "dryWeight" : 193.0,
     "seatHeight" : 841.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -937,9 +937,9 @@
     "movingWeight" : 232.0
   }
 }, {
-  "id" : 4509,
+  "id" : 5986,
   "idMotoplanete" : 818,
-  "name" : "1125 R ",
+  "name" : "1125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/818/1125-R-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/1125-R_2008.jpg",
   "year" : "2008",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/1125-R_2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4509,
+    "id" : 5986,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4509,
+    "id" : 5986,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4509,
+    "id" : 5986,
     "gasSupply" : "Injection",
     "torque" : 11.1,
     "torqueRpm" : 8000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4509,
+    "id" : 5986,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4509,
+    "id" : 5986,
     "dryWeight" : 170.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4510,
+  "id" : 5987,
   "idMotoplanete" : 1313,
-  "name" : "XB-12 S LIGHTNING ",
+  "name" : "XB-12 S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1313/XB-12-S-LIGHTNING-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-S-2008.jpg",
   "year" : "2008",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-S-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4510,
+    "id" : 5987,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4510,
+    "id" : 5987,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4510,
+    "id" : 5987,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4510,
+    "id" : 5987,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4510,
+    "id" : 5987,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1071,9 +1071,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4511,
+  "id" : 5988,
   "idMotoplanete" : 1296,
-  "name" : "XB-12 Scg Lightning ",
+  "name" : "XB-12 Scg Lightning",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1296/XB-12-Scg-Lightning-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-Scg-2008.jpg",
   "year" : "2008",
@@ -1083,23 +1083,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-Scg-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4511,
+    "id" : 5988,
     "rearShock" : "Mono-amortisseur Showa, déb : 90 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4511,
+    "id" : 5988,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 41 mm, déb : 74 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4511,
+    "id" : 5988,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4511,
+    "id" : 5988,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4511,
+    "id" : 5988,
     "dryWeight" : 179.0,
     "seatHeight" : 726.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1138,9 +1138,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4512,
+  "id" : 5989,
   "idMotoplanete" : 1307,
-  "name" : "XB-12 STT Lightning Super TT ",
+  "name" : "XB-12 STT Lightning Super TT",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1307/XB-12-STT-Lightning-Super-TT-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-STT-2008.jpg",
   "year" : "2008",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-STT-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4512,
+    "id" : 5989,
     "rearShock" : "Mono-amortisseur Showa, déb : 143 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4512,
+    "id" : 5989,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 143 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4512,
+    "id" : 5989,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4512,
+    "id" : 5989,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4512,
+    "id" : 5989,
     "dryWeight" : 179.0,
     "seatHeight" : 798.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1205,9 +1205,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4513,
+  "id" : 5990,
   "idMotoplanete" : 1292,
-  "name" : "XB-12Ss LIGHTNING ",
+  "name" : "XB-12Ss LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1292/XB-12Ss-LIGHTNING-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SS-2008.jpg",
   "year" : "2008",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SS-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4513,
+    "id" : 5990,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4513,
+    "id" : 5990,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4513,
+    "id" : 5990,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4513,
+    "id" : 5990,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4513,
+    "id" : 5990,
     "dryWeight" : 181.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1272,9 +1272,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4514,
+  "id" : 5991,
   "idMotoplanete" : 1302,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1302/XB-9S-X-LIGHTNING-City-Cross-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2008.jpg",
   "year" : "2008",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4514,
+    "id" : 5991,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4514,
+    "id" : 5991,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4514,
+    "id" : 5991,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4514,
+    "id" : 5991,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4514,
+    "id" : 5991,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -1339,9 +1339,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4515,
+  "id" : 5992,
   "idMotoplanete" : 1279,
-  "name" : "XB-12 XT Ulysses ",
+  "name" : "XB-12 XT Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1279/XB-12-XT-Ulysses-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2008.jpg",
   "year" : "2008",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-XT-ulysses-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4515,
+    "id" : 5992,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4515,
+    "id" : 5992,
     "fork" : "Fourche téléhydraulique inversée Ø 47 mm, déb : 125 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4515,
+    "id" : 5992,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4515,
+    "id" : 5992,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4515,
+    "id" : 5992,
     "dryWeight" : 211.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4516,
+  "id" : 5993,
   "idMotoplanete" : 1287,
-  "name" : "XB-12X Ulysses ",
+  "name" : "XB-12X Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1287/XB-12X-Ulysses-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12X-ulysses-2008.jpg",
   "year" : "2008",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12X-ulysses-2008.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4516,
+    "id" : 5993,
     "rearShock" : "Mono-amortisseur, déb : 162 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4516,
+    "id" : 5993,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 47 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4516,
+    "id" : 5993,
     "gasSupply" : "Injection",
     "torque" : 10.4,
     "torqueRpm" : 5500.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4516,
+    "id" : 5993,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4516,
+    "id" : 5993,
     "dryWeight" : 193.0,
     "seatHeight" : 841.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1473,9 +1473,9 @@
     "movingWeight" : 232.0
   }
 }, {
-  "id" : 4517,
+  "id" : 5994,
   "idMotoplanete" : 1311,
-  "name" : "XB-12 R Firebolt ",
+  "name" : "XB-12 R Firebolt",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1311/XB-12-R-Firebolt-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-R-2007.jpg",
   "year" : "2007",
@@ -1485,23 +1485,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-R-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4517,
+    "id" : 5994,
     "rearShock" : "Monoamortisseur Showa, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4517,
+    "id" : 5994,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4517,
+    "id" : 5994,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4517,
+    "id" : 5994,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4517,
+    "id" : 5994,
     "dryWeight" : 179.0,
     "seatHeight" : 775.0,
     "type" : "périmetrique en aluminium",
@@ -1540,9 +1540,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4518,
+  "id" : 5995,
   "idMotoplanete" : 1329,
-  "name" : "XBRR ",
+  "name" : "XBRR",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1329/XBRR-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XBRR-2007.jpg",
   "year" : "2007",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XBRR-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4518,
+    "id" : 5995,
     "rearShock" : "Mono-amortisseur Öhlins",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4518,
+    "id" : 5995,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4518,
+    "id" : 5995,
     "gasSupply" : "Injection Ø 62 mm",
     "torque" : 13.5,
     "torqueRpm" : 6500.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4518,
+    "id" : 5995,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4518,
+    "id" : 5995,
     "dryWeight" : null,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4519,
+  "id" : 5996,
   "idMotoplanete" : 1316,
-  "name" : "XB-12 S LIGHTNING ",
+  "name" : "XB-12 S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1316/XB-12-S-LIGHTNING-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-S-2007.jpg",
   "year" : "2007",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-S-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4519,
+    "id" : 5996,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4519,
+    "id" : 5996,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4519,
+    "id" : 5996,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4519,
+    "id" : 5996,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4519,
+    "id" : 5996,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1674,9 +1674,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4520,
+  "id" : 5997,
   "idMotoplanete" : 1295,
-  "name" : "XB-12 Scg Lightning ",
+  "name" : "XB-12 Scg Lightning",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1295/XB-12-Scg-Lightning-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-Scg-2007.jpg",
   "year" : "2007",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-Scg-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4520,
+    "id" : 5997,
     "rearShock" : "Mono-amortisseur Showa, déb : 90 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4520,
+    "id" : 5997,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 74 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4520,
+    "id" : 5997,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4520,
+    "id" : 5997,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4520,
+    "id" : 5997,
     "dryWeight" : 179.0,
     "seatHeight" : 726.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1741,9 +1741,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4521,
+  "id" : 5998,
   "idMotoplanete" : 1291,
-  "name" : "XB-12Ss LIGHTNING ",
+  "name" : "XB-12Ss LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1291/XB-12Ss-LIGHTNING-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SS-2007.jpg",
   "year" : "2007",
@@ -1753,23 +1753,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SS-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4521,
+    "id" : 5998,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4521,
+    "id" : 5998,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4521,
+    "id" : 5998,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4521,
+    "id" : 5998,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4521,
+    "id" : 5998,
     "dryWeight" : 181.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1808,9 +1808,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4522,
+  "id" : 5999,
   "idMotoplanete" : 1301,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1301/XB-9S-X-LIGHTNING-City-Cross-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2007.jpg",
   "year" : "2007",
@@ -1820,23 +1820,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4522,
+    "id" : 5999,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4522,
+    "id" : 5999,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4522,
+    "id" : 5999,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4522,
+    "id" : 5999,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4522,
+    "id" : 5999,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -1875,9 +1875,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4523,
+  "id" : 6000,
   "idMotoplanete" : 1286,
-  "name" : "XB-12X Ulysses ",
+  "name" : "XB-12X Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1286/XB-12X-Ulysses-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12X-ulysses-2007.jpg",
   "year" : "2007",
@@ -1887,23 +1887,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12X-ulysses-2007.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4523,
+    "id" : 6000,
     "rearShock" : "Mono-amortisseur, déb : 162 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4523,
+    "id" : 6000,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4523,
+    "id" : 6000,
     "gasSupply" : "Injection",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4523,
+    "id" : 6000,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4523,
+    "id" : 6000,
     "dryWeight" : 193.0,
     "seatHeight" : 841.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -1942,9 +1942,9 @@
     "movingWeight" : 232.0
   }
 }, {
-  "id" : 4524,
+  "id" : 6001,
   "idMotoplanete" : 1310,
-  "name" : "XB-12 R Firebolt ",
+  "name" : "XB-12 R Firebolt",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1310/XB-12-R-Firebolt-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-R-2006.jpg",
   "year" : "2006",
@@ -1954,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-R-2006.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4524,
+    "id" : 6001,
     "rearShock" : "Monoamortisseur Showa, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4524,
+    "id" : 6001,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4524,
+    "id" : 6001,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4524,
+    "id" : 6001,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4524,
+    "id" : 6001,
     "dryWeight" : 179.0,
     "seatHeight" : 775.0,
     "type" : "périmetrique en aluminium",
@@ -2009,9 +2009,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4525,
+  "id" : 6002,
   "idMotoplanete" : 1314,
-  "name" : "XB-12 S LIGHTNING ",
+  "name" : "XB-12 S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1314/XB-12-S-LIGHTNING-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-S-2006.jpg",
   "year" : "2006",
@@ -2021,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-S-2006.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4525,
+    "id" : 6002,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4525,
+    "id" : 6002,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4525,
+    "id" : 6002,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4525,
+    "id" : 6002,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4525,
+    "id" : 6002,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -2076,9 +2076,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4526,
+  "id" : 6003,
   "idMotoplanete" : 1290,
-  "name" : "XB-12Ss LIGHTNING ",
+  "name" : "XB-12Ss LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1290/XB-12Ss-LIGHTNING-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-SS-2006.jpg",
   "year" : "2006",
@@ -2088,23 +2088,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-SS-2006.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4526,
+    "id" : 6003,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4526,
+    "id" : 6003,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4526,
+    "id" : 6003,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4526,
+    "id" : 6003,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4526,
+    "id" : 6003,
     "dryWeight" : 181.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -2143,9 +2143,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4527,
+  "id" : 6004,
   "idMotoplanete" : 1300,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1300/XB-9S-X-LIGHTNING-City-Cross-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2006.jpg",
   "year" : "2006",
@@ -2155,23 +2155,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2006.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4527,
+    "id" : 6004,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4527,
+    "id" : 6004,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4527,
+    "id" : 6004,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4527,
+    "id" : 6004,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4527,
+    "id" : 6004,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2210,9 +2210,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4528,
+  "id" : 6005,
   "idMotoplanete" : 1285,
-  "name" : "XB-12X Ulysses ",
+  "name" : "XB-12X Ulysses",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1285/XB-12X-Ulysses-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12X-ulysses-2006.jpg",
   "year" : "2006",
@@ -2222,23 +2222,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12X-ulysses-2006.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4528,
+    "id" : 6005,
     "rearShock" : "Mono-amortisseur, déb : 162 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4528,
+    "id" : 6005,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4528,
+    "id" : 6005,
     "gasSupply" : "Injection",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2257,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4528,
+    "id" : 6005,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2265,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4528,
+    "id" : 6005,
     "dryWeight" : 193.0,
     "seatHeight" : 841.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -2277,9 +2277,9 @@
     "movingWeight" : 232.0
   }
 }, {
-  "id" : 4529,
+  "id" : 6006,
   "idMotoplanete" : 1309,
-  "name" : "XB-12 R Firebolt ",
+  "name" : "XB-12 R Firebolt",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1309/XB-12-R-Firebolt-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-R-2005.jpg",
   "year" : "2005",
@@ -2289,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-R-2005.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4529,
+    "id" : 6006,
     "rearShock" : "Monoamortisseur Showa, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4529,
+    "id" : 6006,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4529,
+    "id" : 6006,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2324,7 +2324,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4529,
+    "id" : 6006,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2332,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4529,
+    "id" : 6006,
     "dryWeight" : 179.0,
     "seatHeight" : 775.0,
     "type" : "périmetrique en aluminium",
@@ -2344,9 +2344,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4530,
+  "id" : 6007,
   "idMotoplanete" : 1315,
-  "name" : "XB-12 S LIGHTNING ",
+  "name" : "XB-12 S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1315/XB-12-S-LIGHTNING-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-S-2005.jpg",
   "year" : "2005",
@@ -2356,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-S-2005.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4530,
+    "id" : 6007,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4530,
+    "id" : 6007,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4530,
+    "id" : 6007,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2391,7 +2391,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4530,
+    "id" : 6007,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2399,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4530,
+    "id" : 6007,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -2411,9 +2411,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4531,
+  "id" : 6008,
   "idMotoplanete" : 540,
-  "name" : "XB-9S X LIGHTNING City Cross ",
+  "name" : "XB-9S X LIGHTNING City Cross",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/540/XB-9S-X-LIGHTNING-City-Cross-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9SX-2005.jpg",
   "year" : "2005",
@@ -2423,23 +2423,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9SX-2005.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4531,
+    "id" : 6008,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4531,
+    "id" : 6008,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4531,
+    "id" : 6008,
     "gasSupply" : "Injection",
     "torque" : 8.7,
     "torqueRpm" : 5600.0,
@@ -2458,7 +2458,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4531,
+    "id" : 6008,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2466,7 +2466,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4531,
+    "id" : 6008,
     "dryWeight" : 175.0,
     "seatHeight" : 785.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2478,9 +2478,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4532,
+  "id" : 6009,
   "idMotoplanete" : 543,
-  "name" : "XB-12 R Firebolt ",
+  "name" : "XB-12 R Firebolt",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/543/XB-12-R-Firebolt-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-R-2004.jpg",
   "year" : "2004",
@@ -2490,23 +2490,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-R-2004.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4532,
+    "id" : 6009,
     "rearShock" : "Monoamortisseur Showa, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4532,
+    "id" : 6009,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4532,
+    "id" : 6009,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2525,7 +2525,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4532,
+    "id" : 6009,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2533,7 +2533,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4532,
+    "id" : 6009,
     "dryWeight" : 179.0,
     "seatHeight" : 775.0,
     "type" : "périmetrique en aluminium",
@@ -2545,9 +2545,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4533,
+  "id" : 6010,
   "idMotoplanete" : 1318,
-  "name" : "XB-9R FIREBOLT ",
+  "name" : "XB-9R FIREBOLT",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1318/XB-9R-FIREBOLT-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-R-2004.jpg",
   "year" : "2004",
@@ -2557,23 +2557,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-R-2004.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4533,
+    "id" : 6010,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4533,
+    "id" : 6010,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4533,
+    "id" : 6010,
     "gasSupply" : "Injection",
     "torque" : 9.3,
     "torqueRpm" : 5500.0,
@@ -2592,7 +2592,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4533,
+    "id" : 6010,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2600,7 +2600,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4533,
+    "id" : 6010,
     "dryWeight" : 175.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2612,9 +2612,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4534,
+  "id" : 6011,
   "idMotoplanete" : 1312,
-  "name" : "XB-12 S LIGHTNING ",
+  "name" : "XB-12 S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1312/XB-12-S-LIGHTNING-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-12-S-2004.jpg",
   "year" : "2004",
@@ -2624,23 +2624,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-12-S-2004.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4534,
+    "id" : 6011,
     "rearShock" : "Mono-amortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4534,
+    "id" : 6011,
     "fork" : "Fourche téléhydraulique inversée Showa Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4534,
+    "id" : 6011,
     "gasSupply" : "Injection Ø 49 mm",
     "torque" : 11.0,
     "torqueRpm" : 6000.0,
@@ -2659,7 +2659,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4534,
+    "id" : 6011,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2667,7 +2667,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4534,
+    "id" : 6011,
     "dryWeight" : 179.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en aluminium, contenant le carburant",
@@ -2679,9 +2679,9 @@
     "movingWeight" : 209.0
   }
 }, {
-  "id" : 4535,
+  "id" : 6012,
   "idMotoplanete" : 1320,
-  "name" : "XB-9S LIGHTNING ",
+  "name" : "XB-9S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1320/XB-9S-LIGHTNING-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-S-2004.jpg",
   "year" : "2004",
@@ -2691,23 +2691,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-S-2004.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4535,
+    "id" : 6012,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180/ 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4535,
+    "id" : 6012,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4535,
+    "id" : 6012,
     "gasSupply" : "injection",
     "torque" : 8.5,
     "torqueRpm" : 5600.0,
@@ -2726,7 +2726,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4535,
+    "id" : 6012,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2734,7 +2734,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4535,
+    "id" : 6012,
     "dryWeight" : 175.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2746,9 +2746,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4536,
+  "id" : 6013,
   "idMotoplanete" : 1317,
-  "name" : "XB-9R FIREBOLT ",
+  "name" : "XB-9R FIREBOLT",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1317/XB-9R-FIREBOLT-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-R-2003.jpg",
   "year" : "2003",
@@ -2758,23 +2758,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-R-2003.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4536,
+    "id" : 6013,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4536,
+    "id" : 6013,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4536,
+    "id" : 6013,
     "gasSupply" : "Injection",
     "torque" : 9.3,
     "torqueRpm" : 5500.0,
@@ -2793,7 +2793,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4536,
+    "id" : 6013,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2801,7 +2801,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4536,
+    "id" : 6013,
     "dryWeight" : 175.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2813,9 +2813,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4537,
+  "id" : 6014,
   "idMotoplanete" : 1319,
-  "name" : "XB-9S LIGHTNING ",
+  "name" : "XB-9S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1319/XB-9S-LIGHTNING-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-S-2003.jpg",
   "year" : "2003",
@@ -2825,23 +2825,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-S-2003.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4537,
+    "id" : 6014,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180/ 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4537,
+    "id" : 6014,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4537,
+    "id" : 6014,
     "gasSupply" : "injection",
     "torque" : 8.5,
     "torqueRpm" : 5600.0,
@@ -2860,7 +2860,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4537,
+    "id" : 6014,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2868,7 +2868,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4537,
+    "id" : 6014,
     "dryWeight" : 175.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2880,9 +2880,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4538,
+  "id" : 6015,
   "idMotoplanete" : 541,
-  "name" : "XB-9R FIREBOLT ",
+  "name" : "XB-9R FIREBOLT",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/541/XB-9R-FIREBOLT-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-R-2002.jpg",
   "year" : "2002",
@@ -2892,23 +2892,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-R-2002.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4538,
+    "id" : 6015,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4538,
+    "id" : 6015,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4538,
+    "id" : 6015,
     "gasSupply" : "Injection",
     "torque" : 9.3,
     "torqueRpm" : 5500.0,
@@ -2927,7 +2927,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4538,
+    "id" : 6015,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -2935,7 +2935,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4538,
+    "id" : 6015,
     "dryWeight" : 175.0,
     "seatHeight" : 775.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -2947,9 +2947,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4539,
+  "id" : 6016,
   "idMotoplanete" : 1327,
-  "name" : "X1 1200 LIGHTNING ",
+  "name" : "X1 1200 LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1327/X1-1200-LIGHTNING-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/X1-1200-lightning-2002.jpg",
   "year" : "2002",
@@ -2959,23 +2959,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/X1-1200-lightning-2002.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4539,
+    "id" : 6016,
     "rearShock" : "Monoamortisseur, déb : 117 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4539,
+    "id" : 6016,
     "fork" : "Fourche téléhydraulique Ø 41mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4539,
+    "id" : 6016,
     "gasSupply" : "Injection électronique",
     "torque" : 11.0,
     "torqueRpm" : 6500.0,
@@ -2994,7 +2994,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4539,
+    "id" : 6016,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3002,7 +3002,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4539,
+    "id" : 6016,
     "dryWeight" : 200.0,
     "seatHeight" : 820.0,
     "type" : "structure en tubes d'acier",
@@ -3014,9 +3014,9 @@
     "movingWeight" : 221.0
   }
 }, {
-  "id" : 4540,
+  "id" : 6017,
   "idMotoplanete" : 539,
-  "name" : "XB-9S LIGHTNING ",
+  "name" : "XB-9S LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/539/XB-9S-LIGHTNING-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/XB-9-S-2002.jpg",
   "year" : "2002",
@@ -3026,23 +3026,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/XB-9-S-2002.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4540,
+    "id" : 6017,
     "rearShock" : "Monoamortisseur, déb : 127 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "180/ 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4540,
+    "id" : 6017,
     "fork" : "Fourche téléhydraulique inversée , déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 375 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4540,
+    "id" : 6017,
     "gasSupply" : "injection",
     "torque" : 8.5,
     "torqueRpm" : 5600.0,
@@ -3061,7 +3061,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4540,
+    "id" : 6017,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3069,7 +3069,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4540,
+    "id" : 6017,
     "dryWeight" : 175.0,
     "seatHeight" : 765.0,
     "type" : "périmétrique en alu contenant le carburant",
@@ -3081,9 +3081,9 @@
     "movingWeight" : 204.0
   }
 }, {
-  "id" : 4541,
+  "id" : 6018,
   "idMotoplanete" : 1324,
-  "name" : "M2 1200 Cyclone ",
+  "name" : "M2 1200 Cyclone",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1324/M2-1200-Cyclone-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/M2-1200-Cyclone-2001.jpg",
   "year" : "2001",
@@ -3093,23 +3093,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/M2-1200-Cyclone-2001.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4541,
+    "id" : 6018,
     "rearShock" : "Monoamortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4541,
+    "id" : 6018,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4541,
+    "id" : 6018,
     "gasSupply" : "1 carburateur Ø 40 mm",
     "torque" : 10.5,
     "torqueRpm" : 5400.0,
@@ -3128,7 +3128,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4541,
+    "id" : 6018,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3136,7 +3136,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4541,
+    "id" : 6018,
     "dryWeight" : 193.0,
     "seatHeight" : 797.0,
     "type" : "structure en tubes d'acier",
@@ -3148,9 +3148,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4542,
+  "id" : 6019,
   "idMotoplanete" : 1326,
-  "name" : "X1 1200 LIGHTNING ",
+  "name" : "X1 1200 LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1326/X1-1200-LIGHTNING-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/X1-1200-lightning-2001.jpg",
   "year" : "2001",
@@ -3160,23 +3160,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/X1-1200-lightning-2001.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4542,
+    "id" : 6019,
     "rearShock" : "Monoamortisseur, déb : 117 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4542,
+    "id" : 6019,
     "fork" : "Fourche téléhydraulique Ø 41mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4542,
+    "id" : 6019,
     "gasSupply" : "Injection électronique",
     "torque" : 11.0,
     "torqueRpm" : 6500.0,
@@ -3195,7 +3195,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4542,
+    "id" : 6019,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3203,7 +3203,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4542,
+    "id" : 6019,
     "dryWeight" : 200.0,
     "seatHeight" : 820.0,
     "type" : "structure en tubes d'acier",
@@ -3215,9 +3215,9 @@
     "movingWeight" : 221.0
   }
 }, {
-  "id" : 4543,
+  "id" : 6020,
   "idMotoplanete" : 1323,
-  "name" : "M2 1200 Cyclone ",
+  "name" : "M2 1200 Cyclone",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1323/M2-1200-Cyclone-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/M2-1200-Cyclone-2000.jpg",
   "year" : "2000",
@@ -3227,23 +3227,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/M2-1200-Cyclone-2000.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4543,
+    "id" : 6020,
     "rearShock" : "Monoamortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4543,
+    "id" : 6020,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4543,
+    "id" : 6020,
     "gasSupply" : "1 carburateur Ø 40 mm",
     "torque" : 10.5,
     "torqueRpm" : 5400.0,
@@ -3262,7 +3262,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4543,
+    "id" : 6020,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3270,7 +3270,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4543,
+    "id" : 6020,
     "dryWeight" : 193.0,
     "seatHeight" : 797.0,
     "type" : "structure en tubes d'acier",
@@ -3282,9 +3282,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4544,
+  "id" : 6021,
   "idMotoplanete" : 537,
-  "name" : "X1 1200 LIGHTNING ",
+  "name" : "X1 1200 LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/537/X1-1200-LIGHTNING-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/X1-1200-lightning-2000.jpg",
   "year" : "2000",
@@ -3294,23 +3294,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/X1-1200-lightning-2000.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4544,
+    "id" : 6021,
     "rearShock" : "Monoamortisseur, déb : 117 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4544,
+    "id" : 6021,
     "fork" : "Fourche téléhydraulique Ø 41mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4544,
+    "id" : 6021,
     "gasSupply" : "Injection électronique",
     "torque" : 11.0,
     "torqueRpm" : 6500.0,
@@ -3329,7 +3329,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4544,
+    "id" : 6021,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3337,7 +3337,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4544,
+    "id" : 6021,
     "dryWeight" : 200.0,
     "seatHeight" : 820.0,
     "type" : "structure en tubes d'acier",
@@ -3349,9 +3349,9 @@
     "movingWeight" : 221.0
   }
 }, {
-  "id" : 4545,
+  "id" : 6022,
   "idMotoplanete" : 1322,
-  "name" : "M2 1200 Cyclone ",
+  "name" : "M2 1200 Cyclone",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1322/M2-1200-Cyclone-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/M2-1200-Cyclone-1999.jpg",
   "year" : "1999",
@@ -3361,23 +3361,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/M2-1200-Cyclone-1999.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4545,
+    "id" : 6022,
     "rearShock" : "Monoamortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4545,
+    "id" : 6022,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4545,
+    "id" : 6022,
     "gasSupply" : "1 carburateur Ø 40 mm",
     "torque" : 10.5,
     "torqueRpm" : 5400.0,
@@ -3396,7 +3396,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4545,
+    "id" : 6022,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3404,7 +3404,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4545,
+    "id" : 6022,
     "dryWeight" : 193.0,
     "seatHeight" : 797.0,
     "type" : "structure en tubes d'acier",
@@ -3416,9 +3416,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4546,
+  "id" : 6023,
   "idMotoplanete" : 1325,
-  "name" : "X1 1200 LIGHTNING ",
+  "name" : "X1 1200 LIGHTNING",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1325/X1-1200-LIGHTNING-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/X1-1200-lightning-1999.jpg",
   "year" : "1999",
@@ -3428,23 +3428,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/X1-1200-lightning-1999.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4546,
+    "id" : 6023,
     "rearShock" : "Monoamortisseur, déb : 117 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4546,
+    "id" : 6023,
     "fork" : "Fourche téléhydraulique Ø 41mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4546,
+    "id" : 6023,
     "gasSupply" : "Injection électronique",
     "torque" : 11.0,
     "torqueRpm" : 6500.0,
@@ -3463,7 +3463,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4546,
+    "id" : 6023,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3471,7 +3471,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4546,
+    "id" : 6023,
     "dryWeight" : 200.0,
     "seatHeight" : 820.0,
     "type" : "structure en tubes d'acier",
@@ -3483,9 +3483,9 @@
     "movingWeight" : 221.0
   }
 }, {
-  "id" : 4547,
+  "id" : 6024,
   "idMotoplanete" : 1321,
-  "name" : "M2 1200 Cyclone ",
+  "name" : "M2 1200 Cyclone",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/1321/M2-1200-Cyclone-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/M2-1200-Cyclone-1998.jpg",
   "year" : "1998",
@@ -3495,23 +3495,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/M2-1200-Cyclone-1998.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4547,
+    "id" : 6024,
     "rearShock" : "Monoamortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4547,
+    "id" : 6024,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4547,
+    "id" : 6024,
     "gasSupply" : "1 carburateur Ø 40 mm",
     "torque" : 10.5,
     "torqueRpm" : 5400.0,
@@ -3530,7 +3530,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4547,
+    "id" : 6024,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3538,7 +3538,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4547,
+    "id" : 6024,
     "dryWeight" : 193.0,
     "seatHeight" : 797.0,
     "type" : "structure en tubes d'acier",
@@ -3550,9 +3550,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4548,
+  "id" : 6025,
   "idMotoplanete" : 538,
-  "name" : "M2 1200 Cyclone ",
+  "name" : "M2 1200 Cyclone",
   "urlMotoplanete" : "http://www.motoplanete.com/buell/538/M2-1200-Cyclone-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/buell/M2-1200-Cyclone-1997.jpg",
   "year" : "1997",
@@ -3562,23 +3562,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/buell/M2-1200-Cyclone-1997.jpg" ],
-  "idManufacturer" : 23,
+  "idManufacturer" : 24,
   "rearAxle" : {
-    "id" : 4548,
+    "id" : 6025,
     "rearShock" : "Monoamortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 1 piston",
     "rearWheel" : "170 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4548,
+    "id" : 6025,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque flottant Ø 340 mm, étrier 6 pistons"
   },
   "engine" : {
-    "id" : 4548,
+    "id" : 6025,
     "gasSupply" : "1 carburateur Ø 40 mm",
     "torque" : 10.5,
     "torqueRpm" : 5400.0,
@@ -3597,7 +3597,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4548,
+    "id" : 6025,
     "gearboxSpeeds" : "5 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -3605,7 +3605,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4548,
+    "id" : 6025,
     "dryWeight" : 193.0,
     "seatHeight" : 797.0,
     "type" : "structure en tubes d'acier",

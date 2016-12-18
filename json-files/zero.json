@@ -1,7 +1,409 @@
 [ {
-  "id" : 4989,
+  "id" : 6463,
+  "idMotoplanete" : 6422,
+  "name" : "S",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6422/S-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-S-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 139,
+  "zeroToHundred" : null,
+  "price" : 12590,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-S-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6463,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6463,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6463,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4400.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.23,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6463,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6463,
+    "dryWeight" : 142.0,
+    "seatHeight" : 807.0,
+    "type" : "double poutre périmetrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6464,
+  "idMotoplanete" : 6423,
+  "name" : "SR",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6423/SR-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-SR-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 164,
+  "zeroToHundred" : null,
+  "price" : 18440,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-SR-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6464,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : null,
+    "rearWheel" : "140 / 70 - 47\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6464,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : null
+  },
+  "engine" : {
+    "id" : 6464,
+    "gasSupply" : null,
+    "torque" : 14.9,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 69.0,
+    "powerRpm" : 3850.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.72,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6464,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6464,
+    "dryWeight" : 188.0,
+    "seatHeight" : null,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6465,
+  "idMotoplanete" : 6424,
+  "name" : "DS",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6424/DS-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DS-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 139,
+  "zeroToHundred" : null,
+  "price" : 12590,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DS-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6465,
+    "rearShock" : "Mono-amortisseur, déb : 179 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "130 / 80 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6465,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "100 / 90 - 19\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6465,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4400.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.27,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6465,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6465,
+    "dryWeight" : 144.0,
+    "seatHeight" : 843.0,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1427,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6466,
+  "idMotoplanete" : 6425,
+  "name" : "DSR",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6425/DSR-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DSR-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 158,
+  "zeroToHundred" : null,
+  "price" : 18440,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DSR-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6466,
+    "rearShock" : "Mono-amortisseur, déb : 179 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "130 / 80 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6466,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "100 / 90 - 19\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6466,
+    "gasSupply" : null,
+    "torque" : 14.9,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 69.0,
+    "powerRpm" : 3850.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.75,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6466,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6466,
+    "dryWeight" : 190.0,
+    "seatHeight" : 843.0,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1427,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6467,
+  "idMotoplanete" : 6426,
+  "name" : "FX",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6426/FX-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FX-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 137,
+  "zeroToHundred" : null,
+  "price" : 12290,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FX-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6467,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "120 / 80 - 18\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6467,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 218 mm",
+    "frontShock" : null,
+    "frontWheel" : "90 / 90 - 21\"",
+    "frontBrake" : "1 disque Ø 240 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6467,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4500.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.98,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6467,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6467,
+    "dryWeight" : 131.0,
+    "seatHeight" : 881.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1438,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6468,
+  "idMotoplanete" : 6427,
+  "name" : "FXS",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6427/FXS-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FXS-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 132,
+  "zeroToHundred" : null,
+  "price" : 12290,
+  "priceABS" : null,
+  "categoryId" : 31,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FXS-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6468,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6468,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6468,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4500.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.02,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6468,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6468,
+    "dryWeight" : 133.0,
+    "seatHeight" : 836.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1422,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6469,
   "idMotoplanete" : 5996,
-  "name" : "DSR 10ème anniversaire ",
+  "name" : "DSR 10ème anniversaire",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/5996/DSR-10eme-anniversaire-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DSR-2016-10th.jpg",
   "year" : "2016",
@@ -9,25 +411,25 @@
   "zeroToHundred" : 3.9,
   "price" : 21140,
   "priceABS" : null,
-  "categoryId" : 8,
+  "categoryId" : 26,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DSR-2016-10th.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4989,
+    "id" : 6469,
     "rearShock" : "Monoamortisseur, déb : 179 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4989,
+    "id" : 6469,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4989,
+    "id" : 6469,
     "gasSupply" : null,
     "torque" : 14.7,
     "torqueRpm" : null,
@@ -46,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4989,
+    "id" : 6469,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -54,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4989,
+    "id" : 6469,
     "dryWeight" : 190.0,
     "seatHeight" : 843.0,
     "type" : "double longeron en aluminium",
@@ -66,9 +468,478 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4990,
+  "id" : 6470,
+  "idMotoplanete" : 6422,
+  "name" : "S",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6422/S-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-S-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 139,
+  "zeroToHundred" : null,
+  "price" : 12590,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-S-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6470,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6470,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6470,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4400.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.23,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6470,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6470,
+    "dryWeight" : 142.0,
+    "seatHeight" : 807.0,
+    "type" : "double poutre périmetrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6471,
+  "idMotoplanete" : 6423,
+  "name" : "SR",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6423/SR-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-SR-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 164,
+  "zeroToHundred" : null,
+  "price" : 18440,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-SR-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6471,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : null,
+    "rearWheel" : "140 / 70 - 47\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6471,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : null
+  },
+  "engine" : {
+    "id" : 6471,
+    "gasSupply" : null,
+    "torque" : 14.9,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 69.0,
+    "powerRpm" : 3850.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.72,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6471,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6471,
+    "dryWeight" : 188.0,
+    "seatHeight" : null,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6472,
+  "idMotoplanete" : 6418,
+  "name" : "S",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6418/S-2016/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-S-2016.jpg",
+  "year" : "2016",
+  "maxSpeed" : 164,
+  "zeroToHundred" : 4.8,
+  "price" : 12600,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-S-2016.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6472,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6472,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6472,
+    "gasSupply" : null,
+    "torque" : 9.4,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 54.0,
+    "powerRpm" : 4300.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.17,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6472,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6472,
+    "dryWeight" : 171.0,
+    "seatHeight" : 807.0,
+    "type" : "double longeron en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6473,
+  "idMotoplanete" : 6419,
+  "name" : "SR",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6419/SR-2016/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-SR-2016.jpg",
+  "year" : "2016",
+  "maxSpeed" : 164,
+  "zeroToHundred" : 3.3,
+  "price" : 17990,
+  "priceABS" : null,
+  "categoryId" : 2,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-SR-2016.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6473,
+    "rearShock" : "Mono-amortisseur, déb : 161 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6473,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 159 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6473,
+    "gasSupply" : null,
+    "torque" : 14.6,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 67.0,
+    "powerRpm" : 4000.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.81,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6473,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6473,
+    "dryWeight" : 188.0,
+    "seatHeight" : 807.0,
+    "type" : "double poutre périmetrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6474,
+  "idMotoplanete" : 6424,
+  "name" : "DS",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6424/DS-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DS-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 139,
+  "zeroToHundred" : null,
+  "price" : 12590,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DS-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6474,
+    "rearShock" : "Mono-amortisseur, déb : 179 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "130 / 80 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6474,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "100 / 90 - 19\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6474,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4400.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.27,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6474,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6474,
+    "dryWeight" : 144.0,
+    "seatHeight" : 843.0,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1427,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6475,
+  "idMotoplanete" : 6425,
+  "name" : "DSR",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6425/DSR-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DSR-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 158,
+  "zeroToHundred" : null,
+  "price" : 18440,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DSR-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6475,
+    "rearShock" : "Mono-amortisseur, déb : 179 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "130 / 80 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6475,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "100 / 90 - 19\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6475,
+    "gasSupply" : null,
+    "torque" : 14.9,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 69.0,
+    "powerRpm" : 3850.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.75,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : "Moto accessible au permis A2 ou bridable à 48ch",
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6475,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6475,
+    "dryWeight" : 190.0,
+    "seatHeight" : 843.0,
+    "type" : "périmétrique en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1427,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6476,
+  "idMotoplanete" : 6426,
+  "name" : "FX",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6426/FX-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FX-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 137,
+  "zeroToHundred" : null,
+  "price" : 12290,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FX-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6476,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "120 / 80 - 18\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6476,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 218 mm",
+    "frontShock" : null,
+    "frontWheel" : "90 / 90 - 21\"",
+    "frontBrake" : "1 disque Ø 240 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6476,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4500.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 2.98,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6476,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6476,
+    "dryWeight" : 131.0,
+    "seatHeight" : 881.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1438,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6477,
   "idMotoplanete" : 5635,
-  "name" : "DS ",
+  "name" : "DS",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/5635/DS-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DS-2016.jpg",
   "year" : "2016",
@@ -78,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DS-2016.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4990,
+    "id" : 6477,
     "rearShock" : "Monoamortisseur, déb : 179 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4990,
+    "id" : 6477,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4990,
+    "id" : 6477,
     "gasSupply" : null,
     "torque" : 9.4,
     "torqueRpm" : null,
@@ -113,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4990,
+    "id" : 6477,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -121,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4990,
+    "id" : 6477,
     "dryWeight" : 173.0,
     "seatHeight" : 843.0,
     "type" : "double longeron en aluminium",
@@ -133,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4991,
+  "id" : 6478,
   "idMotoplanete" : 5626,
-  "name" : "DSR ",
+  "name" : "DSR",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/5626/DSR-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DSR-2016-2.jpg",
   "year" : "2016",
@@ -145,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DSR-2016-2.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4991,
+    "id" : 6478,
     "rearShock" : "Monoamortisseur, déb : 179 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4991,
+    "id" : 6478,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4991,
+    "id" : 6478,
     "gasSupply" : null,
     "torque" : 14.7,
     "torqueRpm" : null,
@@ -180,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4991,
+    "id" : 6478,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -188,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4991,
+    "id" : 6478,
     "dryWeight" : 190.0,
     "seatHeight" : 843.0,
     "type" : "double longeron en aluminium",
@@ -200,9 +1071,210 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4992,
+  "id" : 6479,
+  "idMotoplanete" : 6420,
+  "name" : "FX",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6420/FX-2016/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FX-2016.jpg",
+  "year" : "2016",
+  "maxSpeed" : 137,
+  "zeroToHundred" : 4.3,
+  "price" : 10220,
+  "priceABS" : null,
+  "categoryId" : 5,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FX-2016.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6479,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "120 / 80 - 18\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6479,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 218 mm",
+    "frontShock" : null,
+    "frontWheel" : "90 / 90 - 21\"",
+    "frontBrake" : "1 disque Ø 240 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6479,
+    "gasSupply" : null,
+    "torque" : 9.7,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 27.0,
+    "powerRpm" : 3700.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 4.15,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6479,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6479,
+    "dryWeight" : 112.0,
+    "seatHeight" : 881.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1438,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6480,
+  "idMotoplanete" : 6427,
+  "name" : "FXS",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6427/FXS-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FXS-2017.jpg",
+  "year" : "2016",
+  "maxSpeed" : 132,
+  "zeroToHundred" : null,
+  "price" : 12290,
+  "priceABS" : null,
+  "categoryId" : 31,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FXS-2017.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6480,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6480,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6480,
+    "gasSupply" : null,
+    "torque" : 10.8,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 44.0,
+    "powerRpm" : 4500.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 3.02,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6480,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6480,
+    "dryWeight" : 133.0,
+    "seatHeight" : 836.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1422,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6481,
+  "idMotoplanete" : 6421,
+  "name" : "FXS",
+  "urlMotoplanete" : "http://www.motoplanete.com/zero/6421/FXS-2016/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FXS-2016.jpg",
+  "year" : "2016",
+  "maxSpeed" : 132,
+  "zeroToHundred" : 4.1,
+  "price" : 10220,
+  "priceABS" : null,
+  "categoryId" : 31,
+  "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FXS-2016.jpg" ],
+  "idManufacturer" : 73,
+  "rearAxle" : {
+    "id" : 6481,
+    "rearShock" : "Mono-amortisseur, déb : 227 mm",
+    "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
+    "rearWheel" : "140 / 70 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 6481,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 178 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 70 - 17\"",
+    "frontBrake" : "1 disque Ø 320 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 6481,
+    "gasSupply" : null,
+    "torque" : 9.7,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 27.0,
+    "powerRpm" : 3700.0,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 4.22,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 6481,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "courroie",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 6481,
+    "dryWeight" : 114.0,
+    "seatHeight" : 836.0,
+    "type" : "structure en aluminium",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1422,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+}, {
+  "id" : 6482,
   "idMotoplanete" : 4757,
-  "name" : "SR ",
+  "name" : "SR",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4757/SR-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-SR-2014.jpg",
   "year" : "2014",
@@ -212,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-SR-2014.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4992,
+    "id" : 6482,
     "rearShock" : "Monoamortisseur, déb : 161 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "140 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4992,
+    "id" : 6482,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 159 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 313 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4992,
+    "id" : 6482,
     "gasSupply" : null,
     "torque" : 14.6,
     "torqueRpm" : null,
@@ -247,7 +1319,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4992,
+    "id" : 6482,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -255,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4992,
+    "id" : 6482,
     "dryWeight" : 185.0,
     "seatHeight" : 807.0,
     "type" : "en aluminium",
@@ -267,9 +1339,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4993,
+  "id" : 6483,
   "idMotoplanete" : 4626,
-  "name" : "S ",
+  "name" : "S",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4626/S-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-S-2013.jpg",
   "year" : "2013",
@@ -279,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-S-2013.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4993,
+    "id" : 6483,
     "rearShock" : "Monoamortisseur, déb : 149 mm",
     "rearBrake" : "1 disque Ø 221 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4993,
+    "id" : 6483,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 313 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4993,
+    "id" : 6483,
     "gasSupply" : null,
     "torque" : 9.4,
     "torqueRpm" : null,
@@ -314,7 +1386,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4993,
+    "id" : 6483,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -322,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4993,
+    "id" : 6483,
     "dryWeight" : 175.0,
     "seatHeight" : 794.0,
     "type" : "en aluminium",
@@ -334,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4994,
+  "id" : 6484,
   "idMotoplanete" : 4627,
-  "name" : "XU ",
+  "name" : "XU",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4627/XU-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-XU-2013.jpg",
   "year" : "2013",
@@ -346,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-XU-2013.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4994,
+    "id" : 6484,
     "rearShock" : "Monoamortisseur, déb : 147 mm",
     "rearBrake" : "1 disque Ø 221 mm, étrier 1 piston",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4994,
+    "id" : 6484,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "MJ90 - 19\"",
     "frontBrake" : "1 disque Ø 221 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4994,
+    "id" : 6484,
     "gasSupply" : null,
     "torque" : 5.9,
     "torqueRpm" : null,
@@ -381,7 +1453,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4994,
+    "id" : 6484,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -389,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4994,
+    "id" : 6484,
     "dryWeight" : 121.0,
     "seatHeight" : 790.0,
     "type" : "en aluminium",
@@ -401,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4995,
+  "id" : 6485,
   "idMotoplanete" : 4624,
-  "name" : "DS ",
+  "name" : "DS",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4624/DS-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-DS-2013.jpg",
   "year" : "2013",
@@ -413,23 +1485,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-DS-2013.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4995,
+    "id" : 6485,
     "rearShock" : "Monoamortisseur, déb : 195 mm",
     "rearBrake" : "1 disque Ø 221 mm, étrier 1 piston",
     "rearWheel" : "130 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4995,
+    "id" : 6485,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 178 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 313 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4995,
+    "id" : 6485,
     "gasSupply" : null,
     "torque" : 9.4,
     "torqueRpm" : null,
@@ -448,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4995,
+    "id" : 6485,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -456,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4995,
+    "id" : 6485,
     "dryWeight" : 179.0,
     "seatHeight" : 873.0,
     "type" : "en aluminium",
@@ -468,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4996,
+  "id" : 6486,
   "idMotoplanete" : 4623,
-  "name" : "FX ",
+  "name" : "FX",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4623/FX-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-FX-2013.jpg",
   "year" : "2013",
@@ -480,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-FX-2013.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4996,
+    "id" : 6486,
     "rearShock" : "Monoamortisseur, déb : 227 mm",
     "rearBrake" : "1 disque Ø 221 mm, étrier 1 piston",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4996,
+    "id" : 6486,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 221 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4996,
+    "id" : 6486,
     "gasSupply" : null,
     "torque" : 9.7,
     "torqueRpm" : null,
@@ -515,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4996,
+    "id" : 6486,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -523,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4996,
+    "id" : 6486,
     "dryWeight" : 125.0,
     "seatHeight" : 899.0,
     "type" : "en aluminium",
@@ -535,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4997,
+  "id" : 6487,
   "idMotoplanete" : 4625,
-  "name" : "MX ",
+  "name" : "MX",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4625/MX-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-MX-2013.jpg",
   "year" : "2013",
@@ -547,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 20,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-MX-2013.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4997,
+    "id" : 6487,
     "rearShock" : "Monoamortisseur, déb : 227 mm",
     "rearBrake" : "1 disque Ø 221 mm, étrier 1 piston",
     "rearWheel" : "110 / 100 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4997,
+    "id" : 6487,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "80 / 100 - 21\"",
     "frontBrake" : "1 disque Ø 221 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4997,
+    "id" : 6487,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -582,7 +1654,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4997,
+    "id" : 6487,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "chaîne",
@@ -590,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4997,
+    "id" : 6487,
     "dryWeight" : 120.0,
     "seatHeight" : 912.0,
     "type" : "en aluminium",
@@ -602,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4998,
+  "id" : 6488,
   "idMotoplanete" : 4370,
-  "name" : "S ZF9 Limited Edition ",
+  "name" : "S ZF9 Limited Edition",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4370/S-ZF9-Limited-Edition-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/Zero-S-ZF9-2012-limited-edition.jpg",
   "year" : "2012",
@@ -612,25 +1684,25 @@
   "zeroToHundred" : null,
   "price" : 14495,
   "priceABS" : null,
-  "categoryId" : 8,
+  "categoryId" : 26,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/Zero-S-ZF9-2012-limited-edition.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4998,
+    "id" : 6488,
     "rearShock" : "Mono-amortisseur, déb : 149 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4998,
+    "id" : 6488,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4998,
+    "id" : 6488,
     "gasSupply" : null,
     "torque" : 5.8,
     "torqueRpm" : 3800.0,
@@ -649,7 +1721,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4998,
+    "id" : 6488,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -657,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4998,
+    "id" : 6488,
     "dryWeight" : null,
     "seatHeight" : 832.0,
     "type" : "périmétrique en aluminium",
@@ -669,9 +1741,9 @@
     "movingWeight" : 155.0
   }
 }, {
-  "id" : 4999,
+  "id" : 6489,
   "idMotoplanete" : 4240,
-  "name" : "S ",
+  "name" : "S",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4240/S-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-S-2012.jpg",
   "year" : "2012",
@@ -681,23 +1753,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-S-2012.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 4999,
+    "id" : 6489,
     "rearShock" : "Mono-amortisseur, déb : 149 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4999,
+    "id" : 6489,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4999,
+    "id" : 6489,
     "gasSupply" : null,
     "torque" : 5.8,
     "torqueRpm" : 3800.0,
@@ -716,7 +1788,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4999,
+    "id" : 6489,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -724,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4999,
+    "id" : 6489,
     "dryWeight" : null,
     "seatHeight" : 832.0,
     "type" : "périmétrique en aluminium",
@@ -736,9 +1808,9 @@
     "movingWeight" : 155.0
   }
 }, {
-  "id" : 5000,
+  "id" : 6490,
   "idMotoplanete" : 4242,
-  "name" : "XU ",
+  "name" : "XU",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4242/XU-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-XU-2012.jpg",
   "year" : "2012",
@@ -748,23 +1820,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-XU-2012.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5000,
+    "id" : 6490,
     "rearShock" : "Mono-amortisseur, déb : 141 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5000,
+    "id" : 6490,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 135 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 5000,
+    "id" : 6490,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -783,7 +1855,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5000,
+    "id" : 6490,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -791,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5000,
+    "id" : 6490,
     "dryWeight" : null,
     "seatHeight" : 800.0,
     "type" : "périmétrique en acier",
@@ -803,9 +1875,9 @@
     "movingWeight" : 100.0
   }
 }, {
-  "id" : 5001,
+  "id" : 6491,
   "idMotoplanete" : 4239,
-  "name" : "DS ",
+  "name" : "DS",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4239/DS-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-DS-2012.jpg",
   "year" : "2012",
@@ -813,25 +1885,25 @@
   "zeroToHundred" : null,
   "price" : 11495,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-DS-2012.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5001,
+    "id" : 6491,
     "rearShock" : "Mono-amortisseur, déb : 195 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5001,
+    "id" : 6491,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 5001,
+    "id" : 6491,
     "gasSupply" : null,
     "torque" : 5.8,
     "torqueRpm" : 3800.0,
@@ -850,7 +1922,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5001,
+    "id" : 6491,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée",
@@ -858,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5001,
+    "id" : 6491,
     "dryWeight" : null,
     "seatHeight" : 883.0,
     "type" : "périmétrique en aluminium",
@@ -870,9 +1942,9 @@
     "movingWeight" : 155.0
   }
 }, {
-  "id" : 5002,
+  "id" : 6492,
   "idMotoplanete" : 4241,
-  "name" : "MX ",
+  "name" : "MX",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4241/MX-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-MX-2012.jpg",
   "year" : "2012",
@@ -882,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 20,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-MX-2012.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5002,
+    "id" : 6492,
     "rearShock" : "Mono-amortisseur, déb : 221 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "90 / 100 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5002,
+    "id" : 6492,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "70 / 100 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 5002,
+    "id" : 6492,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -917,7 +1989,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5002,
+    "id" : 6492,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5002,
+    "id" : 6492,
     "dryWeight" : null,
     "seatHeight" : 819.0,
     "type" : "périmétrique en aluminium",
@@ -937,9 +2009,9 @@
     "movingWeight" : 91.0
   }
 }, {
-  "id" : 5003,
+  "id" : 6493,
   "idMotoplanete" : 4243,
-  "name" : "X ",
+  "name" : "X",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/4243/X-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/zero-X-2012.jpg",
   "year" : "2012",
@@ -949,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 14,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/zero-X-2012.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5003,
+    "id" : 6493,
     "rearShock" : "Mono-amortisseur, déb : 221 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 1 piston",
     "rearWheel" : "80 / 100 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5003,
+    "id" : 6493,
     "fork" : "Fourche téléhydraulique inversée Ø 38 mm, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "70 / 100 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 5003,
+    "id" : 6493,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -984,7 +2056,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5003,
+    "id" : 6493,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -992,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5003,
+    "id" : 6493,
     "dryWeight" : null,
     "seatHeight" : 870.0,
     "type" : "périmétrique en aluminium",
@@ -1004,9 +2076,9 @@
     "movingWeight" : 98.0
   }
 }, {
-  "id" : 5004,
+  "id" : 6494,
   "idMotoplanete" : 3626,
-  "name" : "S ",
+  "name" : "S",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/3626/S-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-S-2011.jpg",
   "year" : "2011",
@@ -1016,23 +2088,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-S-2011.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5004,
+    "id" : 6494,
     "rearShock" : "Monoamortisseur, déb : 151 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5004,
+    "id" : 6494,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 5004,
+    "id" : 6494,
     "gasSupply" : null,
     "torque" : 7.0,
     "torqueRpm" : null,
@@ -1051,7 +2123,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5004,
+    "id" : 6494,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -1059,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5004,
+    "id" : 6494,
     "dryWeight" : null,
     "seatHeight" : 781.0,
     "type" : "Périmétrique en aluminium",
@@ -1071,9 +2143,9 @@
     "movingWeight" : 135.0
   }
 }, {
-  "id" : 5005,
+  "id" : 6495,
   "idMotoplanete" : 3629,
-  "name" : "XU ",
+  "name" : "XU",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/3629/XU-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-XU-2011.jpg",
   "year" : "2011",
@@ -1083,23 +2155,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-XU-2011.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5005,
+    "id" : 6495,
     "rearShock" : "Monoamortisseur, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 1 piston",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5005,
+    "id" : 6495,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 135 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 5005,
+    "id" : 6495,
     "gasSupply" : null,
     "torque" : 6.9,
     "torqueRpm" : null,
@@ -1118,7 +2190,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5005,
+    "id" : 6495,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1126,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5005,
+    "id" : 6495,
     "dryWeight" : null,
     "seatHeight" : 756.0,
     "type" : "Périmétrique en aluminium",
@@ -1138,9 +2210,9 @@
     "movingWeight" : 99.0
   }
 }, {
-  "id" : 5006,
+  "id" : 6496,
   "idMotoplanete" : 3628,
-  "name" : "DS ",
+  "name" : "DS",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/3628/DS-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-DS-2011.jpg",
   "year" : "2011",
@@ -1148,25 +2220,25 @@
   "zeroToHundred" : null,
   "price" : 10495,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-DS-2011.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5006,
+    "id" : 6496,
     "rearShock" : "Monoamortisseur, déb : 196 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 1 piston",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5006,
+    "id" : 6496,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 5006,
+    "id" : 6496,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -1185,7 +2257,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5006,
+    "id" : 6496,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -1193,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5006,
+    "id" : 6496,
     "dryWeight" : null,
     "seatHeight" : 857.0,
     "type" : "Périmétrique en aluminium",
@@ -1205,9 +2277,9 @@
     "movingWeight" : 135.0
   }
 }, {
-  "id" : 5007,
+  "id" : 6497,
   "idMotoplanete" : 3627,
-  "name" : "MX ",
+  "name" : "MX",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/3627/MX-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-MX-2011.jpg",
   "year" : "2011",
@@ -1217,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 20,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-MX-2011.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5007,
+    "id" : 6497,
     "rearShock" : "Monoamortisseur, déb : 221 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 1 piston",
     "rearWheel" : "90 / 100 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5007,
+    "id" : 6497,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 240 mm",
     "frontShock" : null,
     "frontWheel" : "70 / 100 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 5007,
+    "id" : 6497,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -1252,7 +2324,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5007,
+    "id" : 6497,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5007,
+    "id" : 6497,
     "dryWeight" : null,
     "seatHeight" : 819.0,
     "type" : null,
@@ -1272,9 +2344,9 @@
     "movingWeight" : 89.0
   }
 }, {
-  "id" : 5008,
+  "id" : 6498,
   "idMotoplanete" : 3630,
-  "name" : "X ",
+  "name" : "X",
   "urlMotoplanete" : "http://www.motoplanete.com/zero/3630/X-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zero/ZERO-X-2011.jpg",
   "year" : "2011",
@@ -1284,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 14,
   "imagesUrl" : [ "http://www.motoplanete.com/zero/ZERO-X-2011.jpg" ],
-  "idManufacturer" : 71,
+  "idManufacturer" : 73,
   "rearAxle" : {
-    "id" : 5008,
+    "id" : 6498,
     "rearShock" : "Monoamortisseur, déb : 221 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 1 piston",
     "rearWheel" : "90 / 100 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5008,
+    "id" : 6498,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 210 mm",
     "frontShock" : null,
     "frontWheel" : "70 / 100 - 19\"",
     "frontBrake" : "1 disque Ø 220 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 5008,
+    "id" : 6498,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -1319,7 +2391,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 5008,
+    "id" : 6498,
     "gearboxSpeeds" : "1 rapport",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1327,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5008,
+    "id" : 6498,
     "dryWeight" : null,
     "seatHeight" : 794.0,
     "type" : "Périmétrique en aluminium",

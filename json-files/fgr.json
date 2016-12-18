@@ -1,7 +1,7 @@
 [ {
-  "id" : 4686,
+  "id" : 6161,
   "idMotoplanete" : 3420,
-  "name" : "MIDALU 2500 V6 ",
+  "name" : "MIDALU 2500 V6",
   "urlMotoplanete" : "http://www.motoplanete.com/FGR/3420/MIDALU-2500-V6-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/FGR/FGR-midalu-2500-V6-2011.jpg",
   "year" : "2011",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/FGR/FGR-midalu-2500-V6-2011.jpg" ],
-  "idManufacturer" : 35,
+  "idManufacturer" : 36,
   "rearAxle" : {
-    "id" : 4686,
+    "id" : 6161,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 78 mm",
     "rearBrake" : "1 disque Ø 215, étrier Brembo 2 pistons",
     "rearWheel" : "200 / 50 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4686,
+    "id" : 6161,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320, étriers radiaux Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4686,
+    "id" : 6161,
     "gasSupply" : "Injection Ø nc",
     "torque" : 20.0,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4686,
+    "id" : 6161,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4686,
+    "id" : 6161,
     "dryWeight" : 270.0,
     "seatHeight" : 780.0,
     "type" : "treillis tubulaire en tubes d'acier",

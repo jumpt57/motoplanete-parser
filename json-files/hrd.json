@@ -1,7 +1,7 @@
 [ {
-  "id" : 4693,
+  "id" : 6168,
   "idMotoplanete" : 4002,
-  "name" : "125 CABRIOLET ",
+  "name" : "125 CABRIOLET",
   "urlMotoplanete" : "http://www.motoplanete.com/hrd/4002/125-CABRIOLET-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg",
   "year" : "2001",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 4000,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg" ],
-  "idManufacturer" : 39,
+  "idManufacturer" : 40,
   "rearAxle" : {
-    "id" : 4693,
+    "id" : 6168,
     "rearShock" : "Mono-amortisseur, déb : 270 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4693,
+    "id" : 6168,
     "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 260 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4693,
+    "id" : 6168,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.2,
     "torqueRpm" : 8000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4693,
+    "id" : 6168,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4693,
+    "id" : 6168,
     "dryWeight" : 108.0,
     "seatHeight" : 870.0,
     "type" : "Double berceau tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4694,
+  "id" : 6169,
   "idMotoplanete" : 4001,
-  "name" : "125 CABRIOLET ",
+  "name" : "125 CABRIOLET",
   "urlMotoplanete" : "http://www.motoplanete.com/hrd/4001/125-CABRIOLET-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg",
   "year" : "2000",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 4000,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg" ],
-  "idManufacturer" : 39,
+  "idManufacturer" : 40,
   "rearAxle" : {
-    "id" : 4694,
+    "id" : 6169,
     "rearShock" : "Mono-amortisseur, déb : 270 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4694,
+    "id" : 6169,
     "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 260 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4694,
+    "id" : 6169,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.2,
     "torqueRpm" : 8000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4694,
+    "id" : 6169,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4694,
+    "id" : 6169,
     "dryWeight" : 108.0,
     "seatHeight" : 870.0,
     "type" : "Double berceau tubulaire en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4695,
+  "id" : 6170,
   "idMotoplanete" : 4000,
-  "name" : "125 CABRIOLET ",
+  "name" : "125 CABRIOLET",
   "urlMotoplanete" : "http://www.motoplanete.com/hrd/4000/125-CABRIOLET-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg",
   "year" : "1999",
@@ -143,25 +143,25 @@
   "zeroToHundred" : null,
   "price" : 4000,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hrd/HRD-125-cabriolet.jpg" ],
-  "idManufacturer" : 39,
+  "idManufacturer" : 40,
   "rearAxle" : {
-    "id" : 4695,
+    "id" : 6170,
     "rearShock" : "Mono-amortisseur, déb : 270 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4695,
+    "id" : 6170,
     "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 260 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4695,
+    "id" : 6170,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.2,
     "torqueRpm" : 8000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4695,
+    "id" : 6170,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4695,
+    "id" : 6170,
     "dryWeight" : 108.0,
     "seatHeight" : 870.0,
     "type" : "Double berceau tubulaire en acier",

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4790,
+  "id" : 6263,
   "idMotoplanete" : 603,
-  "name" : "1000 Piega Evo ",
+  "name" : "1000 Piega Evo",
   "urlMotoplanete" : "http://www.motoplanete.com/mondial/603/1000-Piega--Evo-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mondial/mondial-1000-piega-evo.jpg",
   "year" : "2004",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mondial/mondial-1000-piega-evo.jpg" ],
-  "idManufacturer" : 51,
+  "idManufacturer" : 52,
   "rearAxle" : {
-    "id" : 4790,
+    "id" : 6263,
     "rearShock" : "monoamortisseur Öhlins, déb : 110 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4790,
+    "id" : 6263,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 46mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons à fixation radiale"
   },
   "engine" : {
-    "id" : 4790,
+    "id" : 6263,
     "gasSupply" : "Injection électronique",
     "torque" : 10.2,
     "torqueRpm" : 8800.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4790,
+    "id" : 6263,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4790,
+    "id" : 6263,
     "dryWeight" : 180.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en chrome molybdène vanadium",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4791,
+  "id" : 6264,
   "idMotoplanete" : 632,
-  "name" : "1000 NUDA RZ ",
+  "name" : "1000 NUDA RZ",
   "urlMotoplanete" : "http://www.motoplanete.com/mondial/632/1000-NUDA-RZ-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mondial/mondial-1000-nuda-RZ.jpg",
   "year" : "2004",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mondial/mondial-1000-nuda-RZ.jpg" ],
-  "idManufacturer" : 51,
+  "idManufacturer" : 52,
   "rearAxle" : {
-    "id" : 4791,
+    "id" : 6264,
     "rearShock" : "Monoamortisseur Öhlins, déb : 115 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4791,
+    "id" : 6264,
     "fork" : "fourche téléhydraulique inversée Öhlins, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4791,
+    "id" : 6264,
     "gasSupply" : "Injection électronique",
     "torque" : 10.2,
     "torqueRpm" : 8800.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4791,
+    "id" : 6264,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4791,
+    "id" : 6264,
     "dryWeight" : 178.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en chrome molybdène vanadium",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4792,
+  "id" : 6265,
   "idMotoplanete" : 631,
-  "name" : "1000 PIEGA ",
+  "name" : "1000 PIEGA",
   "urlMotoplanete" : "http://www.motoplanete.com/mondial/631/1000-PIEGA-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mondial/mondial-1000-piega.jpg",
   "year" : "2003",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mondial/mondial-1000-piega.jpg" ],
-  "idManufacturer" : 51,
+  "idManufacturer" : 52,
   "rearAxle" : {
-    "id" : 4792,
+    "id" : 6265,
     "rearShock" : "Monoamortisseur Öhlins, déb : 115 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4792,
+    "id" : 6265,
     "fork" : "fourche téléhydraulique inversée Öhlins Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4792,
+    "id" : 6265,
     "gasSupply" : "Injection électronique",
     "torque" : 10.2,
     "torqueRpm" : 8800.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4792,
+    "id" : 6265,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4792,
+    "id" : 6265,
     "dryWeight" : 168.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en chrome molybdène vanadium",

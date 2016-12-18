@@ -1,7 +1,7 @@
 [ {
-  "id" : 4933,
+  "id" : 6407,
   "idMotoplanete" : 2153,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2153/1000-CAFE-RACER-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2010.jpg",
   "year" : "2010",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4933,
+    "id" : 6407,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4933,
+    "id" : 6407,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4933,
+    "id" : 6407,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4933,
+    "id" : 6407,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4933,
+    "id" : 6407,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -66,9 +66,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4934,
+  "id" : 6408,
   "idMotoplanete" : 2117,
-  "name" : "1000 CHARADE RACING ",
+  "name" : "1000 CHARADE RACING",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2117/1000-CHARADE-RACING-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-charade-racing-2010.jpg",
   "year" : "2010",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-charade-racing-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4934,
+    "id" : 6408,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4934,
+    "id" : 6408,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Beringer 4 pistons"
   },
   "engine" : {
-    "id" : 4934,
+    "id" : 6408,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4934,
+    "id" : 6408,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4934,
+    "id" : 6408,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4935,
+  "id" : 6409,
   "idMotoplanete" : 2118,
-  "name" : "1000 BLACK CLASSIC ",
+  "name" : "1000 BLACK CLASSIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2118/1000-BLACK-CLASSIC-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-classic-2010.jpg",
   "year" : "2010",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-classic-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4935,
+    "id" : 6409,
     "rearShock" : "Mono-amortisseur réglable en compression et détente, déb : 120 mm",
     "rearBrake" : "Simple disque ø 245 mm, étrier 2 pistons opposés",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4935,
+    "id" : 6409,
     "fork" : "Fourche téléhydraulique inversée ø 43 mm, entièrement réglable, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "Double disque flottant ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4935,
+    "id" : 6409,
     "gasSupply" : "Injection",
     "torque" : 8.2,
     "torqueRpm" : 6500.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4935,
+    "id" : 6409,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4935,
+    "id" : 6409,
     "dryWeight" : 186.0,
     "seatHeight" : 800.0,
     "type" : "double poutre tubulaire",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4936,
+  "id" : 6410,
   "idMotoplanete" : 2133,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2133/1000-BLACK-MAGIC-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2010.jpg",
   "year" : "2010",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4936,
+    "id" : 6410,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4936,
+    "id" : 6410,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4936,
+    "id" : 6410,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4936,
+    "id" : 6410,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4936,
+    "id" : 6410,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -267,9 +267,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4937,
+  "id" : 6411,
   "idMotoplanete" : 2125,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2125/1000-STREET-SCRAMBLER-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2010.jpg",
   "year" : "2010",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4937,
+    "id" : 6411,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4937,
+    "id" : 6411,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4937,
+    "id" : 6411,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4937,
+    "id" : 6411,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4937,
+    "id" : 6411,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -334,9 +334,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4938,
+  "id" : 6412,
   "idMotoplanete" : 1674,
-  "name" : "VX 10 ",
+  "name" : "VX 10",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1674/VX-10-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-VX-10-2010.jpg",
   "year" : "2010",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-VX-10-2010.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4938,
+    "id" : 6412,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4938,
+    "id" : 6412,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers à 4 pistons"
   },
   "engine" : {
-    "id" : 4938,
+    "id" : 6412,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 8.4,
     "torqueRpm" : 6500.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4938,
+    "id" : 6412,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4938,
+    "id" : 6412,
     "dryWeight" : null,
     "seatHeight" : 760.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -401,9 +401,9 @@
     "movingWeight" : 221.0
   }
 }, {
-  "id" : 4939,
+  "id" : 6413,
   "idMotoplanete" : 2152,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2152/1000-CAFE-RACER-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2009.jpg",
   "year" : "2009",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2009.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4939,
+    "id" : 6413,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4939,
+    "id" : 6413,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4939,
+    "id" : 6413,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4939,
+    "id" : 6413,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4939,
+    "id" : 6413,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -468,9 +468,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4940,
+  "id" : 6414,
   "idMotoplanete" : 1067,
-  "name" : "1000 CHARADE RACING ",
+  "name" : "1000 CHARADE RACING",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1067/1000-CHARADE-RACING-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-charade-racing-2009.jpg",
   "year" : "2009",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-charade-racing-2009.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4940,
+    "id" : 6414,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4940,
+    "id" : 6414,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Beringer 4 pistons"
   },
   "engine" : {
-    "id" : 4940,
+    "id" : 6414,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4940,
+    "id" : 6414,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4940,
+    "id" : 6414,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4941,
+  "id" : 6415,
   "idMotoplanete" : 1063,
-  "name" : "1000 BLACK CLASSIC ",
+  "name" : "1000 BLACK CLASSIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1063/1000-BLACK-CLASSIC-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-classic-2009.jpg",
   "year" : "2009",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-classic-2009.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4941,
+    "id" : 6415,
     "rearShock" : "Mono-amortisseur réglable en compression et détente, déb : 120 mm",
     "rearBrake" : "Simple disque ø 245 mm, étrier 2 pistons opposés",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4941,
+    "id" : 6415,
     "fork" : "Fourche téléhydraulique inversée ø 43 mm, entièrement réglable, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "Double disque flottant ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4941,
+    "id" : 6415,
     "gasSupply" : "Injection",
     "torque" : 8.2,
     "torqueRpm" : 6500.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4941,
+    "id" : 6415,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4941,
+    "id" : 6415,
     "dryWeight" : 186.0,
     "seatHeight" : 800.0,
     "type" : "double poutre tubulaire",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4942,
+  "id" : 6416,
   "idMotoplanete" : 2132,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2132/1000-BLACK-MAGIC-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2009.jpg",
   "year" : "2009",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2009.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4942,
+    "id" : 6416,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4942,
+    "id" : 6416,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4942,
+    "id" : 6416,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4942,
+    "id" : 6416,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4942,
+    "id" : 6416,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -669,9 +669,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4943,
+  "id" : 6417,
   "idMotoplanete" : 2124,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2124/1000-STREET-SCRAMBLER-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2009.jpg",
   "year" : "2009",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2009.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4943,
+    "id" : 6417,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4943,
+    "id" : 6417,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4943,
+    "id" : 6417,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4943,
+    "id" : 6417,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4943,
+    "id" : 6417,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -736,9 +736,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4944,
+  "id" : 6418,
   "idMotoplanete" : 2151,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2151/1000-CAFE-RACER-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2008.jpg",
   "year" : "2008",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2008.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4944,
+    "id" : 6418,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4944,
+    "id" : 6418,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4944,
+    "id" : 6418,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4944,
+    "id" : 6418,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4944,
+    "id" : 6418,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -803,9 +803,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4945,
+  "id" : 6419,
   "idMotoplanete" : 1066,
-  "name" : "1000 CHARADE RACING ",
+  "name" : "1000 CHARADE RACING",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1066/1000-CHARADE-RACING-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-charade-racing-2008.jpg",
   "year" : "2008",
@@ -815,23 +815,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-charade-racing-2008.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4945,
+    "id" : 6419,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4945,
+    "id" : 6419,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Beringer 4 pistons"
   },
   "engine" : {
-    "id" : 4945,
+    "id" : 6419,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4945,
+    "id" : 6419,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4945,
+    "id" : 6419,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4946,
+  "id" : 6420,
   "idMotoplanete" : 1062,
-  "name" : "1000 BLACK CLASSIC ",
+  "name" : "1000 BLACK CLASSIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1062/1000-BLACK-CLASSIC-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-classic-2008.jpg",
   "year" : "2008",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-classic-2008.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4946,
+    "id" : 6420,
     "rearShock" : "Mono-amortisseur réglable en compression et détente, déb : 120 mm",
     "rearBrake" : "Simple disque ø 245 mm, étrier 2 pistons opposés",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4946,
+    "id" : 6420,
     "fork" : "Fourche téléhydraulique inversée ø 43 mm, entièrement réglable, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "Double disque flottant ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4946,
+    "id" : 6420,
     "gasSupply" : "Injection",
     "torque" : 8.2,
     "torqueRpm" : 6500.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4946,
+    "id" : 6420,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4946,
+    "id" : 6420,
     "dryWeight" : 186.0,
     "seatHeight" : 800.0,
     "type" : "double poutre tubulaire",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4947,
+  "id" : 6421,
   "idMotoplanete" : 2131,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2131/1000-BLACK-MAGIC-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2008.jpg",
   "year" : "2008",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2008.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4947,
+    "id" : 6421,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4947,
+    "id" : 6421,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4947,
+    "id" : 6421,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4947,
+    "id" : 6421,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4947,
+    "id" : 6421,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1004,9 +1004,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4948,
+  "id" : 6422,
   "idMotoplanete" : 2123,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2123/1000-STREET-SCRAMBLER-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2008.jpg",
   "year" : "2008",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2008.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4948,
+    "id" : 6422,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4948,
+    "id" : 6422,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4948,
+    "id" : 6422,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4948,
+    "id" : 6422,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4948,
+    "id" : 6422,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1071,9 +1071,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4950,
+  "id" : 6424,
   "idMotoplanete" : 2150,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2150/1000-CAFE-RACER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2007.jpg",
   "year" : "2007",
@@ -1083,23 +1083,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4950,
+    "id" : 6424,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4950,
+    "id" : 6424,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4950,
+    "id" : 6424,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4950,
+    "id" : 6424,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4950,
+    "id" : 6424,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1138,9 +1138,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4951,
+  "id" : 6425,
   "idMotoplanete" : 1065,
-  "name" : "1000 CHARADE RACING ",
+  "name" : "1000 CHARADE RACING",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1065/1000-CHARADE-RACING-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-charade-racing-2007.jpg",
   "year" : "2007",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-charade-racing-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4951,
+    "id" : 6425,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4951,
+    "id" : 6425,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Beringer 4 pistons"
   },
   "engine" : {
-    "id" : 4951,
+    "id" : 6425,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4951,
+    "id" : 6425,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4951,
+    "id" : 6425,
     "dryWeight" : 179.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4952,
+  "id" : 6426,
   "idMotoplanete" : 2130,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2130/1000-BLACK-MAGIC-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2007.jpg",
   "year" : "2007",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4952,
+    "id" : 6426,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4952,
+    "id" : 6426,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4952,
+    "id" : 6426,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4952,
+    "id" : 6426,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4952,
+    "id" : 6426,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1272,9 +1272,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4953,
+  "id" : 6427,
   "idMotoplanete" : 2143,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2143/1000-ROADSTER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2007.jpg",
   "year" : "2007",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4953,
+    "id" : 6427,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4953,
+    "id" : 6427,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4953,
+    "id" : 6427,
     "gasSupply" : "Injection",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4953,
+    "id" : 6427,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4953,
+    "id" : 6427,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -1339,9 +1339,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4954,
+  "id" : 6428,
   "idMotoplanete" : 2160,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2160/1000-SCRAMBLER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2007.jpg",
   "year" : "2007",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4954,
+    "id" : 6428,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4954,
+    "id" : 6428,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4954,
+    "id" : 6428,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4954,
+    "id" : 6428,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4954,
+    "id" : 6428,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -1406,9 +1406,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4955,
+  "id" : 6429,
   "idMotoplanete" : 2122,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2122/1000-STREET-SCRAMBLER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2007.jpg",
   "year" : "2007",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2007.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4955,
+    "id" : 6429,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4955,
+    "id" : 6429,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4955,
+    "id" : 6429,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4955,
+    "id" : 6429,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4955,
+    "id" : 6429,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1473,9 +1473,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4956,
+  "id" : 6430,
   "idMotoplanete" : 2149,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2149/1000-CAFE-RACER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2006.jpg",
   "year" : "2006",
@@ -1485,23 +1485,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4956,
+    "id" : 6430,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4956,
+    "id" : 6430,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4956,
+    "id" : 6430,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4956,
+    "id" : 6430,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4956,
+    "id" : 6430,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1540,9 +1540,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4957,
+  "id" : 6431,
   "idMotoplanete" : 1064,
-  "name" : "1000 CHARADE RACING ",
+  "name" : "1000 CHARADE RACING",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1064/1000-CHARADE-RACING-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-charade-racing-2006.jpg",
   "year" : "2006",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-charade-racing-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4957,
+    "id" : 6431,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4957,
+    "id" : 6431,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Beringer 4 pistons"
   },
   "engine" : {
-    "id" : 4957,
+    "id" : 6431,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4957,
+    "id" : 6431,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4957,
+    "id" : 6431,
     "dryWeight" : 179.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4958,
+  "id" : 6432,
   "idMotoplanete" : 2129,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2129/1000-BLACK-MAGIC-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2006.jpg",
   "year" : "2006",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4958,
+    "id" : 6432,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4958,
+    "id" : 6432,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4958,
+    "id" : 6432,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4958,
+    "id" : 6432,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4958,
+    "id" : 6432,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1674,9 +1674,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4959,
+  "id" : 6433,
   "idMotoplanete" : 2142,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2142/1000-ROADSTER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2006.jpg",
   "year" : "2006",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4959,
+    "id" : 6433,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4959,
+    "id" : 6433,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4959,
+    "id" : 6433,
     "gasSupply" : "Injection",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4959,
+    "id" : 6433,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4959,
+    "id" : 6433,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -1741,9 +1741,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4960,
+  "id" : 6434,
   "idMotoplanete" : 2159,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2159/1000-SCRAMBLER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2006.jpg",
   "year" : "2006",
@@ -1753,23 +1753,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4960,
+    "id" : 6434,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4960,
+    "id" : 6434,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4960,
+    "id" : 6434,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4960,
+    "id" : 6434,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4960,
+    "id" : 6434,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -1808,9 +1808,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4961,
+  "id" : 6435,
   "idMotoplanete" : 2121,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2121/1000-STREET-SCRAMBLER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2006.jpg",
   "year" : "2006",
@@ -1820,23 +1820,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2006.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4961,
+    "id" : 6435,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4961,
+    "id" : 6435,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4961,
+    "id" : 6435,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4961,
+    "id" : 6435,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4961,
+    "id" : 6435,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1875,9 +1875,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4962,
+  "id" : 6436,
   "idMotoplanete" : 2148,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2148/1000-CAFE-RACER-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2005.jpg",
   "year" : "2005",
@@ -1887,23 +1887,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2005.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4962,
+    "id" : 6436,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4962,
+    "id" : 6436,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4962,
+    "id" : 6436,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4962,
+    "id" : 6436,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4962,
+    "id" : 6436,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -1942,9 +1942,9 @@
     "movingWeight" : 220.0
   }
 }, {
-  "id" : 4963,
+  "id" : 6437,
   "idMotoplanete" : 2128,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2128/1000-BLACK-MAGIC-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2005.jpg",
   "year" : "2005",
@@ -1954,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2005.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4963,
+    "id" : 6437,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4963,
+    "id" : 6437,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4963,
+    "id" : 6437,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4963,
+    "id" : 6437,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4963,
+    "id" : 6437,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2009,9 +2009,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4964,
+  "id" : 6438,
   "idMotoplanete" : 2141,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2141/1000-ROADSTER-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2005.jpg",
   "year" : "2005",
@@ -2021,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2005.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4964,
+    "id" : 6438,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4964,
+    "id" : 6438,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4964,
+    "id" : 6438,
     "gasSupply" : "Injection",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4964,
+    "id" : 6438,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4964,
+    "id" : 6438,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -2076,9 +2076,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4965,
+  "id" : 6439,
   "idMotoplanete" : 2158,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2158/1000-SCRAMBLER-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2005.jpg",
   "year" : "2005",
@@ -2088,23 +2088,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2005.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4965,
+    "id" : 6439,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4965,
+    "id" : 6439,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4965,
+    "id" : 6439,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4965,
+    "id" : 6439,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4965,
+    "id" : 6439,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -2143,9 +2143,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4966,
+  "id" : 6440,
   "idMotoplanete" : 2120,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2120/1000-STREET-SCRAMBLER-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2005.jpg",
   "year" : "2005",
@@ -2155,23 +2155,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2005.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4966,
+    "id" : 6440,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4966,
+    "id" : 6440,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4966,
+    "id" : 6440,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4966,
+    "id" : 6440,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4966,
+    "id" : 6440,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2210,9 +2210,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4967,
+  "id" : 6441,
   "idMotoplanete" : 2147,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2147/1000-CAFE-RACER-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2004.jpg",
   "year" : "2004",
@@ -2222,23 +2222,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2004.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4967,
+    "id" : 6441,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4967,
+    "id" : 6441,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4967,
+    "id" : 6441,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -2257,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4967,
+    "id" : 6441,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2265,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4967,
+    "id" : 6441,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2277,9 +2277,9 @@
     "movingWeight" : 225.0
   }
 }, {
-  "id" : 4968,
+  "id" : 6442,
   "idMotoplanete" : 1060,
-  "name" : "VB1 1000 Evo ",
+  "name" : "VB1 1000 Evo",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1060/VB1-1000-Evo-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/VB1-2004-evo.jpg",
   "year" : "2004",
@@ -2289,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/VB1-2004-evo.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4968,
+    "id" : 6442,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4968,
+    "id" : 6442,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4968,
+    "id" : 6442,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2324,7 +2324,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4968,
+    "id" : 6442,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2332,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4968,
+    "id" : 6442,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -2344,9 +2344,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4969,
+  "id" : 6443,
   "idMotoplanete" : 2127,
-  "name" : "1000 BLACK MAGIC ",
+  "name" : "1000 BLACK MAGIC",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2127/1000-BLACK-MAGIC-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-black-magic-2004.jpg",
   "year" : "2004",
@@ -2356,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-black-magic-2004.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4969,
+    "id" : 6443,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4969,
+    "id" : 6443,
     "fork" : "Fourche télescopique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4969,
+    "id" : 6443,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2391,7 +2391,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4969,
+    "id" : 6443,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2399,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4969,
+    "id" : 6443,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2411,9 +2411,9 @@
     "movingWeight" : 218.0
   }
 }, {
-  "id" : 4970,
+  "id" : 6444,
   "idMotoplanete" : 2140,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2140/1000-ROADSTER-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2004.jpg",
   "year" : "2004",
@@ -2423,23 +2423,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2004.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4970,
+    "id" : 6444,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4970,
+    "id" : 6444,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4970,
+    "id" : 6444,
     "gasSupply" : "Injection",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2458,7 +2458,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4970,
+    "id" : 6444,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2466,7 +2466,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4970,
+    "id" : 6444,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -2478,9 +2478,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4971,
+  "id" : 6445,
   "idMotoplanete" : 2157,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2157/1000-SCRAMBLER-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2004.jpg",
   "year" : "2004",
@@ -2490,23 +2490,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2004.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4971,
+    "id" : 6445,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4971,
+    "id" : 6445,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4971,
+    "id" : 6445,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -2525,7 +2525,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4971,
+    "id" : 6445,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2533,7 +2533,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4971,
+    "id" : 6445,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -2545,9 +2545,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4972,
+  "id" : 6446,
   "idMotoplanete" : 2119,
-  "name" : "1000 STREET SCRAMBLER ",
+  "name" : "1000 STREET SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2119/1000-STREET-SCRAMBLER-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2004.jpg",
   "year" : "2004",
@@ -2557,23 +2557,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-Street-Scrambler-2004.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4972,
+    "id" : 6446,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4972,
+    "id" : 6446,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4972,
+    "id" : 6446,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.5,
     "torqueRpm" : 6500.0,
@@ -2592,7 +2592,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4972,
+    "id" : 6446,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2600,7 +2600,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4972,
+    "id" : 6446,
     "dryWeight" : 190.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2612,9 +2612,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4973,
+  "id" : 6447,
   "idMotoplanete" : 2146,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2146/1000-CAFE-RACER-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2003.jpg",
   "year" : "2003",
@@ -2624,23 +2624,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2003.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4973,
+    "id" : 6447,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4973,
+    "id" : 6447,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4973,
+    "id" : 6447,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -2659,7 +2659,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4973,
+    "id" : 6447,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2667,7 +2667,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4973,
+    "id" : 6447,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2679,9 +2679,9 @@
     "movingWeight" : 225.0
   }
 }, {
-  "id" : 4974,
+  "id" : 6448,
   "idMotoplanete" : 1059,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1059/VB1-1000-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/VB1-2003.jpg",
   "year" : "2003",
@@ -2691,23 +2691,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/VB1-2003.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4974,
+    "id" : 6448,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4974,
+    "id" : 6448,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4974,
+    "id" : 6448,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2726,7 +2726,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4974,
+    "id" : 6448,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2734,7 +2734,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4974,
+    "id" : 6448,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -2746,9 +2746,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4975,
+  "id" : 6449,
   "idMotoplanete" : 2139,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2139/1000-ROADSTER-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2003.jpg",
   "year" : "2003",
@@ -2758,23 +2758,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2003.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4975,
+    "id" : 6449,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4975,
+    "id" : 6449,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4975,
+    "id" : 6449,
     "gasSupply" : "Injection",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -2793,7 +2793,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4975,
+    "id" : 6449,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2801,7 +2801,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4975,
+    "id" : 6449,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -2813,9 +2813,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4976,
+  "id" : 6450,
   "idMotoplanete" : 2156,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2156/1000-SCRAMBLER-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2003.jpg",
   "year" : "2003",
@@ -2825,23 +2825,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2003.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4976,
+    "id" : 6450,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4976,
+    "id" : 6450,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4976,
+    "id" : 6450,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -2860,7 +2860,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4976,
+    "id" : 6450,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2868,7 +2868,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4976,
+    "id" : 6450,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -2880,9 +2880,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4977,
+  "id" : 6451,
   "idMotoplanete" : 2145,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2145/1000-CAFE-RACER-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2002.jpg",
   "year" : "2002",
@@ -2892,23 +2892,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2002.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4977,
+    "id" : 6451,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4977,
+    "id" : 6451,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4977,
+    "id" : 6451,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -2927,7 +2927,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4977,
+    "id" : 6451,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2935,7 +2935,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4977,
+    "id" : 6451,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -2947,9 +2947,9 @@
     "movingWeight" : 225.0
   }
 }, {
-  "id" : 4978,
+  "id" : 6452,
   "idMotoplanete" : 1058,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1058/VB1-1000-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/VB1-2002.jpg",
   "year" : "2002",
@@ -2959,23 +2959,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/VB1-2002.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4978,
+    "id" : 6452,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4978,
+    "id" : 6452,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4978,
+    "id" : 6452,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -2994,7 +2994,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4978,
+    "id" : 6452,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3002,7 +3002,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4978,
+    "id" : 6452,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -3014,9 +3014,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4979,
+  "id" : 6453,
   "idMotoplanete" : 2138,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2138/1000-ROADSTER-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2002.jpg",
   "year" : "2002",
@@ -3026,23 +3026,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2002.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4979,
+    "id" : 6453,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4979,
+    "id" : 6453,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4979,
+    "id" : 6453,
     "gasSupply" : "Injection",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3061,7 +3061,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4979,
+    "id" : 6453,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3069,7 +3069,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4979,
+    "id" : 6453,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -3081,9 +3081,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4980,
+  "id" : 6454,
   "idMotoplanete" : 2155,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2155/1000-SCRAMBLER-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2002.jpg",
   "year" : "2002",
@@ -3093,23 +3093,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2002.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4980,
+    "id" : 6454,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4980,
+    "id" : 6454,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4980,
+    "id" : 6454,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -3128,7 +3128,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4980,
+    "id" : 6454,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3136,7 +3136,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4980,
+    "id" : 6454,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -3148,9 +3148,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4981,
+  "id" : 6455,
   "idMotoplanete" : 2144,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2144/1000-CAFE-RACER-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2001.jpg",
   "year" : "2001",
@@ -3160,23 +3160,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2001.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4981,
+    "id" : 6455,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4981,
+    "id" : 6455,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4981,
+    "id" : 6455,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3195,7 +3195,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4981,
+    "id" : 6455,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3203,7 +3203,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4981,
+    "id" : 6455,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -3215,9 +3215,9 @@
     "movingWeight" : 225.0
   }
 }, {
-  "id" : 4982,
+  "id" : 6456,
   "idMotoplanete" : 1057,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/1057/VB1-1000-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/VB1-2001.jpg",
   "year" : "2001",
@@ -3227,23 +3227,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/VB1-2001.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4982,
+    "id" : 6456,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4982,
+    "id" : 6456,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4982,
+    "id" : 6456,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -3262,7 +3262,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4982,
+    "id" : 6456,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3270,7 +3270,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4982,
+    "id" : 6456,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -3282,9 +3282,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4983,
+  "id" : 6457,
   "idMotoplanete" : 2137,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2137/1000-ROADSTER-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2001.jpg",
   "year" : "2001",
@@ -3294,23 +3294,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2001.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4983,
+    "id" : 6457,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4983,
+    "id" : 6457,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4983,
+    "id" : 6457,
     "gasSupply" : "Injection",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3329,7 +3329,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4983,
+    "id" : 6457,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3337,7 +3337,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4983,
+    "id" : 6457,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -3349,9 +3349,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4984,
+  "id" : 6458,
   "idMotoplanete" : 2154,
-  "name" : "1000 SCRAMBLER ",
+  "name" : "1000 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2154/1000-SCRAMBLER-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2001.jpg",
   "year" : "2001",
@@ -3361,23 +3361,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-scrambler-2001.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4984,
+    "id" : 6458,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4984,
+    "id" : 6458,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "100 / 90 - 19\"",
     "frontBrake" : "2 disques Ø 296 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4984,
+    "id" : 6458,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.1,
     "torqueRpm" : 6500.0,
@@ -3396,7 +3396,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4984,
+    "id" : 6458,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3404,7 +3404,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4984,
+    "id" : 6458,
     "dryWeight" : 190.0,
     "seatHeight" : 820.0,
     "type" : "Double poutre tubulaire",
@@ -3416,9 +3416,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4985,
+  "id" : 6459,
   "idMotoplanete" : 2134,
-  "name" : "1000 CAFE RACER ",
+  "name" : "1000 CAFE RACER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2134/1000-CAFE-RACER-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2000.jpg",
   "year" : "2000",
@@ -3428,23 +3428,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-Cafe-Racer-2000.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4985,
+    "id" : 6459,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4985,
+    "id" : 6459,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4985,
+    "id" : 6459,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3463,7 +3463,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4985,
+    "id" : 6459,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3471,7 +3471,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4985,
+    "id" : 6459,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "Double poutre tubulaire",
@@ -3483,9 +3483,9 @@
     "movingWeight" : 225.0
   }
 }, {
-  "id" : 4986,
+  "id" : 6460,
   "idMotoplanete" : 2136,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2136/1000-ROADSTER-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/1000-roadster-2000.jpg",
   "year" : "2000",
@@ -3495,23 +3495,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/1000-roadster-2000.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4986,
+    "id" : 6460,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4986,
+    "id" : 6460,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4986,
+    "id" : 6460,
     "gasSupply" : "Injection",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3530,7 +3530,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4986,
+    "id" : 6460,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3538,7 +3538,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4986,
+    "id" : 6460,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",
@@ -3550,9 +3550,9 @@
     "movingWeight" : 223.0
   }
 }, {
-  "id" : 4987,
+  "id" : 6461,
   "idMotoplanete" : 2135,
-  "name" : "1000 ROADSTER ",
+  "name" : "1000 ROADSTER",
   "urlMotoplanete" : "http://www.motoplanete.com/voxan/2135/1000-ROADSTER-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/voxan/voxan-1000-roadster-1999.jpg",
   "year" : "1999",
@@ -3562,23 +3562,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/voxan/voxan-1000-roadster-1999.jpg" ],
-  "idManufacturer" : 69,
+  "idManufacturer" : 71,
   "rearAxle" : {
-    "id" : 4987,
+    "id" : 6461,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4987,
+    "id" : 6461,
     "fork" : "Fourche téléhydraulique inversée Ø 40 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4987,
+    "id" : 6461,
     "gasSupply" : "Injection",
     "torque" : 10.0,
     "torqueRpm" : 6000.0,
@@ -3597,7 +3597,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4987,
+    "id" : 6461,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -3605,7 +3605,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4987,
+    "id" : 6461,
     "dryWeight" : 190.0,
     "seatHeight" : 800.0,
     "type" : "Double épine dorsale tubulaire acier/aluminium",

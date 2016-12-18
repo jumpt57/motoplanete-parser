@@ -1,7 +1,7 @@
 [ {
-  "id" : 4925,
+  "id" : 6398,
   "idMotoplanete" : 6160,
-  "name" : "CROSS / CROSS TWD ",
+  "name" : "CROSS / CROSS TWD",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6160/CROSS--CROSS-TWD-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-Cross-2016.jpg",
   "year" : "2016",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-Cross-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4925,
+    "id" : 6398,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4925,
+    "id" : 6398,
     "fork" : "fourche à balancier et à 2 amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4925,
+    "id" : 6398,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -46,15 +46,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4925,
-    "gearboxSpeeds" : null,
+    "id" : 6398,
+    "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "arbre à cardan sur la roue arrière (avec le 2WD crabotable sur la roue du side-car sur la version TW",
     "type" : null,
-    "reverse" : "4 rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4925,
+    "id" : 6398,
     "dryWeight" : 363.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4926,
+  "id" : 6399,
   "idMotoplanete" : 6156,
-  "name" : "CT ",
+  "name" : "CT",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6156/CT-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-CT-2016.jpg",
   "year" : "2016",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-CT-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4926,
+    "id" : 6399,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 18 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4926,
+    "id" : 6399,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 18 - 18\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4926,
+    "id" : 6399,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -113,15 +113,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4926,
-    "gearboxSpeeds" : null,
+    "id" : 6399,
+    "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "pont cônique à cardan",
     "type" : null,
-    "reverse" : "4 rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4926,
+    "id" : 6399,
     "dryWeight" : 320.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau en acier soudé",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4927,
+  "id" : 6400,
   "idMotoplanete" : 6152,
-  "name" : "RANGER ",
+  "name" : "RANGER",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6152/RANGER-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-Ranger-2016.jpg",
   "year" : "2016",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-Ranger-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4927,
+    "id" : 6400,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4927,
+    "id" : 6400,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4927,
+    "id" : 6400,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4927,
+    "id" : 6400,
     "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "arbre à cardan sur la roue arrière et 2WD (crabotable sur la roue du side-car)",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4927,
+    "id" : 6400,
     "dryWeight" : 363.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4928,
+  "id" : 6401,
   "idMotoplanete" : 6158,
-  "name" : "RETRO ",
+  "name" : "RETRO",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6158/RETRO-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-Retro-2016.jpg",
   "year" : "2016",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-Retro-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4928,
+    "id" : 6401,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 18 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4928,
+    "id" : 6401,
     "fork" : "fourche telescopique",
     "frontShock" : null,
     "frontWheel" : "4.00 x 18 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4928,
+    "id" : 6401,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -247,15 +247,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4928,
-    "gearboxSpeeds" : null,
+    "id" : 6401,
+    "gearboxSpeeds" : "4 Rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "Arbre à cardan sur la roue arrière et pont 1WD",
     "type" : null,
-    "reverse" : "4 Rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4928,
+    "id" : 6401,
     "dryWeight" : 344.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4929,
+  "id" : 6402,
   "idMotoplanete" : 6153,
-  "name" : "SPORTSMAN ",
+  "name" : "SPORTSMAN",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6153/SPORTSMAN-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-sportsman-2016.jpg",
   "year" : "2016",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-sportsman-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4929,
+    "id" : 6402,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4929,
+    "id" : 6402,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4929,
+    "id" : 6402,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -314,15 +314,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4929,
-    "gearboxSpeeds" : null,
+    "id" : 6402,
+    "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "arbre à cardan sur la roue arrière avec le 2WD (crabotable sur la roue du side-car)",
     "type" : null,
-    "reverse" : "4 rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4929,
+    "id" : 6402,
     "dryWeight" : 363.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4930,
+  "id" : 6403,
   "idMotoplanete" : 6157,
-  "name" : "TOURIST ",
+  "name" : "TOURIST",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6157/TOURIST-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-Tourist-2016.jpg",
   "year" : "2016",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-Tourist-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4930,
+    "id" : 6403,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4930,
+    "id" : 6403,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4930,
+    "id" : 6403,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -381,15 +381,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4930,
-    "gearboxSpeeds" : null,
+    "id" : 6403,
+    "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "Arbre à cardan sur la roue arrière et pont 1WD",
     "type" : null,
-    "reverse" : "4 rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4930,
+    "id" : 6403,
     "dryWeight" : 334.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4931,
+  "id" : 6404,
   "idMotoplanete" : 6155,
-  "name" : "TWD ",
+  "name" : "TWD",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6155/TWD-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-T-TWD-2016.jpg",
   "year" : "2016",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-T-TWD-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4931,
+    "id" : 6404,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4931,
+    "id" : 6404,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4931,
+    "id" : 6404,
     "gasSupply" : "injection electronique",
     "torque" : 5.2,
     "torqueRpm" : 4000.0,
@@ -448,15 +448,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4931,
-    "gearboxSpeeds" : null,
+    "id" : 6404,
+    "gearboxSpeeds" : "4 rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "cônique à cardan sur la roue arrière (avec 2WD crabotable sur la roue du side-car sur la version TW",
     "type" : null,
-    "reverse" : "4 rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4931,
+    "id" : 6404,
     "dryWeight" : 363.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4932,
+  "id" : 6405,
   "idMotoplanete" : 6159,
-  "name" : "SCRAMBLER ",
+  "name" : "SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/ural/6159/SCRAMBLER-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ural/Ural-750-Scrambler-2016.jpg",
   "year" : "2015",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/ural/Ural-750-Scrambler-2016.jpg" ],
-  "idManufacturer" : 67,
+  "idManufacturer" : 68,
   "rearAxle" : {
-    "id" : 4932,
+    "id" : 6405,
     "rearShock" : "2 amortisseurs hydrauliques verticaux à 5 positions/side: hydraulique à 5 positions",
     "rearBrake" : null,
     "rearWheel" : "4.00 x 19 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4932,
+    "id" : 6405,
     "fork" : "fourche à balancier et à amortisseurs hydrauliques verticaux à 5 positions",
     "frontShock" : null,
     "frontWheel" : "4.00 x 19 - 19\"",
     "frontBrake" : "freins à disques sur les 3 roues (brembo et HB)"
   },
   "engine" : {
-    "id" : 4932,
+    "id" : 6405,
     "gasSupply" : "injection electronique",
     "torque" : 5.3,
     "torqueRpm" : 4000.0,
@@ -515,15 +515,15 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4932,
-    "gearboxSpeeds" : null,
+    "id" : 6405,
+    "gearboxSpeeds" : "4 Rapports avec marche arrière",
     "geerboxType" : null,
     "secondaryTransmission" : "cônique à cardan sur la roue arrière avec le 2WD crabotable sur la roue du side-car",
     "type" : null,
-    "reverse" : "4 Rapports avec marche arrière"
+    "reverse" : null
   },
   "frame" : {
-    "id" : 4932,
+    "id" : 6405,
     "dryWeight" : 363.0,
     "seatHeight" : 790.0,
     "type" : "tubulaire double berceau en acier soudé",

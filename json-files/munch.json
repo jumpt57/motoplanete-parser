@@ -1,7 +1,7 @@
 [ {
-  "id" : 4840,
+  "id" : 6313,
   "idMotoplanete" : 633,
-  "name" : "MAMMUT 2000 ",
+  "name" : "MAMMUT 2000",
   "urlMotoplanete" : "http://www.motoplanete.com/munch/633/MAMMUT-2000-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/munch/mammut.jpg",
   "year" : "2000",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/munch/mammut.jpg" ],
-  "idManufacturer" : 54,
+  "idManufacturer" : 55,
   "rearAxle" : {
-    "id" : 4840,
+    "id" : 6313,
     "rearShock" : "2 amortisseurs horizontaux, déb : 65 mm",
     "rearBrake" : "1 disque Ø 280 mm, étrier 4 pistons",
     "rearWheel" : "200 / 50 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4840,
+    "id" : 6313,
     "fork" : "fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 8 pistons"
   },
   "engine" : {
-    "id" : 4840,
+    "id" : 6313,
     "gasSupply" : "Injection électronique",
     "torque" : 30.1,
     "torqueRpm" : 3500.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4840,
+    "id" : 6313,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4840,
+    "id" : 6313,
     "dryWeight" : 354.0,
     "seatHeight" : 780.0,
     "type" : "Double berceau acier",

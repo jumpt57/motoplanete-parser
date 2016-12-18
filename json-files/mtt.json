@@ -1,7 +1,7 @@
 [ {
-  "id" : 4758,
+  "id" : 6231,
   "idMotoplanete" : 639,
-  "name" : "Turbine Technologies Y2K TURBINE SUPERBIKE ",
+  "name" : "Turbine Technologies Y2K TURBINE SUPERBIKE",
   "urlMotoplanete" : "http://www.motoplanete.com/mtt/639/Y2K-TURBINE-SUPERBIKE-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mtt/Y2K.jpg",
   "year" : "2001",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mtt/Y2K.jpg" ],
-  "idManufacturer" : 45,
+  "idManufacturer" : 46,
   "rearAxle" : {
-    "id" : 4758,
+    "id" : 6231,
     "rearShock" : "monoamortisseur Öhlins, déb : 140 mm",
     "rearBrake" : "1 disque Brembo Ø 320 mm, étrier 2 pistons",
     "rearWheel" : "200 / 50 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4758,
+    "id" : 6231,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 135 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disques Brembo Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4758,
+    "id" : 6231,
     "gasSupply" : "Injection",
     "torque" : 59.0,
     "torqueRpm" : 20000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4758,
+    "id" : 6231,
     "gearboxSpeeds" : "2 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4758,
+    "id" : 6231,
     "dryWeight" : 227.0,
     "seatHeight" : 800.0,
     "type" : "périmétriqu en alu mécanosoudé, pièce taillé dans la masse",

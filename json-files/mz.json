@@ -1,7 +1,7 @@
 [ {
-  "id" : 4841,
+  "id" : 6314,
   "idMotoplanete" : 2437,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2437/125-RT-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2010.jpg",
   "year" : "2010",
@@ -9,25 +9,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2010.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4841,
+    "id" : 6314,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4841,
+    "id" : 6314,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4841,
+    "id" : 6314,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4841,
+    "id" : 6314,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4841,
+    "id" : 6314,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4842,
+  "id" : 6315,
   "idMotoplanete" : 1412,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1412/1000-S-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2009.jpg",
   "year" : "2009",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2009.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4842,
+    "id" : 6315,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4842,
+    "id" : 6315,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4842,
+    "id" : 6315,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4842,
+    "id" : 6315,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4842,
+    "id" : 6315,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -133,9 +133,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4843,
+  "id" : 6316,
   "idMotoplanete" : 1416,
-  "name" : "1000 SF SUPER FIGHTER ",
+  "name" : "1000 SF SUPER FIGHTER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1416/1000-SF-SUPER-FIGHTER-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-SF-2009.jpg",
   "year" : "2009",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-SF-2009.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4843,
+    "id" : 6316,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4843,
+    "id" : 6316,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4843,
+    "id" : 6316,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4843,
+    "id" : 6316,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4843,
+    "id" : 6316,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -200,9 +200,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4844,
+  "id" : 6317,
   "idMotoplanete" : 2402,
-  "name" : "1000 ST SUPER TRAVELLER ",
+  "name" : "1000 ST SUPER TRAVELLER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2402/1000-ST-SUPER-TRAVELLER-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-ST.jpg",
   "year" : "2009",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-ST.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4844,
+    "id" : 6317,
     "rearShock" : "Monoamortisseur",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4844,
+    "id" : 6317,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4844,
+    "id" : 6317,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7500.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4844,
+    "id" : 6317,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4844,
+    "id" : 6317,
     "dryWeight" : 197.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -267,9 +267,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4845,
+  "id" : 6318,
   "idMotoplanete" : 2436,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2436/125-RT-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2009.jpg",
   "year" : "2009",
@@ -277,25 +277,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2009.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4845,
+    "id" : 6318,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4845,
+    "id" : 6318,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4845,
+    "id" : 6318,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4845,
+    "id" : 6318,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4845,
+    "id" : 6318,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4846,
+  "id" : 6319,
   "idMotoplanete" : 1411,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1411/1000-S-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2008.jpg",
   "year" : "2008",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2008.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4846,
+    "id" : 6319,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4846,
+    "id" : 6319,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4846,
+    "id" : 6319,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4846,
+    "id" : 6319,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4846,
+    "id" : 6319,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -401,9 +401,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4847,
+  "id" : 6320,
   "idMotoplanete" : 1415,
-  "name" : "1000 SF SUPER FIGHTER ",
+  "name" : "1000 SF SUPER FIGHTER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1415/1000-SF-SUPER-FIGHTER-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-SF-2008.jpg",
   "year" : "2008",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-SF-2008.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4847,
+    "id" : 6320,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4847,
+    "id" : 6320,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4847,
+    "id" : 6320,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4847,
+    "id" : 6320,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4847,
+    "id" : 6320,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -468,9 +468,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4848,
+  "id" : 6321,
   "idMotoplanete" : 2401,
-  "name" : "1000 ST SUPER TRAVELLER ",
+  "name" : "1000 ST SUPER TRAVELLER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2401/1000-ST-SUPER-TRAVELLER-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-ST.jpg",
   "year" : "2008",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-ST.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4848,
+    "id" : 6321,
     "rearShock" : "Monoamortisseur",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4848,
+    "id" : 6321,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4848,
+    "id" : 6321,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7500.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4848,
+    "id" : 6321,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4848,
+    "id" : 6321,
     "dryWeight" : 197.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -535,9 +535,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4849,
+  "id" : 6322,
   "idMotoplanete" : 2435,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2435/125-RT-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2008.jpg",
   "year" : "2008",
@@ -545,25 +545,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2008.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4849,
+    "id" : 6322,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4849,
+    "id" : 6322,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4849,
+    "id" : 6322,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4849,
+    "id" : 6322,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4849,
+    "id" : 6322,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4850,
+  "id" : 6323,
   "idMotoplanete" : 1410,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1410/1000-S-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2007.jpg",
   "year" : "2007",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2007.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4850,
+    "id" : 6323,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4850,
+    "id" : 6323,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4850,
+    "id" : 6323,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4850,
+    "id" : 6323,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4850,
+    "id" : 6323,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -669,9 +669,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4851,
+  "id" : 6324,
   "idMotoplanete" : 1414,
-  "name" : "1000 SF SUPER FIGHTER ",
+  "name" : "1000 SF SUPER FIGHTER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1414/1000-SF-SUPER-FIGHTER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-SF-2007.jpg",
   "year" : "2007",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-SF-2007.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4851,
+    "id" : 6324,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4851,
+    "id" : 6324,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4851,
+    "id" : 6324,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4851,
+    "id" : 6324,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4851,
+    "id" : 6324,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -736,9 +736,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4852,
+  "id" : 6325,
   "idMotoplanete" : 2400,
-  "name" : "1000 ST SUPER TRAVELLER ",
+  "name" : "1000 ST SUPER TRAVELLER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2400/1000-ST-SUPER-TRAVELLER-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-ST.jpg",
   "year" : "2007",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-ST.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4852,
+    "id" : 6325,
     "rearShock" : "Monoamortisseur",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4852,
+    "id" : 6325,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4852,
+    "id" : 6325,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7500.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4852,
+    "id" : 6325,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4852,
+    "id" : 6325,
     "dryWeight" : 197.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -803,9 +803,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4853,
+  "id" : 6326,
   "idMotoplanete" : 2434,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2434/125-RT-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2007.jpg",
   "year" : "2007",
@@ -813,25 +813,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2007.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4853,
+    "id" : 6326,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4853,
+    "id" : 6326,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4853,
+    "id" : 6326,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4853,
+    "id" : 6326,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4853,
+    "id" : 6326,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4854,
+  "id" : 6327,
   "idMotoplanete" : 1409,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1409/1000-S-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2006.jpg",
   "year" : "2006",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2006.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4854,
+    "id" : 6327,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4854,
+    "id" : 6327,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4854,
+    "id" : 6327,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4854,
+    "id" : 6327,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4854,
+    "id" : 6327,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -937,9 +937,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4855,
+  "id" : 6328,
   "idMotoplanete" : 1413,
-  "name" : "1000 SF SUPER FIGHTER ",
+  "name" : "1000 SF SUPER FIGHTER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1413/1000-SF-SUPER-FIGHTER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-SF-2006.jpg",
   "year" : "2006",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-SF-2006.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4855,
+    "id" : 6328,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4855,
+    "id" : 6328,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4855,
+    "id" : 6328,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4855,
+    "id" : 6328,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4855,
+    "id" : 6328,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1004,9 +1004,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4856,
+  "id" : 6329,
   "idMotoplanete" : 536,
-  "name" : "1000 ST SUPER TRAVELLER ",
+  "name" : "1000 ST SUPER TRAVELLER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/536/1000-ST-SUPER-TRAVELLER-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-ST.jpg",
   "year" : "2006",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-ST.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4856,
+    "id" : 6329,
     "rearShock" : "Monoamortisseur",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4856,
+    "id" : 6329,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4856,
+    "id" : 6329,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7500.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4856,
+    "id" : 6329,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4856,
+    "id" : 6329,
     "dryWeight" : 197.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1071,9 +1071,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4857,
+  "id" : 6330,
   "idMotoplanete" : 2433,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2433/125-RT-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2006.jpg",
   "year" : "2006",
@@ -1081,25 +1081,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2006.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4857,
+    "id" : 6330,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4857,
+    "id" : 6330,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4857,
+    "id" : 6330,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4857,
+    "id" : 6330,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4857,
+    "id" : 6330,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4858,
+  "id" : 6331,
   "idMotoplanete" : 1408,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/1408/1000-S-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2005.jpg",
   "year" : "2005",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2005.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4858,
+    "id" : 6331,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4858,
+    "id" : 6331,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4858,
+    "id" : 6331,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4858,
+    "id" : 6331,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4858,
+    "id" : 6331,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1205,9 +1205,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4859,
+  "id" : 6332,
   "idMotoplanete" : 535,
-  "name" : "1000 SF SUPER FIGHTER ",
+  "name" : "1000 SF SUPER FIGHTER",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/535/1000-SF-SUPER-FIGHTER-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-SF-2005.jpg",
   "year" : "2005",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-SF-2005.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4859,
+    "id" : 6332,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4859,
+    "id" : 6332,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4859,
+    "id" : 6332,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4859,
+    "id" : 6332,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4859,
+    "id" : 6332,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1272,9 +1272,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4860,
+  "id" : 6333,
   "idMotoplanete" : 2403,
-  "name" : "1000 SF SUPER FIGHTER Edition Spéciale ",
+  "name" : "1000 SF SUPER FIGHTER Edition Spéciale",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2403/1000-SF-SUPER-FIGHTER-Edition-Speciale-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-1000-SF-edition-speciale-2005.jpg",
   "year" : "2005",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-1000-SF-edition-speciale-2005.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4860,
+    "id" : 6333,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 248 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4860,
+    "id" : 6333,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4860,
+    "id" : 6333,
     "gasSupply" : "injection électronique",
     "torque" : 10.0,
     "torqueRpm" : 7000.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4860,
+    "id" : 6333,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4860,
+    "id" : 6333,
     "dryWeight" : 190.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1339,9 +1339,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4861,
+  "id" : 6334,
   "idMotoplanete" : 2432,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2432/125-RT-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2005.jpg",
   "year" : "2005",
@@ -1349,25 +1349,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3590,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2005.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4861,
+    "id" : 6334,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4861,
+    "id" : 6334,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4861,
+    "id" : 6334,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4861,
+    "id" : 6334,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4861,
+    "id" : 6334,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4862,
+  "id" : 6335,
   "idMotoplanete" : 534,
-  "name" : "1000 S ",
+  "name" : "1000 S",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/534/1000-S-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/1000-S-2004.jpg",
   "year" : "2004",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/1000-S-2004.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4862,
+    "id" : 6335,
     "rearShock" : "Monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 243 mm, étrier 2pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4862,
+    "id" : 6335,
     "fork" : "Fourche téléhydraulique inversée Ø 43mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4862,
+    "id" : 6335,
     "gasSupply" : "Injection électronique Ø 50 mm",
     "torque" : 9.6,
     "torqueRpm" : 7500.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4862,
+    "id" : 6335,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4862,
+    "id" : 6335,
     "dryWeight" : 210.0,
     "seatHeight" : 825.0,
     "type" : "périmétrique à section tubulaire",
@@ -1473,9 +1473,9 @@
     "movingWeight" : 235.0
   }
 }, {
-  "id" : 4863,
+  "id" : 6336,
   "idMotoplanete" : 2431,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2431/125-RT-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2004.jpg",
   "year" : "2004",
@@ -1483,25 +1483,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2004.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4863,
+    "id" : 6336,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4863,
+    "id" : 6336,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4863,
+    "id" : 6336,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4863,
+    "id" : 6336,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4863,
+    "id" : 6336,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4864,
+  "id" : 6337,
   "idMotoplanete" : 2430,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2430/125-RT-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2003.jpg",
   "year" : "2003",
@@ -1550,25 +1550,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2003.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4864,
+    "id" : 6337,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4864,
+    "id" : 6337,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4864,
+    "id" : 6337,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4864,
+    "id" : 6337,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4864,
+    "id" : 6337,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4865,
+  "id" : 6338,
   "idMotoplanete" : 2429,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2429/125-RT-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2002.jpg",
   "year" : "2002",
@@ -1617,25 +1617,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2002.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4865,
+    "id" : 6338,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4865,
+    "id" : 6338,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4865,
+    "id" : 6338,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4865,
+    "id" : 6338,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4865,
+    "id" : 6338,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4866,
+  "id" : 6339,
   "idMotoplanete" : 2428,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2428/125-RT-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2001.jpg",
   "year" : "2001",
@@ -1684,25 +1684,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2001.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4866,
+    "id" : 6339,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4866,
+    "id" : 6339,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4866,
+    "id" : 6339,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4866,
+    "id" : 6339,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4866,
+    "id" : 6339,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",
@@ -1741,9 +1741,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4867,
+  "id" : 6340,
   "idMotoplanete" : 2427,
-  "name" : "125 RT ",
+  "name" : "125 RT",
   "urlMotoplanete" : "http://www.motoplanete.com/mz/2427/125-RT-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/mz/MZ-125-RT-2000.jpg",
   "year" : "2000",
@@ -1751,25 +1751,25 @@
   "zeroToHundred" : 23.8,
   "price" : 3849,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/mz/MZ-125-RT-2000.jpg" ],
-  "idManufacturer" : 55,
+  "idManufacturer" : 56,
   "rearAxle" : {
-    "id" : 4867,
+    "id" : 6340,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "130 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4867,
+    "id" : 6340,
     "fork" : "Fourche téléhydraulique Ø 36 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4867,
+    "id" : 6340,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8500.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4867,
+    "id" : 6340,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4867,
+    "id" : 6340,
     "dryWeight" : 123.0,
     "seatHeight" : 770.0,
     "type" : "simple berceau en acier",

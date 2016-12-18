@@ -1,7 +1,7 @@
 [ {
-  "id" : 4549,
+  "id" : 6026,
   "idMotoplanete" : 5044,
-  "name" : "Rapitan ",
+  "name" : "Rapitan",
   "urlMotoplanete" : "http://www.motoplanete.com/bultaco/5044/Rapitan-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bultaco/Bultaco-Rapitan-2014.jpg",
   "year" : "2015",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bultaco/Bultaco-Rapitan-2014.jpg" ],
-  "idManufacturer" : 24,
+  "idManufacturer" : 25,
   "rearAxle" : {
-    "id" : 4549,
+    "id" : 6026,
     "rearShock" : "Mono-amortisseur, déb : 115 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4549,
+    "id" : 6026,
     "fork" : null,
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4549,
+    "id" : 6026,
     "gasSupply" : null,
     "torque" : 12.7,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : "Batterie Li-Ion"
   },
   "transmission" : {
-    "id" : 4549,
+    "id" : 6026,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "courroie",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4549,
+    "id" : 6026,
     "dryWeight" : 189.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tubes d'acier",

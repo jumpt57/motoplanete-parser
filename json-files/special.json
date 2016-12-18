@@ -1,7 +1,7 @@
 [ {
-  "id" : 4924,
+  "id" : 6397,
   "idMotoplanete" : 212,
-  "name" : "AKIRA - moto de Kaneda ",
+  "name" : "AKIRA - moto de Kaneda",
   "urlMotoplanete" : "http://www.motoplanete.com/special/212/AKIRA---moto-de-Kaneda-2019/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/special/akira_kaneda-moto-2019.jpg",
   "year" : "2019",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/special/akira_kaneda-moto-2019.jpg" ],
-  "idManufacturer" : 66,
+  "idManufacturer" : 67,
   "rearAxle" : {
-    "id" : 4924,
+    "id" : 6397,
     "rearShock" : null,
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : null,
     "type" : "Monobras"
   },
   "frontAxle" : {
-    "id" : 4924,
+    "id" : 6397,
     "fork" : null,
     "frontShock" : "4 amortisseurs combinés",
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø nc, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4924,
+    "id" : 6397,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4924,
+    "id" : 6397,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : null,
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4924,
+    "id" : 6397,
     "dryWeight" : 154.0,
     "seatHeight" : 340.0,
     "type" : "Structure coque",

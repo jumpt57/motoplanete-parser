@@ -1,0 +1,68 @@
+[ {
+  "id" : 5859,
+  "idMotoplanete" : 6487,
+  "name" : "Due R",
+  "urlMotoplanete" : "http://www.motoplanete.com/armotia/6487/Due-R-2017/contact.html",
+  "urlImgMotoplanete" : "http://www.motoplanete.com/armotia/Armotia-due-R-2017.jpg",
+  "year" : "2017",
+  "maxSpeed" : 90,
+  "zeroToHundred" : null,
+  "price" : 14900,
+  "priceABS" : null,
+  "categoryId" : 31,
+  "imagesUrl" : [ "http://www.motoplanete.com/armotia/Armotia-due-R-2017.jpg" ],
+  "idManufacturer" : 17,
+  "rearAxle" : {
+    "id" : 5859,
+    "rearShock" : "Mono-amortisseur, déb : 220 mm",
+    "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
+    "rearWheel" : "140 / 80 - 17\"",
+    "type" : null
+  },
+  "frontAxle" : {
+    "id" : 5859,
+    "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 240 mm",
+    "frontShock" : null,
+    "frontWheel" : "110 / 80 - 19\"",
+    "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
+  },
+  "engine" : {
+    "id" : 5859,
+    "gasSupply" : null,
+    "torque" : 37.7,
+    "torqueRpm" : null,
+    "act" : null,
+    "power" : 15.0,
+    "powerRpm" : null,
+    "cooling" : "par air",
+    "displacement" : null,
+    "type" : "Electrique en ligne",
+    "powerToWeightRatio" : 8.6,
+    "valve" : null,
+    "valveCommand" : null,
+    "engineIntake" : null,
+    "bridable" : null,
+    "camshaft" : null,
+    "batteryPack" : null
+  },
+  "transmission" : {
+    "id" : 5859,
+    "gearboxSpeeds" : null,
+    "geerboxType" : null,
+    "secondaryTransmission" : "chaîne - 2 roues motrices",
+    "type" : null,
+    "reverse" : null
+  },
+  "frame" : {
+    "id" : 5859,
+    "dryWeight" : 129.0,
+    "seatHeight" : 900.0,
+    "type" : "Structure en tubes d'acier carrés",
+    "tankCapacity" : null,
+    "lenght" : null,
+    "wheelbase" : 1410,
+    "width" : null,
+    "height" : null,
+    "movingWeight" : null
+  }
+} ]

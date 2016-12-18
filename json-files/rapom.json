@@ -1,7 +1,7 @@
 [ {
-  "id" : 4898,
+  "id" : 6371,
   "idMotoplanete" : 129,
-  "name" : "Rapom V8 ",
+  "name" : "Rapom V8",
   "urlMotoplanete" : "http://www.motoplanete.com/rapom/129/Rapom-V8-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/rapom/Rapom-V8.jpg",
   "year" : "2007",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/rapom/Rapom-V8.jpg" ],
-  "idManufacturer" : 59,
+  "idManufacturer" : 60,
   "rearAxle" : {
-    "id" : 4898,
+    "id" : 6371,
     "rearShock" : null,
     "rearBrake" : "Simple disque Harrison Billet Ø nc, étriers à 6 pistons",
     "rearWheel" : "290 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4898,
+    "id" : 6371,
     "fork" : "fourche téléscopique",
     "frontShock" : null,
     "frontWheel" : "180 / 70 - 15\"",
     "frontBrake" : "Simple disque Harrison Billet Ø nc, étriers à 6 pistons"
   },
   "engine" : {
-    "id" : 4898,
+    "id" : 6371,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4898,
+    "id" : 6371,
     "gearboxSpeeds" : null,
     "geerboxType" : null,
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4898,
+    "id" : 6371,
     "dryWeight" : 454.0,
     "seatHeight" : null,
     "type" : "treillis tubulaire de 32 mm utilisant le moteur comme élément de rigidité",

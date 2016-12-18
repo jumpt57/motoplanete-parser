@@ -1,7 +1,7 @@
 [ {
-  "id" : 4839,
+  "id" : 6312,
   "idMotoplanete" : 3435,
-  "name" : "MST-01 ",
+  "name" : "MST-01",
   "urlMotoplanete" : "http://www.motoplanete.com/motus/3435/MST-01-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/motus/Motus-MST-2012.jpg",
   "year" : "2012",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/motus/Motus-MST-2012.jpg" ],
-  "idManufacturer" : 53,
+  "idManufacturer" : 54,
   "rearAxle" : {
-    "id" : 4839,
+    "id" : 6312,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4839,
+    "id" : 6312,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4839,
+    "id" : 6312,
     "gasSupply" : "Injection Ø nc",
     "torque" : 16.7,
     "torqueRpm" : 4500.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4839,
+    "id" : 6312,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4839,
+    "id" : 6312,
     "dryWeight" : 227.0,
     "seatHeight" : 787.0,
     "type" : "treillis en tubes d'acier",

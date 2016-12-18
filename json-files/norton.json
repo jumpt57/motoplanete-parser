@@ -1,7 +1,7 @@
 [ {
-  "id" : 4871,
+  "id" : 6344,
   "idMotoplanete" : 6460,
-  "name" : "1200 V4 RR ",
+  "name" : "1200 V4 RR",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/6460/1200-V4-RR-2017/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-V4-1200-RR-2017-2.jpg",
   "year" : "2017",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-V4-1200-RR-2017-2.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4871,
+    "id" : 6344,
     "rearShock" : "Mono-amortisseur Öhlins TTXGP",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4871,
+    "id" : 6344,
     "fork" : "Fourche téléhydraulique inversée Öhlins NIX30 Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monobloc Brembo 4 pistons M50"
   },
   "engine" : {
-    "id" : 4871,
+    "id" : 6344,
     "gasSupply" : "Injection Ø nc",
     "torque" : 13.2,
     "torqueRpm" : 10000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4871,
+    "id" : 6344,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4871,
+    "id" : 6344,
     "dryWeight" : 199.0,
     "seatHeight" : null,
     "type" : "Treillis en tubes d'aluminium",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4872,
+  "id" : 6345,
   "idMotoplanete" : 6090,
-  "name" : "1200 V4 SS ",
+  "name" : "1200 V4 SS",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/6090/1200-V4-SS-2017/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-1200-V4-SS-2017.jpg",
   "year" : "2017",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-1200-V4-SS-2017.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4872,
+    "id" : 6345,
     "rearShock" : "Mono-amortisseur Öhlins TTXGP",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4872,
+    "id" : 6345,
     "fork" : "Fourche téléhydraulique inversée Öhlins NIX30 Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø 330 mm, étriers radiaux Brembo monoblocs 4 pistons M50"
   },
   "engine" : {
-    "id" : 4872,
+    "id" : 6345,
     "gasSupply" : "Injection Ø nc",
     "torque" : 13.2,
     "torqueRpm" : 10000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4872,
+    "id" : 6345,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4872,
+    "id" : 6345,
     "dryWeight" : 179.0,
     "seatHeight" : null,
     "type" : "Treillis en tubes d'aluminium",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4873,
+  "id" : 6346,
   "idMotoplanete" : 5981,
-  "name" : "961 Commando Café Racer MK II ",
+  "name" : "961 Commando Café Racer MK II",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5981/961-Commando-Cafe-Racer-MK-II-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-MK2-2016.jpg",
   "year" : "2016",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-MK2-2016.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4873,
+    "id" : 6346,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4873,
+    "id" : 6346,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4873,
+    "id" : 6346,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4873,
+    "id" : 6346,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4873,
+    "id" : 6346,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4874,
+  "id" : 6347,
   "idMotoplanete" : 5980,
-  "name" : "961 Commando Café Racer MK II Mick Grant Special ",
+  "name" : "961 Commando Café Racer MK II Mick Grant Special",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5980/961-Commando-Cafe-Racer-MK-II-Mick-Grant-Special-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-racer-Mick-Grant-2016.jpg",
   "year" : "2016",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-racer-Mick-Grant-2016.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4874,
+    "id" : 6347,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4874,
+    "id" : 6347,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers Brembo radiaux monobloc 4 pistons"
   },
   "engine" : {
-    "id" : 4874,
+    "id" : 6347,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4874,
+    "id" : 6347,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4874,
+    "id" : 6347,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -267,9 +267,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4875,
+  "id" : 6348,
   "idMotoplanete" : 5982,
-  "name" : "961 Commando SF MK II ",
+  "name" : "961 Commando SF MK II",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5982/961-Commando-SF-MK-II-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SF-MK2-2016.jpg",
   "year" : "2016",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SF-MK2-2016.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4875,
+    "id" : 6348,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4875,
+    "id" : 6348,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monobloc Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4875,
+    "id" : 6348,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4875,
+    "id" : 6348,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4875,
+    "id" : 6348,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4876,
+  "id" : 6349,
   "idMotoplanete" : 5978,
-  "name" : "961 Commando Sport MK II ",
+  "name" : "961 Commando Sport MK II",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5978/961-Commando-Sport-MK-II-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-MK-II-2016.jpg",
   "year" : "2016",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-MK-II-2016.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4876,
+    "id" : 6349,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4876,
+    "id" : 6349,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4876,
+    "id" : 6349,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4876,
+    "id" : 6349,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4876,
+    "id" : 6349,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -401,9 +401,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4877,
+  "id" : 6350,
   "idMotoplanete" : 5418,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5418/961-Commando-Cafe-Racer-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2015.jpg",
   "year" : "2015",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2015.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4877,
+    "id" : 6350,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4877,
+    "id" : 6350,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4877,
+    "id" : 6350,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4877,
+    "id" : 6350,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4877,
+    "id" : 6350,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -468,9 +468,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4878,
+  "id" : 6351,
   "idMotoplanete" : 5420,
-  "name" : "961 Commando SF ",
+  "name" : "961 Commando SF",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5420/961-Commando-SF-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2015.jpg",
   "year" : "2015",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2015.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4878,
+    "id" : 6351,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4878,
+    "id" : 6351,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4878,
+    "id" : 6351,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4878,
+    "id" : 6351,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4878,
+    "id" : 6351,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4879,
+  "id" : 6352,
   "idMotoplanete" : 5419,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/5419/961-Commando-Sport-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2015.jpg",
   "year" : "2015",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2015.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4879,
+    "id" : 6352,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4879,
+    "id" : 6352,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4879,
+    "id" : 6352,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4879,
+    "id" : 6352,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4879,
+    "id" : 6352,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -602,9 +602,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4880,
+  "id" : 6353,
   "idMotoplanete" : 4982,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4982/961-Commando-Cafe-Racer-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2014.jpg",
   "year" : "2014",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2014.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4880,
+    "id" : 6353,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4880,
+    "id" : 6353,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4880,
+    "id" : 6353,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4880,
+    "id" : 6353,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4880,
+    "id" : 6353,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -669,9 +669,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4881,
+  "id" : 6354,
   "idMotoplanete" : 4980,
-  "name" : "961 Commando SF ",
+  "name" : "961 Commando SF",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4980/961-Commando-SF-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2014.jpg",
   "year" : "2014",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2014.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4881,
+    "id" : 6354,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4881,
+    "id" : 6354,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4881,
+    "id" : 6354,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4881,
+    "id" : 6354,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4881,
+    "id" : 6354,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4882,
+  "id" : 6355,
   "idMotoplanete" : 4981,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4981/961-Commando-Sport-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2014.jpg",
   "year" : "2014",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2014.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4882,
+    "id" : 6355,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4882,
+    "id" : 6355,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4882,
+    "id" : 6355,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4882,
+    "id" : 6355,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4882,
+    "id" : 6355,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -803,9 +803,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4883,
+  "id" : 6356,
   "idMotoplanete" : 4942,
-  "name" : "961 Commando SE ",
+  "name" : "961 Commando SE",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4942/961-Commando-SE-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg",
   "year" : "2013",
@@ -813,25 +813,25 @@
   "zeroToHundred" : null,
   "price" : 23990,
   "priceABS" : null,
-  "categoryId" : 8,
+  "categoryId" : 26,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4883,
+    "id" : 6356,
     "rearShock" : "Double combiné Ohlins entièrement réglable, déb : 100 mm",
     "rearBrake" : "Simple disque Brembo Ø 220mm, étriers 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4883,
+    "id" : 6356,
     "fork" : "Fourche télescopique Ohlins Ø 43mm entièrement réglable, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4883,
+    "id" : 6356,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4883,
+    "id" : 6356,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4883,
+    "id" : 6356,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Treillis tubulaire en acier",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4884,
+  "id" : 6357,
   "idMotoplanete" : 4604,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4604/961-Commando-Cafe-Racer-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2013.jpg",
   "year" : "2013",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2013.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4884,
+    "id" : 6357,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4884,
+    "id" : 6357,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4884,
+    "id" : 6357,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4884,
+    "id" : 6357,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4884,
+    "id" : 6357,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4885,
+  "id" : 6358,
   "idMotoplanete" : 4605,
-  "name" : "961 Commando SF ",
+  "name" : "961 Commando SF",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4605/961-Commando-SF-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2013.jpg",
   "year" : "2013",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SF-2013.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4885,
+    "id" : 6358,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4885,
+    "id" : 6358,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4885,
+    "id" : 6358,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4885,
+    "id" : 6358,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4885,
+    "id" : 6358,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4886,
+  "id" : 6359,
   "idMotoplanete" : 4603,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/4603/961-Commando-Sport-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2013.jpg",
   "year" : "2013",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2013.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4886,
+    "id" : 6359,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4886,
+    "id" : 6359,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4886,
+    "id" : 6359,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4886,
+    "id" : 6359,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4886,
+    "id" : 6359,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1071,9 +1071,9 @@
     "movingWeight" : 205.0
   }
 }, {
-  "id" : 4887,
+  "id" : 6360,
   "idMotoplanete" : 3876,
-  "name" : "961 Commando SE ",
+  "name" : "961 Commando SE",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3876/961-Commando-SE-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg",
   "year" : "2012",
@@ -1081,25 +1081,25 @@
   "zeroToHundred" : null,
   "price" : 20790,
   "priceABS" : null,
-  "categoryId" : 8,
+  "categoryId" : 26,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4887,
+    "id" : 6360,
     "rearShock" : "Double combiné Ohlins entièrement réglable, déb : 100 mm",
     "rearBrake" : "Simple disque Brembo Ø 220mm, étriers 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4887,
+    "id" : 6360,
     "fork" : "Fourche télescopique Ohlins Ø 43mm entièrement réglable, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4887,
+    "id" : 6360,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4887,
+    "id" : 6360,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4887,
+    "id" : 6360,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Treillis tubulaire en acier",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4888,
+  "id" : 6361,
   "idMotoplanete" : 3880,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3880/961-Commando-Cafe-Racer-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg",
   "year" : "2012",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4888,
+    "id" : 6361,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4888,
+    "id" : 6361,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4888,
+    "id" : 6361,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4888,
+    "id" : 6361,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4888,
+    "id" : 6361,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4889,
+  "id" : 6362,
   "idMotoplanete" : 3878,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3878/961-Commando-Sport-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2012-2.jpg",
   "year" : "2012",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2012-2.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4889,
+    "id" : 6362,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4889,
+    "id" : 6362,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4889,
+    "id" : 6362,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4889,
+    "id" : 6362,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4889,
+    "id" : 6362,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1272,9 +1272,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4890,
+  "id" : 6363,
   "idMotoplanete" : 3879,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3879/961-Commando-Cafe-Racer-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg",
   "year" : "2011",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4890,
+    "id" : 6363,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4890,
+    "id" : 6363,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4890,
+    "id" : 6363,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4890,
+    "id" : 6363,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4890,
+    "id" : 6363,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1339,9 +1339,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4891,
+  "id" : 6364,
   "idMotoplanete" : 3875,
-  "name" : "961 Commando SE ",
+  "name" : "961 Commando SE",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3875/961-Commando-SE-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg",
   "year" : "2011",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4891,
+    "id" : 6364,
     "rearShock" : "Double combiné Ohlins entièrement réglable, déb : 100 mm",
     "rearBrake" : "Simple disque Brembo Ø 220mm, étriers 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4891,
+    "id" : 6364,
     "fork" : "Fourche télescopique Ohlins Ø 43mm entièrement réglable, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4891,
+    "id" : 6364,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4891,
+    "id" : 6364,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4891,
+    "id" : 6364,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Treillis tubulaire en acier",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4892,
+  "id" : 6365,
   "idMotoplanete" : 3877,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3877/961-Commando-Sport-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2011-2.jpg",
   "year" : "2011",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2011-2.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4892,
+    "id" : 6365,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4892,
+    "id" : 6365,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4892,
+    "id" : 6365,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4892,
+    "id" : 6365,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4892,
+    "id" : 6365,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1473,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4893,
+  "id" : 6366,
   "idMotoplanete" : 2371,
-  "name" : "961 Commando Café Racer ",
+  "name" : "961 Commando Café Racer",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/2371/961-Commando-Cafe-Racer-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg",
   "year" : "2010",
@@ -1485,23 +1485,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Cafe-Racer-2010.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4893,
+    "id" : 6366,
     "rearShock" : "2 amortisseurs latéraux Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4893,
+    "id" : 6366,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4893,
+    "id" : 6366,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4893,
+    "id" : 6366,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4893,
+    "id" : 6366,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4894,
+  "id" : 6367,
   "idMotoplanete" : 3874,
-  "name" : "961 Commando SE ",
+  "name" : "961 Commando SE",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/3874/961-Commando-SE-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg",
   "year" : "2010",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4894,
+    "id" : 6367,
     "rearShock" : "Double combiné Ohlins entièrement réglable, déb : 100 mm",
     "rearBrake" : "Simple disque Brembo Ø 220mm, étriers 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4894,
+    "id" : 6367,
     "fork" : "Fourche télescopique Ohlins Ø 43mm entièrement réglable, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4894,
+    "id" : 6367,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4894,
+    "id" : 6367,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4894,
+    "id" : 6367,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Treillis tubulaire en acier",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4895,
+  "id" : 6368,
   "idMotoplanete" : 2369,
-  "name" : "961 Commando Sport ",
+  "name" : "961 Commando Sport",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/2369/961-Commando-Sport-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2010-2.jpg",
   "year" : "2010",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-Sport-2010-2.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4895,
+    "id" : 6368,
     "rearShock" : "Double combinés Öhlins, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4895,
+    "id" : 6368,
     "fork" : "Fourche téléhydraulique Öhlins Ø 43 mm, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4895,
+    "id" : 6368,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4895,
+    "id" : 6368,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4895,
+    "id" : 6368,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Tubulaire en acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4896,
+  "id" : 6369,
   "idMotoplanete" : 602,
-  "name" : "961 Commando SE ",
+  "name" : "961 Commando SE",
   "urlMotoplanete" : "http://www.motoplanete.com/norton/602/961-Commando-SE-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg",
   "year" : "2009",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/norton/Norton-961-Commando-SE-2009.jpg" ],
-  "idManufacturer" : 57,
+  "idManufacturer" : 58,
   "rearAxle" : {
-    "id" : 4896,
+    "id" : 6369,
     "rearShock" : "Double combiné Ohlins entièrement réglable, déb : 100 mm",
     "rearBrake" : "Simple disque Brembo Ø 220mm, étriers 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4896,
+    "id" : 6369,
     "fork" : "Fourche télescopique Ohlins Ø 43mm entièrement réglable, déb : 115 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo semi-flottants Ø 320mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4896,
+    "id" : 6369,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 9.2,
     "torqueRpm" : 5200.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4896,
+    "id" : 6369,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4896,
+    "id" : 6369,
     "dryWeight" : 188.0,
     "seatHeight" : 813.0,
     "type" : "Treillis tubulaire en acier",

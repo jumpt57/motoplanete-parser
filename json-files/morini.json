@@ -1,7 +1,7 @@
 [ {
-  "id" : 4793,
+  "id" : 6266,
   "idMotoplanete" : 5787,
-  "name" : "11 1-2 ",
+  "name" : "11 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5787/11-1-2-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2016-2.jpg",
   "year" : "2016",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2016-2.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4793,
+    "id" : 6266,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4793,
+    "id" : 6266,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers à 4 pistons"
   },
   "engine" : {
-    "id" : 4793,
+    "id" : 6266,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 6750.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4793,
+    "id" : 6266,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4793,
+    "id" : 6266,
     "dryWeight" : 200.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4794,
+  "id" : 6267,
   "idMotoplanete" : 5789,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5789/1200-CORSARO-VELOCE-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2016.jpg",
   "year" : "2016",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2016.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4794,
+    "id" : 6267,
     "rearShock" : "Mono-amortisseur Sachs, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4794,
+    "id" : 6267,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4794,
+    "id" : 6267,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4794,
+    "id" : 6267,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4794,
+    "id" : 6267,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4795,
+  "id" : 6268,
   "idMotoplanete" : 5788,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5788/1200-SCRAMBLER-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Morini-1200-scrambler-2016-2.jpg",
   "year" : "2016",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Morini-1200-scrambler-2016-2.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4795,
+    "id" : 6268,
     "rearShock" : "Mono-amortisseur, déb : 165 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4795,
+    "id" : 6268,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4795,
+    "id" : 6268,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4795,
+    "id" : 6268,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4795,
+    "id" : 6268,
     "dryWeight" : 200.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4796,
+  "id" : 6269,
   "idMotoplanete" : 5791,
-  "name" : "Rebello 1200 ",
+  "name" : "Rebello 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5791/Rebello-1200-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-Rebello-1200-2016.jpg",
   "year" : "2016",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-Rebello-1200-2016.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4796,
+    "id" : 6269,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4796,
+    "id" : 6269,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4796,
+    "id" : 6269,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4796,
+    "id" : 6269,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4796,
+    "id" : 6269,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4797,
+  "id" : 6270,
   "idMotoplanete" : 5790,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5790/GRANPASSO-1200-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2016.jpg",
   "year" : "2016",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2016.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4797,
+    "id" : 6270,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4797,
+    "id" : 6270,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4797,
+    "id" : 6270,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4797,
+    "id" : 6270,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4797,
+    "id" : 6270,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -334,9 +334,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4798,
+  "id" : 6271,
   "idMotoplanete" : 5362,
-  "name" : "11 1-2 ",
+  "name" : "11 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5362/11-1-2-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2015.jpg",
   "year" : "2015",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2015.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4798,
+    "id" : 6271,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4798,
+    "id" : 6271,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers à 4 pistons"
   },
   "engine" : {
-    "id" : 4798,
+    "id" : 6271,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 6750.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4798,
+    "id" : 6271,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4798,
+    "id" : 6271,
     "dryWeight" : 200.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4799,
+  "id" : 6272,
   "idMotoplanete" : 5359,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5359/1200-CORSARO-VELOCE-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2015.jpg",
   "year" : "2015",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2015.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4799,
+    "id" : 6272,
     "rearShock" : "Mono-amortisseur Sachs, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4799,
+    "id" : 6272,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4799,
+    "id" : 6272,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4799,
+    "id" : 6272,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4799,
+    "id" : 6272,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4800,
+  "id" : 6273,
   "idMotoplanete" : 5360,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5360/1200-SCRAMBLER-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Morini-1200-scrambler-2015.jpg",
   "year" : "2015",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Morini-1200-scrambler-2015.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4800,
+    "id" : 6273,
     "rearShock" : "Mono-amortisseur, déb : 165 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4800,
+    "id" : 6273,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4800,
+    "id" : 6273,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 7000.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4800,
+    "id" : 6273,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4800,
+    "id" : 6273,
     "dryWeight" : 200.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4801,
+  "id" : 6274,
   "idMotoplanete" : 5363,
-  "name" : "Rebello 1200 ",
+  "name" : "Rebello 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5363/Rebello-1200-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-Rebello-1200-2015.jpg",
   "year" : "2015",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-Rebello-1200-2015.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4801,
+    "id" : 6274,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4801,
+    "id" : 6274,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4801,
+    "id" : 6274,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4801,
+    "id" : 6274,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4801,
+    "id" : 6274,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4802,
+  "id" : 6275,
   "idMotoplanete" : 5361,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/5361/GRANPASSO-1200-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2015.jpg",
   "year" : "2015",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2015.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4802,
+    "id" : 6275,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4802,
+    "id" : 6275,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4802,
+    "id" : 6275,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4802,
+    "id" : 6275,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4802,
+    "id" : 6275,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -669,9 +669,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4803,
+  "id" : 6276,
   "idMotoplanete" : 4972,
-  "name" : "11 1-2 ",
+  "name" : "11 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4972/11-1-2-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2014.jpg",
   "year" : "2014",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-11-1-2-2014.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4803,
+    "id" : 6276,
     "rearShock" : "Mono-amortisseur, déb : 160 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4803,
+    "id" : 6276,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers à 4 pistons"
   },
   "engine" : {
-    "id" : 4803,
+    "id" : 6276,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 6750.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4803,
+    "id" : 6276,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4803,
+    "id" : 6276,
     "dryWeight" : 200.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4804,
+  "id" : 6277,
   "idMotoplanete" : 4970,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4970/1200-CORSARO-VELOCE-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2014.jpg",
   "year" : "2014",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2014.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4804,
+    "id" : 6277,
     "rearShock" : "Mono-amortisseur Sachs, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4804,
+    "id" : 6277,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4804,
+    "id" : 6277,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4804,
+    "id" : 6277,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4804,
+    "id" : 6277,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4805,
+  "id" : 6278,
   "idMotoplanete" : 4971,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4971/1200-SCRAMBLER-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Morini-1200-scrambler-2014.jpg",
   "year" : "2014",
@@ -815,23 +815,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Morini-1200-scrambler-2014.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4805,
+    "id" : 6278,
     "rearShock" : "Mono-amortisseur, déb : 165 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4805,
+    "id" : 6278,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4805,
+    "id" : 6278,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 7000.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4805,
+    "id" : 6278,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4805,
+    "id" : 6278,
     "dryWeight" : 200.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4806,
+  "id" : 6279,
   "idMotoplanete" : 4973,
-  "name" : "Rebello 1200 ",
+  "name" : "Rebello 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4973/Rebello-1200-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-Rebello-1200-2014.jpg",
   "year" : "2014",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-Rebello-1200-2014.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4806,
+    "id" : 6279,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4806,
+    "id" : 6279,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4806,
+    "id" : 6279,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4806,
+    "id" : 6279,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4806,
+    "id" : 6279,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4807,
+  "id" : 6280,
   "idMotoplanete" : 4969,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4969/GRANPASSO-1200-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2014.jpg",
   "year" : "2014",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2014.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4807,
+    "id" : 6280,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4807,
+    "id" : 6280,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4807,
+    "id" : 6280,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4807,
+    "id" : 6280,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4807,
+    "id" : 6280,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1004,9 +1004,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4808,
+  "id" : 6281,
   "idMotoplanete" : 4487,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4487/1200-CORSARO-VELOCE-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2013.jpg",
   "year" : "2013",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Corsaro-Veloce-2013.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4808,
+    "id" : 6281,
     "rearShock" : "Mono-amortisseur Sachs, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4808,
+    "id" : 6281,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4808,
+    "id" : 6281,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4808,
+    "id" : 6281,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4808,
+    "id" : 6281,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -1071,9 +1071,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4809,
+  "id" : 6282,
   "idMotoplanete" : 4486,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4486/1200-SCRAMBLER-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Morini-1200-scrambler-2013.jpg",
   "year" : "2013",
@@ -1083,23 +1083,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Morini-1200-scrambler-2013.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4809,
+    "id" : 6282,
     "rearShock" : "Mono-amortisseur, déb : 165 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4809,
+    "id" : 6282,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4809,
+    "id" : 6282,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 7000.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4809,
+    "id" : 6282,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4809,
+    "id" : 6282,
     "dryWeight" : 200.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4810,
+  "id" : 6283,
   "idMotoplanete" : 4485,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4485/GRANPASSO-1200-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2013.jpg",
   "year" : "2013",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/Moto-Morini-1200-Granpasso-2013.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4810,
+    "id" : 6283,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4810,
+    "id" : 6283,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4810,
+    "id" : 6283,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4810,
+    "id" : 6283,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4810,
+    "id" : 6283,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1205,9 +1205,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4811,
+  "id" : 6284,
   "idMotoplanete" : 4259,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4259/1200-CORSARO-VELOCE-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-corsaro-veloce-2012.jpg",
   "year" : "2012",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-corsaro-veloce-2012.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4811,
+    "id" : 6284,
     "rearShock" : "Mono-amortisseur Sachs, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4811,
+    "id" : 6284,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4811,
+    "id" : 6284,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4811,
+    "id" : 6284,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4811,
+    "id" : 6284,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -1272,9 +1272,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4812,
+  "id" : 6285,
   "idMotoplanete" : 4262,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4262/1200-SCRAMBLER-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-scrambler-2012.jpg",
   "year" : "2012",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-scrambler-2012.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4812,
+    "id" : 6285,
     "rearShock" : "Mono-amortisseur, déb : 165 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4812,
+    "id" : 6285,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4812,
+    "id" : 6285,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.7,
     "torqueRpm" : 7000.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4812,
+    "id" : 6285,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4812,
+    "id" : 6285,
     "dryWeight" : 200.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -1339,9 +1339,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4813,
+  "id" : 6286,
   "idMotoplanete" : 4237,
-  "name" : "Rebello 1200 Giubileo ",
+  "name" : "Rebello 1200 Giubileo",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4237/Rebello-1200-Giubileo-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-Rebello-1200-giubileo-2012.jpg",
   "year" : "2012",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-Rebello-1200-giubileo-2012.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4813,
+    "id" : 6286,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 134 mm",
     "rearBrake" : "1 disque Ø 220, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4813,
+    "id" : 6286,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4813,
+    "id" : 6286,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.4,
     "torqueRpm" : 6750.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4813,
+    "id" : 6286,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4813,
+    "id" : 6286,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis en tubes d'acier",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4814,
+  "id" : 6287,
   "idMotoplanete" : 4261,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/4261/GRANPASSO-1200-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-granpasso-2012.jpg",
   "year" : "2012",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-granpasso-2012.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4814,
+    "id" : 6287,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4814,
+    "id" : 6287,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4814,
+    "id" : 6287,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4814,
+    "id" : 6287,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4814,
+    "id" : 6287,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1473,9 +1473,9 @@
     "movingWeight" : 210.0
   }
 }, {
-  "id" : 4815,
+  "id" : 6288,
   "idMotoplanete" : 2208,
-  "name" : "1200 CORSARO ",
+  "name" : "1200 CORSARO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2208/1200-CORSARO-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-2010.jpg",
   "year" : "2010",
@@ -1485,23 +1485,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4815,
+    "id" : 6288,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4815,
+    "id" : 6288,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4815,
+    "id" : 6288,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.5,
     "torqueRpm" : 6500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4815,
+    "id" : 6288,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4815,
+    "id" : 6288,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4816,
+  "id" : 6289,
   "idMotoplanete" : 2216,
-  "name" : "1200 CORSARO AVIO ",
+  "name" : "1200 CORSARO AVIO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2216/1200-CORSARO-AVIO-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-avio-2010.jpg",
   "year" : "2010",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-avio-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4816,
+    "id" : 6289,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4816,
+    "id" : 6289,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4816,
+    "id" : 6289,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4816,
+    "id" : 6289,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4816,
+    "id" : 6289,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4817,
+  "id" : 6290,
   "idMotoplanete" : 2213,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2213/1200-CORSARO-VELOCE-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2010.jpg",
   "year" : "2010",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4817,
+    "id" : 6290,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4817,
+    "id" : 6290,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4817,
+    "id" : 6290,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 13.8,
     "torqueRpm" : 6500.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4817,
+    "id" : 6290,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4817,
+    "id" : 6290,
     "dryWeight" : 196.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4818,
+  "id" : 6291,
   "idMotoplanete" : 2225,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2225/1200-SCRAMBLER-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-scrambler-2010.jpg",
   "year" : "2010",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-scrambler-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4818,
+    "id" : 6291,
     "rearShock" : "Mono-amortisseur, déb : 190 mm",
     "rearBrake" : "1 disque Ø 250 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4818,
+    "id" : 6291,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4818,
+    "id" : 6291,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4818,
+    "id" : 6291,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4818,
+    "id" : 6291,
     "dryWeight" : 198.0,
     "seatHeight" : 840.0,
     "type" : "treillis en tubes d'acier",
@@ -1741,9 +1741,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4819,
+  "id" : 6292,
   "idMotoplanete" : 2227,
-  "name" : "1200 SPORT ",
+  "name" : "1200 SPORT",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2227/1200-SPORT-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-Sport-2010.jpg",
   "year" : "2010",
@@ -1753,23 +1753,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-Sport-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4819,
+    "id" : 6292,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4819,
+    "id" : 6292,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4819,
+    "id" : 6292,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4819,
+    "id" : 6292,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4819,
+    "id" : 6292,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "treillis en tubes d'acier",
@@ -1808,9 +1808,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4820,
+  "id" : 6293,
   "idMotoplanete" : 2223,
-  "name" : "9 1-2 ",
+  "name" : "9 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2223/9-1-2-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-9_1-2-2010.jpg",
   "year" : "2010",
@@ -1820,23 +1820,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-9_1-2-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4820,
+    "id" : 6293,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4820,
+    "id" : 6293,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4820,
+    "id" : 6293,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.0,
     "torqueRpm" : 6200.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4820,
+    "id" : 6293,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4820,
+    "id" : 6293,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -1875,9 +1875,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4821,
+  "id" : 6294,
   "idMotoplanete" : 2217,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2217/GRANPASSO-1200-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-GRANPASSO-2010.jpg",
   "year" : "2010",
@@ -1887,23 +1887,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-GRANPASSO-2010.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4821,
+    "id" : 6294,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4821,
+    "id" : 6294,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 190 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4821,
+    "id" : 6294,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4821,
+    "id" : 6294,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4821,
+    "id" : 6294,
     "dryWeight" : 198.0,
     "seatHeight" : 870.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -1942,9 +1942,9 @@
     "movingWeight" : 229.0
   }
 }, {
-  "id" : 4822,
+  "id" : 6295,
   "idMotoplanete" : 2207,
-  "name" : "1200 CORSARO ",
+  "name" : "1200 CORSARO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2207/1200-CORSARO-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-2009.jpg",
   "year" : "2009",
@@ -1954,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4822,
+    "id" : 6295,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4822,
+    "id" : 6295,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4822,
+    "id" : 6295,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.5,
     "torqueRpm" : 6500.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4822,
+    "id" : 6295,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4822,
+    "id" : 6295,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2009,9 +2009,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4823,
+  "id" : 6296,
   "idMotoplanete" : 2215,
-  "name" : "1200 CORSARO AVIO ",
+  "name" : "1200 CORSARO AVIO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2215/1200-CORSARO-AVIO-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-avio-2009.jpg",
   "year" : "2009",
@@ -2021,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-avio-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4823,
+    "id" : 6296,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4823,
+    "id" : 6296,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4823,
+    "id" : 6296,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4823,
+    "id" : 6296,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4823,
+    "id" : 6296,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2076,9 +2076,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4824,
+  "id" : 6297,
   "idMotoplanete" : 2212,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2212/1200-CORSARO-VELOCE-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2009.jpg",
   "year" : "2009",
@@ -2088,23 +2088,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4824,
+    "id" : 6297,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4824,
+    "id" : 6297,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4824,
+    "id" : 6297,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 13.8,
     "torqueRpm" : 6500.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4824,
+    "id" : 6297,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4824,
+    "id" : 6297,
     "dryWeight" : 196.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2143,9 +2143,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4825,
+  "id" : 6298,
   "idMotoplanete" : 2224,
-  "name" : "1200 SCRAMBLER ",
+  "name" : "1200 SCRAMBLER",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2224/1200-SCRAMBLER-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-scrambler-2009.jpg",
   "year" : "2009",
@@ -2155,23 +2155,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-scrambler-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4825,
+    "id" : 6298,
     "rearShock" : "Mono-amortisseur, déb : 190 mm",
     "rearBrake" : "1 disque Ø 250 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4825,
+    "id" : 6298,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 155 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4825,
+    "id" : 6298,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4825,
+    "id" : 6298,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4825,
+    "id" : 6298,
     "dryWeight" : 198.0,
     "seatHeight" : 840.0,
     "type" : "treillis en tubes d'acier",
@@ -2210,9 +2210,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4826,
+  "id" : 6299,
   "idMotoplanete" : 2226,
-  "name" : "1200 SPORT ",
+  "name" : "1200 SPORT",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2226/1200-SPORT-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-Sport-2009.jpg",
   "year" : "2009",
@@ -2222,23 +2222,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-Sport-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4826,
+    "id" : 6299,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4826,
+    "id" : 6299,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4826,
+    "id" : 6299,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -2257,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4826,
+    "id" : 6299,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2265,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4826,
+    "id" : 6299,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "treillis en tubes d'acier",
@@ -2277,9 +2277,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4827,
+  "id" : 6300,
   "idMotoplanete" : 2222,
-  "name" : "9 1-2 ",
+  "name" : "9 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2222/9-1-2-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-9_1-2-2009.jpg",
   "year" : "2009",
@@ -2289,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-9_1-2-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4827,
+    "id" : 6300,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4827,
+    "id" : 6300,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4827,
+    "id" : 6300,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.0,
     "torqueRpm" : 6200.0,
@@ -2324,7 +2324,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4827,
+    "id" : 6300,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2332,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4827,
+    "id" : 6300,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -2344,9 +2344,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4828,
+  "id" : 6301,
   "idMotoplanete" : 1120,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/1120/GRANPASSO-1200-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-GRANPASSO-2009.jpg",
   "year" : "2009",
@@ -2356,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-GRANPASSO-2009.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4828,
+    "id" : 6301,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4828,
+    "id" : 6301,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 190 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4828,
+    "id" : 6301,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -2391,7 +2391,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4828,
+    "id" : 6301,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2399,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4828,
+    "id" : 6301,
     "dryWeight" : 198.0,
     "seatHeight" : 870.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -2411,9 +2411,9 @@
     "movingWeight" : 229.0
   }
 }, {
-  "id" : 4829,
+  "id" : 6302,
   "idMotoplanete" : 2206,
-  "name" : "1200 CORSARO ",
+  "name" : "1200 CORSARO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2206/1200-CORSARO-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-2008.jpg",
   "year" : "2008",
@@ -2423,23 +2423,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-2008.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4829,
+    "id" : 6302,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4829,
+    "id" : 6302,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4829,
+    "id" : 6302,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.5,
     "torqueRpm" : 6500.0,
@@ -2458,7 +2458,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4829,
+    "id" : 6302,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2466,7 +2466,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4829,
+    "id" : 6302,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2478,9 +2478,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4830,
+  "id" : 6303,
   "idMotoplanete" : 2214,
-  "name" : "1200 CORSARO AVIO ",
+  "name" : "1200 CORSARO AVIO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2214/1200-CORSARO-AVIO-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-avio-2008.jpg",
   "year" : "2008",
@@ -2490,23 +2490,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-avio-2008.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4830,
+    "id" : 6303,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4830,
+    "id" : 6303,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4830,
+    "id" : 6303,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.4,
     "torqueRpm" : 6700.0,
@@ -2525,7 +2525,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4830,
+    "id" : 6303,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2533,7 +2533,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4830,
+    "id" : 6303,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2545,9 +2545,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4831,
+  "id" : 6304,
   "idMotoplanete" : 2211,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2211/1200-CORSARO-VELOCE-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2008.jpg",
   "year" : "2008",
@@ -2557,23 +2557,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2008.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4831,
+    "id" : 6304,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4831,
+    "id" : 6304,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4831,
+    "id" : 6304,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 13.8,
     "torqueRpm" : 6500.0,
@@ -2592,7 +2592,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4831,
+    "id" : 6304,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2600,7 +2600,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4831,
+    "id" : 6304,
     "dryWeight" : 196.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2612,9 +2612,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4832,
+  "id" : 6305,
   "idMotoplanete" : 2221,
-  "name" : "9 1-2 ",
+  "name" : "9 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2221/9-1-2-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-9_1-2-2008.jpg",
   "year" : "2008",
@@ -2624,23 +2624,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-9_1-2-2008.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4832,
+    "id" : 6305,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4832,
+    "id" : 6305,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4832,
+    "id" : 6305,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.0,
     "torqueRpm" : 6200.0,
@@ -2659,7 +2659,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4832,
+    "id" : 6305,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2667,7 +2667,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4832,
+    "id" : 6305,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -2679,9 +2679,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4833,
+  "id" : 6306,
   "idMotoplanete" : 1119,
-  "name" : "GRANPASSO 1200 ",
+  "name" : "GRANPASSO 1200",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/1119/GRANPASSO-1200-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-GRANPASSO-2008.jpg",
   "year" : "2008",
@@ -2691,23 +2691,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-GRANPASSO-2008.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4833,
+    "id" : 6306,
     "rearShock" : "Monoamortisseur Öhlins, déb : 200 mm",
     "rearBrake" : "1 disque Ø 255 mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4833,
+    "id" : 6306,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 190 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "2 disques Ø 298 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4833,
+    "id" : 6306,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.6,
     "torqueRpm" : 7000.0,
@@ -2726,7 +2726,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4833,
+    "id" : 6306,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2734,7 +2734,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4833,
+    "id" : 6306,
     "dryWeight" : 198.0,
     "seatHeight" : 870.0,
     "type" : "treillis tubulaire en tubes d'acier",
@@ -2746,9 +2746,9 @@
     "movingWeight" : 229.0
   }
 }, {
-  "id" : 4834,
+  "id" : 6307,
   "idMotoplanete" : 2205,
-  "name" : "1200 CORSARO ",
+  "name" : "1200 CORSARO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2205/1200-CORSARO-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-2007.jpg",
   "year" : "2007",
@@ -2758,23 +2758,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-2007.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4834,
+    "id" : 6307,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4834,
+    "id" : 6307,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4834,
+    "id" : 6307,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.5,
     "torqueRpm" : 6500.0,
@@ -2793,7 +2793,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4834,
+    "id" : 6307,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2801,7 +2801,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4834,
+    "id" : 6307,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2813,9 +2813,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4835,
+  "id" : 6308,
   "idMotoplanete" : 2210,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2210/1200-CORSARO-VELOCE-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2007.jpg",
   "year" : "2007",
@@ -2825,23 +2825,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2007.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4835,
+    "id" : 6308,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4835,
+    "id" : 6308,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4835,
+    "id" : 6308,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 13.8,
     "torqueRpm" : 6500.0,
@@ -2860,7 +2860,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4835,
+    "id" : 6308,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2868,7 +2868,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4835,
+    "id" : 6308,
     "dryWeight" : 196.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -2880,9 +2880,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4836,
+  "id" : 6309,
   "idMotoplanete" : 2220,
-  "name" : "9 1-2 ",
+  "name" : "9 1-2",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2220/9-1-2-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/morini-1200-9_1-2-2007.jpg",
   "year" : "2007",
@@ -2892,23 +2892,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/morini-1200-9_1-2-2007.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4836,
+    "id" : 6309,
     "rearShock" : "Mono-amortisseur, déb : 150 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4836,
+    "id" : 6309,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 150 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers à 4 pistons"
   },
   "engine" : {
-    "id" : 4836,
+    "id" : 6309,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.0,
     "torqueRpm" : 6200.0,
@@ -2927,7 +2927,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4836,
+    "id" : 6309,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2935,7 +2935,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4836,
+    "id" : 6309,
     "dryWeight" : 198.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier",
@@ -2947,9 +2947,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4837,
+  "id" : 6310,
   "idMotoplanete" : 2204,
-  "name" : "1200 CORSARO ",
+  "name" : "1200 CORSARO",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2204/1200-CORSARO-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-2006.jpg",
   "year" : "2006",
@@ -2959,23 +2959,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-2006.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4837,
+    "id" : 6310,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4837,
+    "id" : 6310,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4837,
+    "id" : 6310,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 12.5,
     "torqueRpm" : 6500.0,
@@ -2994,7 +2994,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4837,
+    "id" : 6310,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3002,7 +3002,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4837,
+    "id" : 6310,
     "dryWeight" : 198.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",
@@ -3014,9 +3014,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4838,
+  "id" : 6311,
   "idMotoplanete" : 2209,
-  "name" : "1200 CORSARO VELOCE ",
+  "name" : "1200 CORSARO VELOCE",
   "urlMotoplanete" : "http://www.motoplanete.com/morini/2209/1200-CORSARO-VELOCE-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2006.jpg",
   "year" : "2006",
@@ -3026,23 +3026,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/morini/1200-Corsaro-Veloce-2006.jpg" ],
-  "idManufacturer" : 52,
+  "idManufacturer" : 53,
   "rearAxle" : {
-    "id" : 4838,
+    "id" : 6311,
     "rearShock" : "Mono-amortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4838,
+    "id" : 6311,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 129 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étiers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4838,
+    "id" : 6311,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 13.8,
     "torqueRpm" : 6500.0,
@@ -3061,7 +3061,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4838,
+    "id" : 6311,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3069,7 +3069,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4838,
+    "id" : 6311,
     "dryWeight" : 196.0,
     "seatHeight" : 830.0,
     "type" : "Treillis tubulaire en acier",

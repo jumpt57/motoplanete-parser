@@ -1,7 +1,7 @@
 [ {
-  "id" : 4683,
+  "id" : 6158,
   "idMotoplanete" : 523,
-  "name" : "8300 TOMAHAWK ",
+  "name" : "8300 TOMAHAWK",
   "urlMotoplanete" : "http://www.motoplanete.com/dodge/523/8300-TOMAHAWK-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/dodge/tom.jpg",
   "year" : "2003",
@@ -9,25 +9,25 @@
   "zeroToHundred" : 2.5,
   "price" : 400000,
   "priceABS" : null,
-  "categoryId" : 13,
+  "categoryId" : 25,
   "imagesUrl" : [ "http://www.motoplanete.com/dodge/tom.jpg" ],
-  "idManufacturer" : 30,
+  "idManufacturer" : 31,
   "rearAxle" : {
-    "id" : 4683,
+    "id" : 6158,
     "rearShock" : "Monoamortisseur",
     "rearBrake" : "2 disque Ø 508 mm, étrier 4 pistons",
     "rearWheel" : "150 / 50 - 20\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4683,
+    "id" : 6158,
     "fork" : null,
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 20\"",
     "frontBrake" : "2 disques périmétriques Ø 508 mm, 2 étriers 4 pistons ;"
   },
   "engine" : {
-    "id" : 4683,
+    "id" : 6158,
     "gasSupply" : "injection électronique",
     "torque" : 71.2,
     "torqueRpm" : 4200.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4683,
+    "id" : 6158,
     "gearboxSpeeds" : "2 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "2 chaînes",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4683,
+    "id" : 6158,
     "dryWeight" : 680.0,
     "seatHeight" : null,
     "type" : "Structure monocoque en aluminium taillé dans la masse",

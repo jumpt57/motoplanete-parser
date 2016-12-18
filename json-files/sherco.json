@@ -1,7 +1,7 @@
 [ {
-  "id" : 4923,
+  "id" : 6396,
   "idMotoplanete" : 3986,
-  "name" : "ST125R ",
+  "name" : "ST125R",
   "urlMotoplanete" : "http://www.motoplanete.com/sherco/3986/ST125R-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/sherco/sherco-ST125R-2012.jpg",
   "year" : "2012",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 24,
   "imagesUrl" : [ "http://www.motoplanete.com/sherco/sherco-ST125R-2012.jpg" ],
-  "idManufacturer" : 65,
+  "idManufacturer" : 66,
   "rearAxle" : {
-    "id" : 4923,
+    "id" : 6396,
     "rearShock" : "Mono-amortisseur, déb : 175 mm",
     "rearBrake" : "1 disque Ø 145 mm, étrier 1 piston",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4923,
+    "id" : 6396,
     "fork" : "Fourche téléhydraulique Ø 39 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 185 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4923,
+    "id" : 6396,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4923,
+    "id" : 6396,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4923,
+    "id" : 6396,
     "dryWeight" : 67.0,
     "seatHeight" : 645.0,
     "type" : "tubulaire au chrome-molybdène",

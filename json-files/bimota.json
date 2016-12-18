@@ -1,7 +1,7 @@
 [ {
-  "id" : 4389,
+  "id" : 5866,
   "idMotoplanete" : 5890,
-  "name" : "1100 TESI 3D Evo Naked ",
+  "name" : "1100 TESI 3D Evo Naked",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5890/1100-TESI-3D-Evo-Naked-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-naked-2016.jpg",
   "year" : "2016",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-naked-2016.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4389,
+    "id" : 5866,
     "rearShock" : "Monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4389,
+    "id" : 5866,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, amortisseur Öhlins, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4389,
+    "id" : 5866,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6750.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4389,
+    "id" : 5866,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4389,
+    "id" : 5866,
     "dryWeight" : 170.0,
     "seatHeight" : 780.0,
     "type" : "type Omega en aluminium",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4390,
+  "id" : 5867,
   "idMotoplanete" : 5880,
-  "name" : "BB3 1000 ",
+  "name" : "BB3 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5880/BB3-1000-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2016.jpg",
   "year" : "2016",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2016.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4390,
+    "id" : 5867,
     "rearShock" : "Monoamortisseur Öhlins TTX",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "190 / 55 - 200 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4390,
+    "id" : 5867,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4390,
+    "id" : 5867,
     "gasSupply" : "Injection Ø 48 mm",
     "torque" : 11.4,
     "torqueRpm" : 9750.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4390,
+    "id" : 5867,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4390,
+    "id" : 5867,
     "dryWeight" : 179.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4391,
+  "id" : 5868,
   "idMotoplanete" : 5877,
-  "name" : "DB11 1198 ",
+  "name" : "DB11 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5877/DB11-1198-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB11-2016.jpg",
   "year" : "2016",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB11-2016.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4391,
+    "id" : 5868,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4391,
+    "id" : 5868,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4391,
+    "id" : 5868,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 7700.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4391,
+    "id" : 5868,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4391,
+    "id" : 5868,
     "dryWeight" : 175.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4392,
+  "id" : 5869,
   "idMotoplanete" : 5871,
-  "name" : "DB8 ORONERO ",
+  "name" : "DB8 ORONERO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5871/DB8-ORONERO-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2016.jpg",
   "year" : "2016",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2016.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4392,
+    "id" : 5869,
     "rearShock" : "Mono-amortisseur Öhlins",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4392,
+    "id" : 5869,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4392,
+    "id" : 5869,
     "gasSupply" : "Injection Ø nc",
     "torque" : 13.1,
     "torqueRpm" : 8000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4392,
+    "id" : 5869,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4392,
+    "id" : 5869,
     "dryWeight" : 159.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -267,9 +267,9 @@
     "movingWeight" : 174.0
   }
 }, {
-  "id" : 4394,
+  "id" : 5871,
   "idMotoplanete" : 5889,
-  "name" : "1100 TESI 3D Evo Naked ",
+  "name" : "1100 TESI 3D Evo Naked",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5889/1100-TESI-3D-Evo-Naked-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-naked-2015.jpg",
   "year" : "2015",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-naked-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4394,
+    "id" : 5871,
     "rearShock" : "Monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4394,
+    "id" : 5871,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, amortisseur Öhlins, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4394,
+    "id" : 5871,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6750.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4394,
+    "id" : 5871,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4394,
+    "id" : 5871,
     "dryWeight" : 170.0,
     "seatHeight" : 780.0,
     "type" : "type Omega en aluminium",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4395,
+  "id" : 5872,
   "idMotoplanete" : 5879,
-  "name" : "BB3 1000 ",
+  "name" : "BB3 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5879/BB3-1000-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2015.jpg",
   "year" : "2015",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4395,
+    "id" : 5872,
     "rearShock" : "Monoamortisseur Öhlins TTX",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "190 / 55 - 200 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4395,
+    "id" : 5872,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4395,
+    "id" : 5872,
     "gasSupply" : "Injection Ø 48 mm",
     "torque" : 11.4,
     "torqueRpm" : 9750.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4395,
+    "id" : 5872,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4395,
+    "id" : 5872,
     "dryWeight" : 179.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4396,
+  "id" : 5873,
   "idMotoplanete" : 5887,
-  "name" : "BB3 1000 TTrofeo ",
+  "name" : "BB3 1000 TTrofeo",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5887/BB3-1000-TTrofeo-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-BB3-TTrofeo-2015.jpg",
   "year" : "2015",
@@ -413,23 +413,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-BB3-TTrofeo-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4396,
+    "id" : 5873,
     "rearShock" : "Monoamortisseur Öhlins TTX",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "190 / 55 - 200 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4396,
+    "id" : 5873,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4396,
+    "id" : 5873,
     "gasSupply" : "Injection Ø 48 mm",
     "torque" : 11.4,
     "torqueRpm" : 9750.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4396,
+    "id" : 5873,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4396,
+    "id" : 5873,
     "dryWeight" : 179.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4397,
+  "id" : 5874,
   "idMotoplanete" : 5876,
-  "name" : "DB11 1198 ",
+  "name" : "DB11 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5876/DB11-1198-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB11-2015.jpg",
   "year" : "2015",
@@ -480,23 +480,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB11-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4397,
+    "id" : 5874,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4397,
+    "id" : 5874,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4397,
+    "id" : 5874,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 7700.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4397,
+    "id" : 5874,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4397,
+    "id" : 5874,
     "dryWeight" : 175.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4398,
+  "id" : 5875,
   "idMotoplanete" : 5870,
-  "name" : "DB8 ORONERO ",
+  "name" : "DB8 ORONERO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5870/DB8-ORONERO-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2015.jpg",
   "year" : "2015",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4398,
+    "id" : 5875,
     "rearShock" : "Mono-amortisseur Öhlins",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4398,
+    "id" : 5875,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4398,
+    "id" : 5875,
     "gasSupply" : "Injection Ø nc",
     "torque" : 12.7,
     "torqueRpm" : 8000.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4398,
+    "id" : 5875,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4398,
+    "id" : 5875,
     "dryWeight" : 159.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -602,9 +602,9 @@
     "movingWeight" : 174.0
   }
 }, {
-  "id" : 4399,
+  "id" : 5876,
   "idMotoplanete" : 5873,
-  "name" : "DB9 BRIVIDO ",
+  "name" : "DB9 BRIVIDO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5873/DB9-BRIVIDO-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2015.jpg",
   "year" : "2015",
@@ -614,23 +614,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2015.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4399,
+    "id" : 5876,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4399,
+    "id" : 5876,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4399,
+    "id" : 5876,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 8000.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4399,
+    "id" : 5876,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4399,
+    "id" : 5876,
     "dryWeight" : 177.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -669,9 +669,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4400,
+  "id" : 5877,
   "idMotoplanete" : 5888,
-  "name" : "1100 TESI 3D Evo ",
+  "name" : "1100 TESI 3D Evo",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5888/1100-TESI-3D-Evo-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-2014.jpg",
   "year" : "2014",
@@ -681,23 +681,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1100-TESI-3D-evo-2014.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4400,
+    "id" : 5877,
     "rearShock" : "Monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4400,
+    "id" : 5877,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, amortisseur Öhlins, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4400,
+    "id" : 5877,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.7,
     "torqueRpm" : 5500.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4400,
+    "id" : 5877,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4400,
+    "id" : 5877,
     "dryWeight" : 170.0,
     "seatHeight" : 780.0,
     "type" : "type Omega en aluminium",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4401,
+  "id" : 5878,
   "idMotoplanete" : 5878,
-  "name" : "BB3 1000 ",
+  "name" : "BB3 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5878/BB3-1000-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2014.jpg",
   "year" : "2014",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-BB3-2014.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4401,
+    "id" : 5878,
     "rearShock" : "Monoamortisseur Öhlins TTX",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "190 / 55 - 200 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4401,
+    "id" : 5878,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4401,
+    "id" : 5878,
     "gasSupply" : "Injection Ø 48 mm",
     "torque" : 11.4,
     "torqueRpm" : 9750.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4401,
+    "id" : 5878,
     "gearboxSpeeds" : "6 vitesses",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4401,
+    "id" : 5878,
     "dryWeight" : 179.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4402,
+  "id" : 5879,
   "idMotoplanete" : 5875,
-  "name" : "DB11 1198 ",
+  "name" : "DB11 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5875/DB11-1198-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB11-2014.jpg",
   "year" : "2014",
@@ -815,23 +815,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB11-2014.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4402,
+    "id" : 5879,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4402,
+    "id" : 5879,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4402,
+    "id" : 5879,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 7700.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4402,
+    "id" : 5879,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4402,
+    "id" : 5879,
     "dryWeight" : 175.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4403,
+  "id" : 5880,
   "idMotoplanete" : 5869,
-  "name" : "DB8 ORONERO ",
+  "name" : "DB8 ORONERO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5869/DB8-ORONERO-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2014.jpg",
   "year" : "2014",
@@ -882,23 +882,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1198-DB8-oronero-2014.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4403,
+    "id" : 5880,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4403,
+    "id" : 5880,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux Brembo monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4403,
+    "id" : 5880,
     "gasSupply" : "Injection Ø nc",
     "torque" : 12.9,
     "torqueRpm" : 9000.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4403,
+    "id" : 5880,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4403,
+    "id" : 5880,
     "dryWeight" : 159.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en carbone relié à des platines latérales en aluminium",
@@ -937,9 +937,9 @@
     "movingWeight" : 174.0
   }
 }, {
-  "id" : 4404,
+  "id" : 5881,
   "idMotoplanete" : 5872,
-  "name" : "DB9 BRIVIDO ",
+  "name" : "DB9 BRIVIDO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/5872/DB9-BRIVIDO-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2014.jpg",
   "year" : "2014",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2014.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4404,
+    "id" : 5881,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4404,
+    "id" : 5881,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4404,
+    "id" : 5881,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 8000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4404,
+    "id" : 5881,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4404,
+    "id" : 5881,
     "dryWeight" : 177.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4405,
+  "id" : 5882,
   "idMotoplanete" : 4950,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4950/1100-TESI-3D-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2013",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4405,
+    "id" : 5882,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4405,
+    "id" : 5882,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4405,
+    "id" : 5882,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4405,
+    "id" : 5882,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4405,
+    "id" : 5882,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -1071,9 +1071,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4406,
+  "id" : 5883,
   "idMotoplanete" : 4525,
-  "name" : "DB11 1198 ",
+  "name" : "DB11 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4525/DB11-1198-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB11-2013.jpg",
   "year" : "2013",
@@ -1083,23 +1083,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB11-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4406,
+    "id" : 5883,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4406,
+    "id" : 5883,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4406,
+    "id" : 5883,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 7700.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4406,
+    "id" : 5883,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4406,
+    "id" : 5883,
     "dryWeight" : 175.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4407,
+  "id" : 5884,
   "idMotoplanete" : 4528,
-  "name" : "DB11 VLX 1198 ",
+  "name" : "DB11 VLX 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4528/DB11-VLX-1198-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB11-VLX-2013.jpg",
   "year" : "2013",
@@ -1150,23 +1150,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB11-VLX-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4407,
+    "id" : 5884,
     "rearShock" : "Mono-amortisseur Öhlins",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4407,
+    "id" : 5884,
     "fork" : "Fourche téléhydraulique inversée ÖhlinsØ 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4407,
+    "id" : 5884,
     "gasSupply" : "Injection",
     "torque" : 14.5,
     "torqueRpm" : 7750.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4407,
+    "id" : 5884,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4407,
+    "id" : 5884,
     "dryWeight" : 179.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4408,
+  "id" : 5885,
   "idMotoplanete" : 4947,
-  "name" : "DB8 1198 ",
+  "name" : "DB8 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4947/DB8-1198-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-DB8-2013.jpg",
   "year" : "2013",
@@ -1217,23 +1217,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-DB8-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4408,
+    "id" : 5885,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4408,
+    "id" : 5885,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4408,
+    "id" : 5885,
     "gasSupply" : "Injection",
     "torque" : 13.4,
     "torqueRpm" : 8000.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4408,
+    "id" : 5885,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4408,
+    "id" : 5885,
     "dryWeight" : 171.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1272,9 +1272,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4409,
+  "id" : 5886,
   "idMotoplanete" : 4948,
-  "name" : "DB8 1198 SP ",
+  "name" : "DB8 1198 SP",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4948/DB8-1198-SP-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-DB8-SP-2013.jpg",
   "year" : "2013",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-DB8-SP-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4409,
+    "id" : 5886,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4409,
+    "id" : 5886,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4409,
+    "id" : 5886,
     "gasSupply" : "Injection Walbro by Bimota",
     "torque" : 12.9,
     "torqueRpm" : 8000.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4409,
+    "id" : 5886,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4409,
+    "id" : 5886,
     "dryWeight" : 164.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -1339,9 +1339,9 @@
     "movingWeight" : 173.5
   }
 }, {
-  "id" : 4410,
+  "id" : 5887,
   "idMotoplanete" : 4523,
-  "name" : "DB9 BRIVIDO ",
+  "name" : "DB9 BRIVIDO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4523/DB9-BRIVIDO-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2013.jpg",
   "year" : "2013",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB9-Brivido-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4410,
+    "id" : 5887,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4410,
+    "id" : 5887,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4410,
+    "id" : 5887,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 8000.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4410,
+    "id" : 5887,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4410,
+    "id" : 5887,
     "dryWeight" : 177.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4411,
+  "id" : 5888,
   "idMotoplanete" : 4462,
-  "name" : "DB12 B Tourist ",
+  "name" : "DB12 B Tourist",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4462/DB12-B-Tourist-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota_1200-DB12-B-2013.jpg",
   "year" : "2013",
@@ -1418,23 +1418,23 @@
   "priceABS" : null,
   "categoryId" : 9,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota_1200-DB12-B-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4411,
+    "id" : 5888,
     "rearShock" : "Mono-amortisseur Extreme Tech",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4411,
+    "id" : 5888,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4411,
+    "id" : 5888,
     "gasSupply" : "Injection Ø nc",
     "torque" : 13.0,
     "torqueRpm" : 7700.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4411,
+    "id" : 5888,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4411,
+    "id" : 5888,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tubes d'acier relié à des platines ajourées en aluminium",
@@ -1473,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4412,
+  "id" : 5889,
   "idMotoplanete" : 4524,
-  "name" : "DB10 Bimotard ",
+  "name" : "DB10 Bimotard",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4524/DB10-Bimotard-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-DB10-Bimotard-2013.jpg",
   "year" : "2013",
@@ -1483,25 +1483,25 @@
   "zeroToHundred" : null,
   "price" : 20790,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-DB10-Bimotard-2013.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4412,
+    "id" : 5889,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4412,
+    "id" : 5889,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4412,
+    "id" : 5889,
     "gasSupply" : "Injection Ø nc",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4412,
+    "id" : 5889,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4412,
+    "id" : 5889,
     "dryWeight" : 168.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : 182.0
   }
 }, {
-  "id" : 4413,
+  "id" : 5890,
   "idMotoplanete" : 4949,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4949/1100-TESI-3D-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2012",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4413,
+    "id" : 5890,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4413,
+    "id" : 5890,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4413,
+    "id" : 5890,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4413,
+    "id" : 5890,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4413,
+    "id" : 5890,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4414,
+  "id" : 5891,
   "idMotoplanete" : 3881,
-  "name" : "DB8 1198 ",
+  "name" : "DB8 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3881/DB8-1198-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1198-DB8-2012.jpg",
   "year" : "2012",
@@ -1619,23 +1619,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1198-DB8-2012.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4414,
+    "id" : 5891,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4414,
+    "id" : 5891,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4414,
+    "id" : 5891,
     "gasSupply" : "Injection",
     "torque" : 13.4,
     "torqueRpm" : 8000.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4414,
+    "id" : 5891,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4414,
+    "id" : 5891,
     "dryWeight" : 171.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4415,
+  "id" : 5892,
   "idMotoplanete" : 4233,
-  "name" : "DB8 1198 SP ",
+  "name" : "DB8 1198 SP",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/4233/DB8-1198-SP-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-DB8-SP-2012.jpg",
   "year" : "2012",
@@ -1686,23 +1686,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-DB8-SP-2012.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4415,
+    "id" : 5892,
     "rearShock" : "Mono-amortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4415,
+    "id" : 5892,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers radiaux monoblocs à 4 pistons"
   },
   "engine" : {
-    "id" : 4415,
+    "id" : 5892,
     "gasSupply" : "Injection Walbro by Bimota",
     "torque" : 12.9,
     "torqueRpm" : 8000.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4415,
+    "id" : 5892,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4415,
+    "id" : 5892,
     "dryWeight" : 164.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -1741,9 +1741,9 @@
     "movingWeight" : 173.5
   }
 }, {
-  "id" : 4416,
+  "id" : 5893,
   "idMotoplanete" : 3882,
-  "name" : "1100 DB6 E DELIRIO ",
+  "name" : "1100 DB6 E DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3882/1100-DB6-E-DELIRIO-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2011.jpg",
   "year" : "2012",
@@ -1753,23 +1753,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2011.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4416,
+    "id" : 5893,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4416,
+    "id" : 5893,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4416,
+    "id" : 5893,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4416,
+    "id" : 5893,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4416,
+    "id" : 5893,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -1808,9 +1808,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4417,
+  "id" : 5894,
   "idMotoplanete" : 3832,
-  "name" : "DB9 BRIVIDO ",
+  "name" : "DB9 BRIVIDO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3832/DB9-BRIVIDO-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1198-DB9-Brivido-2012.jpg",
   "year" : "2012",
@@ -1820,23 +1820,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1198-DB9-Brivido-2012.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4417,
+    "id" : 5894,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4417,
+    "id" : 5894,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4417,
+    "id" : 5894,
     "gasSupply" : "Injection",
     "torque" : 13.0,
     "torqueRpm" : 8000.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4417,
+    "id" : 5894,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4417,
+    "id" : 5894,
     "dryWeight" : 177.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -1875,9 +1875,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4418,
+  "id" : 5895,
   "idMotoplanete" : 3833,
-  "name" : "DB10 Bimotard ",
+  "name" : "DB10 Bimotard",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3833/DB10-Bimotard-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB10-bimotard-2012.jpg",
   "year" : "2012",
@@ -1885,25 +1885,25 @@
   "zeroToHundred" : null,
   "price" : 20790,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB10-bimotard-2012.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4418,
+    "id" : 5895,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 140 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4418,
+    "id" : 5895,
     "fork" : "Fourche téléhydraulique inversée Ø 50 mm, déb : 165 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4418,
+    "id" : 5895,
     "gasSupply" : "Injection Ø nc",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4418,
+    "id" : 5895,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4418,
+    "id" : 5895,
     "dryWeight" : 168.0,
     "seatHeight" : 820.0,
     "type" : "Treillis tubulaire en acier",
@@ -1942,9 +1942,9 @@
     "movingWeight" : 182.0
   }
 }, {
-  "id" : 4419,
+  "id" : 5896,
   "idMotoplanete" : 3552,
-  "name" : "1100 DB5 R ",
+  "name" : "1100 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3552/1100-DB5-R-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-DB5-R-2011.jpg",
   "year" : "2011",
@@ -1954,23 +1954,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-DB5-R-2011.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4419,
+    "id" : 5896,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4419,
+    "id" : 5896,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4419,
+    "id" : 5896,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4419,
+    "id" : 5896,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4419,
+    "id" : 5896,
     "dryWeight" : 169.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -2009,9 +2009,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4420,
+  "id" : 5897,
   "idMotoplanete" : 3788,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3788/1100-DB5-S-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2011",
@@ -2021,23 +2021,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4420,
+    "id" : 5897,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4420,
+    "id" : 5897,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4420,
+    "id" : 5897,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4420,
+    "id" : 5897,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4420,
+    "id" : 5897,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -2076,9 +2076,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4421,
+  "id" : 5898,
   "idMotoplanete" : 3271,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3271/1100-TESI-3D-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2011",
@@ -2088,23 +2088,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4421,
+    "id" : 5898,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4421,
+    "id" : 5898,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4421,
+    "id" : 5898,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4421,
+    "id" : 5898,
     "gearboxSpeeds" : "boite à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4421,
+    "id" : 5898,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -2143,9 +2143,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4422,
+  "id" : 5899,
   "idMotoplanete" : 3789,
-  "name" : "DB7 1098 ",
+  "name" : "DB7 1098",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3789/DB7-1098-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1098-DB7.jpg",
   "year" : "2011",
@@ -2155,23 +2155,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1098-DB7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4422,
+    "id" : 5899,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : "190/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4422,
+    "id" : 5899,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4422,
+    "id" : 5899,
     "gasSupply" : "injection",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4422,
+    "id" : 5899,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4422,
+    "id" : 5899,
     "dryWeight" : 170.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -2210,9 +2210,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4423,
+  "id" : 5900,
   "idMotoplanete" : 3272,
-  "name" : "DB8 1198 ",
+  "name" : "DB8 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3272/DB8-1198-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1198-DB8-2010.jpg",
   "year" : "2011",
@@ -2222,23 +2222,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1198-DB8-2010.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4423,
+    "id" : 5900,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4423,
+    "id" : 5900,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4423,
+    "id" : 5900,
     "gasSupply" : "Injection",
     "torque" : 13.4,
     "torqueRpm" : 8000.0,
@@ -2257,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4423,
+    "id" : 5900,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2265,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4423,
+    "id" : 5900,
     "dryWeight" : 171.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -2277,9 +2277,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4424,
+  "id" : 5901,
   "idMotoplanete" : 3547,
-  "name" : "1100 DB6 DELIRIO ",
+  "name" : "1100 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3547/1100-DB6-DELIRIO-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2011.jpg",
   "year" : "2011",
@@ -2289,23 +2289,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2011.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4424,
+    "id" : 5901,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4424,
+    "id" : 5901,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4424,
+    "id" : 5901,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -2324,7 +2324,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4424,
+    "id" : 5901,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2332,7 +2332,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4424,
+    "id" : 5901,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -2344,9 +2344,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4425,
+  "id" : 5902,
   "idMotoplanete" : 3551,
-  "name" : "1100 DB5 R ",
+  "name" : "1100 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3551/1100-DB5-R-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-DB5-R-2010.jpg",
   "year" : "2010",
@@ -2356,23 +2356,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-DB5-R-2010.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4425,
+    "id" : 5902,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4425,
+    "id" : 5902,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4425,
+    "id" : 5902,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -2391,7 +2391,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4425,
+    "id" : 5902,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2399,7 +2399,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4425,
+    "id" : 5902,
     "dryWeight" : 169.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -2411,9 +2411,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4426,
+  "id" : 5903,
   "idMotoplanete" : 3787,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3787/1100-DB5-S-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2010",
@@ -2423,23 +2423,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4426,
+    "id" : 5903,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4426,
+    "id" : 5903,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4426,
+    "id" : 5903,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2458,7 +2458,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4426,
+    "id" : 5903,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2466,7 +2466,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4426,
+    "id" : 5903,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -2478,9 +2478,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4427,
+  "id" : 5904,
   "idMotoplanete" : 3270,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3270/1100-TESI-3D-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2010",
@@ -2490,23 +2490,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4427,
+    "id" : 5904,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4427,
+    "id" : 5904,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4427,
+    "id" : 5904,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2525,7 +2525,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4427,
+    "id" : 5904,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2533,7 +2533,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4427,
+    "id" : 5904,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -2545,9 +2545,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4428,
+  "id" : 5905,
   "idMotoplanete" : 1672,
-  "name" : "DB7 1098 ",
+  "name" : "DB7 1098",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1672/DB7-1098-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1098-DB7.jpg",
   "year" : "2010",
@@ -2557,23 +2557,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1098-DB7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4428,
+    "id" : 5905,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : "190/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4428,
+    "id" : 5905,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4428,
+    "id" : 5905,
     "gasSupply" : "injection",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -2592,7 +2592,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4428,
+    "id" : 5905,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -2600,7 +2600,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4428,
+    "id" : 5905,
     "dryWeight" : 170.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -2612,9 +2612,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4429,
+  "id" : 5906,
   "idMotoplanete" : 1829,
-  "name" : "DB8 1198 ",
+  "name" : "DB8 1198",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1829/DB8-1198-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1198-DB8-2010.jpg",
   "year" : "2010",
@@ -2624,23 +2624,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1198-DB8-2010.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4429,
+    "id" : 5906,
     "rearShock" : "Mono-amortisseur Extreme Tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier Brembo 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4429,
+    "id" : 5906,
     "fork" : "Fourche téléhydraulique inversée Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4429,
+    "id" : 5906,
     "gasSupply" : "Injection",
     "torque" : 13.4,
     "torqueRpm" : 8000.0,
@@ -2659,7 +2659,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4429,
+    "id" : 5906,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2667,7 +2667,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4429,
+    "id" : 5906,
     "dryWeight" : 171.0,
     "seatHeight" : 800.0,
     "type" : "Treillis tubulaire en acier + platines latérales en alu",
@@ -2679,9 +2679,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4430,
+  "id" : 5907,
   "idMotoplanete" : 3546,
-  "name" : "1100 DB6 DELIRIO ",
+  "name" : "1100 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3546/1100-DB6-DELIRIO-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2010.jpg",
   "year" : "2010",
@@ -2691,23 +2691,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2010.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4430,
+    "id" : 5907,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4430,
+    "id" : 5907,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4430,
+    "id" : 5907,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -2726,7 +2726,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4430,
+    "id" : 5907,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2734,7 +2734,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4430,
+    "id" : 5907,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -2746,9 +2746,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4431,
+  "id" : 5908,
   "idMotoplanete" : 3550,
-  "name" : "1100 DB5 R ",
+  "name" : "1100 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3550/1100-DB5-R-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-DB5-R-2009.jpg",
   "year" : "2009",
@@ -2758,23 +2758,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-DB5-R-2009.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4431,
+    "id" : 5908,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4431,
+    "id" : 5908,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4431,
+    "id" : 5908,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -2793,7 +2793,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4431,
+    "id" : 5908,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2801,7 +2801,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4431,
+    "id" : 5908,
     "dryWeight" : 169.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -2813,9 +2813,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4432,
+  "id" : 5909,
   "idMotoplanete" : 3786,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3786/1100-DB5-S-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2009",
@@ -2825,23 +2825,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4432,
+    "id" : 5909,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4432,
+    "id" : 5909,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4432,
+    "id" : 5909,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2860,7 +2860,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4432,
+    "id" : 5909,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2868,7 +2868,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4432,
+    "id" : 5909,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -2880,9 +2880,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4433,
+  "id" : 5910,
   "idMotoplanete" : 3269,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3269/1100-TESI-3D-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2009",
@@ -2892,23 +2892,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4433,
+    "id" : 5910,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4433,
+    "id" : 5910,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4433,
+    "id" : 5910,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2927,7 +2927,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4433,
+    "id" : 5910,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -2935,7 +2935,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4433,
+    "id" : 5910,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -2947,9 +2947,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4434,
+  "id" : 5911,
   "idMotoplanete" : 1112,
-  "name" : "1100 TESI 3D ROCK GOLD ",
+  "name" : "1100 TESI 3D ROCK GOLD",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1112/1100-TESI-3D-ROCK-GOLD-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-Tesi-3D-Rock-Gold.jpg",
   "year" : "2009",
@@ -2959,23 +2959,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-Tesi-3D-Rock-Gold.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4434,
+    "id" : 5911,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4434,
+    "id" : 5911,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4434,
+    "id" : 5911,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -2994,7 +2994,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4434,
+    "id" : 5911,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -3002,7 +3002,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4434,
+    "id" : 5911,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -3014,9 +3014,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4435,
+  "id" : 5912,
   "idMotoplanete" : 1671,
-  "name" : "DB7 1098 ",
+  "name" : "DB7 1098",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1671/DB7-1098-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1098-DB7.jpg",
   "year" : "2009",
@@ -3026,23 +3026,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1098-DB7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4435,
+    "id" : 5912,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : "190/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4435,
+    "id" : 5912,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4435,
+    "id" : 5912,
     "gasSupply" : "injection",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -3061,7 +3061,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4435,
+    "id" : 5912,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -3069,7 +3069,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4435,
+    "id" : 5912,
     "dryWeight" : 170.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -3081,9 +3081,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4436,
+  "id" : 5913,
   "idMotoplanete" : 1670,
-  "name" : "DB7 1098 Diavolo Rosso ",
+  "name" : "DB7 1098 Diavolo Rosso",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1670/DB7-1098-Diavolo-Rosso-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB7_1098_Diavolo_Rosso.jpg",
   "year" : "2009",
@@ -3093,23 +3093,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB7_1098_Diavolo_Rosso.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4436,
+    "id" : 5913,
     "rearShock" : "Monoamortisseur ExtremeTech, déb : 130 mm",
     "rearBrake" : "Simple disque Ø 230 mm, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4436,
+    "id" : 5913,
     "fork" : null,
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques en pétales Ø 320 mm, étriers radiaux Brembo à 4 pistons"
   },
   "engine" : {
-    "id" : 4436,
+    "id" : 5913,
     "gasSupply" : "Injection électronique Magneti Marelli",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -3128,7 +3128,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4436,
+    "id" : 5913,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3136,7 +3136,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4436,
+    "id" : 5913,
     "dryWeight" : 164.0,
     "seatHeight" : 800.0,
     "type" : "treillis à section ovale hybride",
@@ -3148,9 +3148,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4437,
+  "id" : 5914,
   "idMotoplanete" : 108,
-  "name" : "DB7 1098 Oro Nero ",
+  "name" : "DB7 1098 Oro Nero",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/108/DB7-1098-Oro-Nero-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB7-ORO-NERO.jpg",
   "year" : "2009",
@@ -3160,23 +3160,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB7-ORO-NERO.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4437,
+    "id" : 5914,
     "rearShock" : "Monoamortisseur ExtremeTech, déb : 130 mm",
     "rearBrake" : "Simple disque semi-flottants Ø 230 mm, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4437,
+    "id" : 5914,
     "fork" : "fouche téléhydraulique inversée Marzocchi Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "Double disques en pétales semi-flottants Ø 320 mm, étriers radiaux Brembo à"
   },
   "engine" : {
-    "id" : 4437,
+    "id" : 5914,
     "gasSupply" : "Injection électronique Magneti Marelli",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -3195,7 +3195,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4437,
+    "id" : 5914,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3203,7 +3203,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4437,
+    "id" : 5914,
     "dryWeight" : 164.0,
     "seatHeight" : 800.0,
     "type" : "treillis à section ovale hybride",
@@ -3215,9 +3215,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4438,
+  "id" : 5915,
   "idMotoplanete" : 3545,
-  "name" : "1100 DB6 DELIRIO ",
+  "name" : "1100 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3545/1100-DB6-DELIRIO-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2009.jpg",
   "year" : "2009",
@@ -3227,23 +3227,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2009.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4438,
+    "id" : 5915,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4438,
+    "id" : 5915,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4438,
+    "id" : 5915,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -3262,7 +3262,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4438,
+    "id" : 5915,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3270,7 +3270,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4438,
+    "id" : 5915,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3282,9 +3282,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4439,
+  "id" : 5916,
   "idMotoplanete" : 3542,
-  "name" : "1000 DB5 ",
+  "name" : "1000 DB5",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3542/1000-DB5-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg",
   "year" : "2008",
@@ -3294,23 +3294,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4439,
+    "id" : 5916,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4439,
+    "id" : 5916,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4439,
+    "id" : 5916,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 4750.0,
@@ -3329,7 +3329,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4439,
+    "id" : 5916,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3337,7 +3337,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4439,
+    "id" : 5916,
     "dryWeight" : 170.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3349,9 +3349,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4440,
+  "id" : 5917,
   "idMotoplanete" : 22,
-  "name" : "1000 DB5 Borsalino ",
+  "name" : "1000 DB5 Borsalino",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/22/1000-DB5-Borsalino-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1000-borsalino.jpg",
   "year" : "2008",
@@ -3361,23 +3361,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1000-borsalino.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4440,
+    "id" : 5917,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4440,
+    "id" : 5917,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 298 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4440,
+    "id" : 5917,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 5500.0,
@@ -3396,7 +3396,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4440,
+    "id" : 5917,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3404,7 +3404,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4440,
+    "id" : 5917,
     "dryWeight" : 165.0,
     "seatHeight" : 800.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3416,9 +3416,9 @@
     "movingWeight" : 180.0
   }
 }, {
-  "id" : 4441,
+  "id" : 5918,
   "idMotoplanete" : 3549,
-  "name" : "1100 DB5 R ",
+  "name" : "1100 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3549/1100-DB5-R-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-DB5-R-2008.jpg",
   "year" : "2008",
@@ -3428,23 +3428,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-DB5-R-2008.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4441,
+    "id" : 5918,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4441,
+    "id" : 5918,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4441,
+    "id" : 5918,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -3463,7 +3463,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4441,
+    "id" : 5918,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3471,7 +3471,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4441,
+    "id" : 5918,
     "dryWeight" : 169.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3483,9 +3483,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4442,
+  "id" : 5919,
   "idMotoplanete" : 3785,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3785/1100-DB5-S-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2008",
@@ -3495,23 +3495,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4442,
+    "id" : 5919,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4442,
+    "id" : 5919,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4442,
+    "id" : 5919,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -3530,7 +3530,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4442,
+    "id" : 5919,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3538,7 +3538,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4442,
+    "id" : 5919,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -3550,9 +3550,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4443,
+  "id" : 5920,
   "idMotoplanete" : 3268,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3268/1100-TESI-3D-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2008",
@@ -3562,23 +3562,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4443,
+    "id" : 5920,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4443,
+    "id" : 5920,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4443,
+    "id" : 5920,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -3597,7 +3597,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4443,
+    "id" : 5920,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3605,7 +3605,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4443,
+    "id" : 5920,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -3617,9 +3617,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4444,
+  "id" : 5921,
   "idMotoplanete" : 13,
-  "name" : "DB7 1098 ",
+  "name" : "DB7 1098",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/13/DB7-1098-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1098-DB7.jpg",
   "year" : "2008",
@@ -3629,23 +3629,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1098-DB7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4444,
+    "id" : 5921,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : "190/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4444,
+    "id" : 5921,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4444,
+    "id" : 5921,
     "gasSupply" : "injection",
     "torque" : 12.5,
     "torqueRpm" : 8000.0,
@@ -3664,7 +3664,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4444,
+    "id" : 5921,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -3672,7 +3672,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4444,
+    "id" : 5921,
     "dryWeight" : 170.0,
     "seatHeight" : 800.0,
     "type" : "treillis tubulaire en tube d'acier relié à des platines en alu",
@@ -3684,9 +3684,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4445,
+  "id" : 5922,
   "idMotoplanete" : 3544,
-  "name" : "1100 DB6 DELIRIO ",
+  "name" : "1100 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3544/1100-DB6-DELIRIO-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2008.jpg",
   "year" : "2008",
@@ -3696,23 +3696,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2008.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4445,
+    "id" : 5922,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4445,
+    "id" : 5922,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4445,
+    "id" : 5922,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -3731,7 +3731,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4445,
+    "id" : 5922,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3739,7 +3739,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4445,
+    "id" : 5922,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3751,9 +3751,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4446,
+  "id" : 5923,
   "idMotoplanete" : 3541,
-  "name" : "1000 DB5 ",
+  "name" : "1000 DB5",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3541/1000-DB5-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg",
   "year" : "2007",
@@ -3763,23 +3763,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4446,
+    "id" : 5923,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4446,
+    "id" : 5923,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4446,
+    "id" : 5923,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 4750.0,
@@ -3798,7 +3798,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4446,
+    "id" : 5923,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3806,7 +3806,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4446,
+    "id" : 5923,
     "dryWeight" : 170.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3818,9 +3818,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4447,
+  "id" : 5924,
   "idMotoplanete" : 3554,
-  "name" : "1000 TESI 2D ",
+  "name" : "1000 TESI 2D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3554/1000-TESI-2D-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg",
   "year" : "2007",
@@ -3830,23 +3830,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4447,
+    "id" : 5924,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4447,
+    "id" : 5924,
     "fork" : null,
     "frontShock" : "bras oscillant, moyeu directeur, momoamortisseur, déb : 120 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4447,
+    "id" : 5924,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 8.9,
     "torqueRpm" : 5750.0,
@@ -3865,7 +3865,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4447,
+    "id" : 5924,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3873,7 +3873,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4447,
+    "id" : 5924,
     "dryWeight" : null,
     "seatHeight" : 830.0,
     "type" : "type Omega en aluminium",
@@ -3885,9 +3885,9 @@
     "movingWeight" : 149.0
   }
 }, {
-  "id" : 4448,
+  "id" : 5925,
   "idMotoplanete" : 3548,
-  "name" : "1100 DB5 R ",
+  "name" : "1100 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3548/1100-DB5-R-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1100-DB5-R-2007.jpg",
   "year" : "2007",
@@ -3897,23 +3897,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1100-DB5-R-2007.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4448,
+    "id" : 5925,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4448,
+    "id" : 5925,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4448,
+    "id" : 5925,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -3932,7 +3932,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4448,
+    "id" : 5925,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -3940,7 +3940,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4448,
+    "id" : 5925,
     "dryWeight" : 169.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -3952,9 +3952,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4449,
+  "id" : 5926,
   "idMotoplanete" : 3784,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3784/1100-DB5-S-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2007",
@@ -3964,23 +3964,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4449,
+    "id" : 5926,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4449,
+    "id" : 5926,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4449,
+    "id" : 5926,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -3999,7 +3999,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4449,
+    "id" : 5926,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4007,7 +4007,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4449,
+    "id" : 5926,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -4019,9 +4019,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4450,
+  "id" : 5927,
   "idMotoplanete" : 1114,
-  "name" : "1100 TESI 3D ",
+  "name" : "1100 TESI 3D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/1114/1100-TESI-3D-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-3D.jpg",
   "year" : "2007",
@@ -4031,23 +4031,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-3D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4450,
+    "id" : 5927,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4450,
+    "id" : 5927,
     "fork" : null,
     "frontShock" : "bras oscillant, structure treillis tubulaire, moye, déb : 115 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4450,
+    "id" : 5927,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -4066,7 +4066,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4450,
+    "id" : 5927,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4074,7 +4074,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4450,
+    "id" : 5927,
     "dryWeight" : 168.0,
     "seatHeight" : 800.0,
     "type" : "type Omega en aluminium",
@@ -4086,9 +4086,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4451,
+  "id" : 5928,
   "idMotoplanete" : 3543,
-  "name" : "1100 DB6 DELIRIO ",
+  "name" : "1100 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3543/1100-DB6-DELIRIO-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2007.jpg",
   "year" : "2007",
@@ -4098,23 +4098,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1100-DB6-delirio-2007.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4451,
+    "id" : 5928,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4451,
+    "id" : 5928,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4451,
+    "id" : 5928,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 10.5,
     "torqueRpm" : 5500.0,
@@ -4133,7 +4133,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4451,
+    "id" : 5928,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4141,7 +4141,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4451,
+    "id" : 5928,
     "dryWeight" : 170.0,
     "seatHeight" : 810.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -4153,9 +4153,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4452,
+  "id" : 5929,
   "idMotoplanete" : 3540,
-  "name" : "1000 DB5 ",
+  "name" : "1000 DB5",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3540/1000-DB5-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg",
   "year" : "2006",
@@ -4165,23 +4165,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4452,
+    "id" : 5929,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4452,
+    "id" : 5929,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4452,
+    "id" : 5929,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 4750.0,
@@ -4200,7 +4200,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4452,
+    "id" : 5929,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4208,7 +4208,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4452,
+    "id" : 5929,
     "dryWeight" : 170.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -4220,9 +4220,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4453,
+  "id" : 5930,
   "idMotoplanete" : 26,
-  "name" : "1000 DB5 R ",
+  "name" : "1000 DB5 R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/26/1000-DB5-R-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/1000-DB5-R-2006.jpg",
   "year" : "2006",
@@ -4232,23 +4232,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/1000-DB5-R-2006.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4453,
+    "id" : 5930,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4453,
+    "id" : 5930,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4453,
+    "id" : 5930,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 8.5,
     "torqueRpm" : 5500.0,
@@ -4267,7 +4267,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4453,
+    "id" : 5930,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4275,7 +4275,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4453,
+    "id" : 5930,
     "dryWeight" : 169.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -4287,9 +4287,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4454,
+  "id" : 5931,
   "idMotoplanete" : 3553,
-  "name" : "1000 TESI 2D ",
+  "name" : "1000 TESI 2D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3553/1000-TESI-2D-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg",
   "year" : "2006",
@@ -4299,23 +4299,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4454,
+    "id" : 5931,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4454,
+    "id" : 5931,
     "fork" : null,
     "frontShock" : "bras oscillant, moyeu directeur, momoamortisseur, déb : 120 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4454,
+    "id" : 5931,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 8.9,
     "torqueRpm" : 5750.0,
@@ -4334,7 +4334,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4454,
+    "id" : 5931,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4342,7 +4342,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4454,
+    "id" : 5931,
     "dryWeight" : null,
     "seatHeight" : 830.0,
     "type" : "type Omega en aluminium",
@@ -4354,9 +4354,9 @@
     "movingWeight" : 149.0
   }
 }, {
-  "id" : 4455,
+  "id" : 5932,
   "idMotoplanete" : 25,
-  "name" : "1100 DB5 S ",
+  "name" : "1100 DB5 S",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/25/1100-DB5-S-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/DB5-1100-S.jpg",
   "year" : "2006",
@@ -4366,23 +4366,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/DB5-1100-S.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4455,
+    "id" : 5932,
     "rearShock" : "monoamortisseur Extreme tech, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4455,
+    "id" : 5932,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4455,
+    "id" : 5932,
     "gasSupply" : "injection",
     "torque" : 10.0,
     "torqueRpm" : 4.0,
@@ -4401,7 +4401,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4455,
+    "id" : 5932,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4409,7 +4409,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4455,
+    "id" : 5932,
     "dryWeight" : 185.0,
     "seatHeight" : 800.0,
     "type" : "Treillis relié à des éléments en aluminium",
@@ -4421,9 +4421,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4456,
+  "id" : 5933,
   "idMotoplanete" : 9,
-  "name" : "SB8K édition Gobert ",
+  "name" : "SB8K édition Gobert",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/9/SB8K-edition-Gobert-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-gobert.jpg",
   "year" : "2006",
@@ -4433,23 +4433,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-gobert.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4456,
+    "id" : 5933,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4456,
+    "id" : 5933,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4456,
+    "id" : 5933,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -4468,7 +4468,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4456,
+    "id" : 5933,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4476,7 +4476,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4456,
+    "id" : 5933,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -4488,9 +4488,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4457,
+  "id" : 5934,
   "idMotoplanete" : 18,
-  "name" : "SB8K édition Santa Monica ",
+  "name" : "SB8K édition Santa Monica",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/18/SB8K-edition-Santa-Monica-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg",
   "year" : "2006",
@@ -4500,23 +4500,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4457,
+    "id" : 5934,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4457,
+    "id" : 5934,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4457,
+    "id" : 5934,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -4535,7 +4535,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4457,
+    "id" : 5934,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4543,7 +4543,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4457,
+    "id" : 5934,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -4555,9 +4555,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4458,
+  "id" : 5935,
   "idMotoplanete" : 11,
-  "name" : "1000 DB6 DELIRIO ",
+  "name" : "1000 DB6 DELIRIO",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/11/1000-DB6-DELIRIO-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/bimota-1000-DB6-delirio-2006.jpg",
   "year" : "2006",
@@ -4567,23 +4567,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/bimota-1000-DB6-delirio-2006.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4458,
+    "id" : 5935,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4458,
+    "id" : 5935,
     "fork" : "Fourche téléhydraulique inversée Marzocchi Ø 50 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4458,
+    "id" : 5935,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 4500.0,
@@ -4602,7 +4602,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4458,
+    "id" : 5935,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4610,7 +4610,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4458,
+    "id" : 5935,
     "dryWeight" : 170.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -4622,9 +4622,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4459,
+  "id" : 5936,
   "idMotoplanete" : 24,
-  "name" : "1000 DB5 ",
+  "name" : "1000 DB5",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/24/1000-DB5-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg",
   "year" : "2005",
@@ -4634,23 +4634,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-DB5.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4459,
+    "id" : 5936,
     "rearShock" : "monoamortisseur Öhlins, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4459,
+    "id" : 5936,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers à fixation radiale 4 pistons"
   },
   "engine" : {
-    "id" : 4459,
+    "id" : 5936,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.0,
     "torqueRpm" : 4750.0,
@@ -4669,7 +4669,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4459,
+    "id" : 5936,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4677,7 +4677,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4459,
+    "id" : 5936,
     "dryWeight" : 170.0,
     "seatHeight" : 820.0,
     "type" : "treillis en acier relié à des éléments en aluminium",
@@ -4689,9 +4689,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4460,
+  "id" : 5937,
   "idMotoplanete" : 33,
-  "name" : "1000 TESI 2D ",
+  "name" : "1000 TESI 2D",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/33/1000-TESI-2D-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg",
   "year" : "2005",
@@ -4701,23 +4701,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-Tesi-2D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4460,
+    "id" : 5937,
     "rearShock" : "monoamortisseur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4460,
+    "id" : 5937,
     "fork" : null,
     "frontShock" : "bras oscillant, moyeu directeur, momoamortisseur, déb : 120 mm",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4460,
+    "id" : 5937,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 8.9,
     "torqueRpm" : 5750.0,
@@ -4736,7 +4736,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4460,
+    "id" : 5937,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4744,7 +4744,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4460,
+    "id" : 5937,
     "dryWeight" : null,
     "seatHeight" : 830.0,
     "type" : "type Omega en aluminium",
@@ -4756,9 +4756,9 @@
     "movingWeight" : 149.0
   }
 }, {
-  "id" : 4461,
+  "id" : 5938,
   "idMotoplanete" : 3287,
-  "name" : "SB8K édition Gobert ",
+  "name" : "SB8K édition Gobert",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3287/SB8K-edition-Gobert-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-gobert.jpg",
   "year" : "2005",
@@ -4768,23 +4768,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-gobert.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4461,
+    "id" : 5938,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4461,
+    "id" : 5938,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4461,
+    "id" : 5938,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -4803,7 +4803,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4461,
+    "id" : 5938,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4811,7 +4811,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4461,
+    "id" : 5938,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -4823,9 +4823,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4462,
+  "id" : 5939,
   "idMotoplanete" : 3289,
-  "name" : "SB8K édition Santa Monica ",
+  "name" : "SB8K édition Santa Monica",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3289/SB8K-edition-Santa-Monica-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg",
   "year" : "2005",
@@ -4835,23 +4835,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4462,
+    "id" : 5939,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4462,
+    "id" : 5939,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4462,
+    "id" : 5939,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -4870,7 +4870,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4462,
+    "id" : 5939,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4878,7 +4878,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4462,
+    "id" : 5939,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -4890,9 +4890,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4463,
+  "id" : 5940,
   "idMotoplanete" : 3288,
-  "name" : "SB8K édition Gobert ",
+  "name" : "SB8K édition Gobert",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3288/SB8K-edition-Gobert-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-gobert.jpg",
   "year" : "2004",
@@ -4902,23 +4902,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-gobert.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4463,
+    "id" : 5940,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4463,
+    "id" : 5940,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4463,
+    "id" : 5940,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -4937,7 +4937,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4463,
+    "id" : 5940,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -4945,7 +4945,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4463,
+    "id" : 5940,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -4957,9 +4957,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4464,
+  "id" : 5941,
   "idMotoplanete" : 3290,
-  "name" : "SB8K édition Santa Monica ",
+  "name" : "SB8K édition Santa Monica",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3290/SB8K-edition-Santa-Monica-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg",
   "year" : "2004",
@@ -4969,23 +4969,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB8K-santamonica.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4464,
+    "id" : 5941,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4464,
+    "id" : 5941,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4464,
+    "id" : 5941,
     "gasSupply" : "Injection Ø 59 mm",
     "torque" : 10.0,
     "torqueRpm" : 8750.0,
@@ -5004,7 +5004,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4464,
+    "id" : 5941,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5012,7 +5012,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4464,
+    "id" : 5941,
     "dryWeight" : 176.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -5024,9 +5024,9 @@
     "movingWeight" : 190.0
   }
 }, {
-  "id" : 4465,
+  "id" : 5942,
   "idMotoplanete" : 21,
-  "name" : "500 V-DUE Corsa Evoluzion ",
+  "name" : "500 V-DUE Corsa Evoluzion",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/21/500-V-DUE-Corsa-Evoluzion-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/500Vdue.jpg",
   "year" : "2001",
@@ -5036,23 +5036,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/500Vdue.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4465,
+    "id" : 5942,
     "rearShock" : "monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4465,
+    "id" : 5942,
     "fork" : "Fourche télescopique inversée ∅ 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4465,
+    "id" : 5942,
     "gasSupply" : "carburateurs Ø 39 mm",
     "torque" : 9.0,
     "torqueRpm" : 8000.0,
@@ -5071,7 +5071,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4465,
+    "id" : 5942,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5079,7 +5079,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4465,
+    "id" : 5942,
     "dryWeight" : 164.0,
     "seatHeight" : 820.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5091,9 +5091,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4466,
+  "id" : 5943,
   "idMotoplanete" : 3302,
-  "name" : "900 DB4 i.e. ",
+  "name" : "900 DB4 i.e.",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3302/900-DB4-ie-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/db4.jpg",
   "year" : "2001",
@@ -5103,23 +5103,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/db4.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4466,
+    "id" : 5943,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 102 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4466,
+    "id" : 5943,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4466,
+    "id" : 5943,
     "gasSupply" : "2 carburateurs Ø 34 mm",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -5138,7 +5138,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4466,
+    "id" : 5943,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5146,7 +5146,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4466,
+    "id" : 5943,
     "dryWeight" : 165.0,
     "seatHeight" : 800.0,
     "type" : "treillis en aluminium",
@@ -5158,9 +5158,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4467,
+  "id" : 5944,
   "idMotoplanete" : 3301,
-  "name" : "900 DB4 i.e. ",
+  "name" : "900 DB4 i.e.",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3301/900-DB4-ie-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/db4.jpg",
   "year" : "2000",
@@ -5170,23 +5170,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/db4.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4467,
+    "id" : 5944,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 102 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4467,
+    "id" : 5944,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4467,
+    "id" : 5944,
     "gasSupply" : "2 carburateurs Ø 34 mm",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -5205,7 +5205,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4467,
+    "id" : 5944,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5213,7 +5213,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4467,
+    "id" : 5944,
     "dryWeight" : 165.0,
     "seatHeight" : 800.0,
     "type" : "treillis en aluminium",
@@ -5225,9 +5225,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4468,
+  "id" : 5945,
   "idMotoplanete" : 3291,
-  "name" : "SB8R ",
+  "name" : "SB8R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3291/SB8R-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg",
   "year" : "2000",
@@ -5237,23 +5237,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4468,
+    "id" : 5945,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4468,
+    "id" : 5945,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/65 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4468,
+    "id" : 5945,
     "gasSupply" : "injection",
     "torque" : 9.0,
     "torqueRpm" : 8750.0,
@@ -5272,7 +5272,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4468,
+    "id" : 5945,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5280,7 +5280,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4468,
+    "id" : 5945,
     "dryWeight" : 178.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -5292,9 +5292,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4469,
+  "id" : 5946,
   "idMotoplanete" : 20,
-  "name" : "500 V-DUE Corsa ",
+  "name" : "500 V-DUE Corsa",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/20/500-V-DUE-Corsa-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/500Vdue.jpg",
   "year" : "1999",
@@ -5304,23 +5304,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/500Vdue.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4469,
+    "id" : 5946,
     "rearShock" : "monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4469,
+    "id" : 5946,
     "fork" : "Fourche télescopique inversée ? 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4469,
+    "id" : 5946,
     "gasSupply" : "carburateurs Ø 39 mm",
     "torque" : 9.0,
     "torqueRpm" : 8000.0,
@@ -5339,7 +5339,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4469,
+    "id" : 5946,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5347,7 +5347,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4469,
+    "id" : 5946,
     "dryWeight" : 164.0,
     "seatHeight" : 820.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5359,9 +5359,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4470,
+  "id" : 5947,
   "idMotoplanete" : 23,
-  "name" : "900 DB4 ",
+  "name" : "900 DB4",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/23/900-DB4-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/db4.jpg",
   "year" : "1999",
@@ -5371,23 +5371,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/db4.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4470,
+    "id" : 5947,
     "rearShock" : "Mono-amortisseur Öhlins, déb : 102 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4470,
+    "id" : 5947,
     "fork" : "Fourche téléhydraulique Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4470,
+    "id" : 5947,
     "gasSupply" : "2 carburateurs Ø 34 mm",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -5406,7 +5406,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4470,
+    "id" : 5947,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5414,7 +5414,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4470,
+    "id" : 5947,
     "dryWeight" : 165.0,
     "seatHeight" : 800.0,
     "type" : "treillis en aluminium",
@@ -5426,9 +5426,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4471,
+  "id" : 5948,
   "idMotoplanete" : 10,
-  "name" : "SB8R ",
+  "name" : "SB8R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/10/SB8R-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg",
   "year" : "1999",
@@ -5438,23 +5438,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4471,
+    "id" : 5948,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4471,
+    "id" : 5948,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/65 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4471,
+    "id" : 5948,
     "gasSupply" : "injection",
     "torque" : 9.0,
     "torqueRpm" : 8750.0,
@@ -5473,7 +5473,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4471,
+    "id" : 5948,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5481,7 +5481,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4471,
+    "id" : 5948,
     "dryWeight" : 178.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -5493,9 +5493,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4472,
+  "id" : 5949,
   "idMotoplanete" : 3294,
-  "name" : "1100 SB6-R ",
+  "name" : "1100 SB6-R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3294/1100-SB6-R-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB6-R.jpg",
   "year" : "1998",
@@ -5505,23 +5505,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB6-R.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4472,
+    "id" : 5949,
     "rearShock" : "monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "190/50 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4472,
+    "id" : 5949,
     "fork" : "Fourche téléhydraulique Paioli Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4472,
+    "id" : 5949,
     "gasSupply" : "4 carburateurs Ø 40 mm",
     "torque" : 13.0,
     "torqueRpm" : 5.0,
@@ -5540,7 +5540,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4472,
+    "id" : 5949,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5548,7 +5548,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4472,
+    "id" : 5949,
     "dryWeight" : 184.0,
     "seatHeight" : 800.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5560,9 +5560,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4473,
+  "id" : 5950,
   "idMotoplanete" : 3292,
-  "name" : "SB8R ",
+  "name" : "SB8R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3292/SB8R-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg",
   "year" : "1998",
@@ -5572,23 +5572,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Bimota-1000-SB8R.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4473,
+    "id" : 5950,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4473,
+    "id" : 5950,
     "fork" : "Fourche téléhydraulique inversée inversée Paioli, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/65 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4473,
+    "id" : 5950,
     "gasSupply" : "injection",
     "torque" : 9.0,
     "torqueRpm" : 8750.0,
@@ -5607,7 +5607,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4473,
+    "id" : 5950,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5615,7 +5615,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4473,
+    "id" : 5950,
     "dryWeight" : 178.0,
     "seatHeight" : 810.0,
     "type" : "double longeron en alu et carbone, bâti arrière carbone",
@@ -5627,9 +5627,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4474,
+  "id" : 5951,
   "idMotoplanete" : 3300,
-  "name" : "DB3 900 MANTRA ",
+  "name" : "DB3 900 MANTRA",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3300/DB3-900-MANTRA-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/mantra.jpg",
   "year" : "1998",
@@ -5639,23 +5639,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/mantra.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4474,
+    "id" : 5951,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4474,
+    "id" : 5951,
     "fork" : "Fourche téléhydraulique Païoli Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4474,
+    "id" : 5951,
     "gasSupply" : "2 carburateurs Ø 38 mm",
     "torque" : 9.2,
     "torqueRpm" : 5700.0,
@@ -5674,7 +5674,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4474,
+    "id" : 5951,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5682,7 +5682,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4474,
+    "id" : 5951,
     "dryWeight" : 172.0,
     "seatHeight" : 780.0,
     "type" : "Treillis tubulaire en aluminium",
@@ -5694,9 +5694,9 @@
     "movingWeight" : 185.0
   }
 }, {
-  "id" : 4475,
+  "id" : 5952,
   "idMotoplanete" : 29,
-  "name" : "1100 SB6-R ",
+  "name" : "1100 SB6-R",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/29/1100-SB6-R-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB6-R.jpg",
   "year" : "1997",
@@ -5706,23 +5706,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB6-R.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4475,
+    "id" : 5952,
     "rearShock" : "monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "190/50 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4475,
+    "id" : 5952,
     "fork" : "Fourche téléhydraulique Paioli Ø 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4475,
+    "id" : 5952,
     "gasSupply" : "4 carburateurs Ø 40 mm",
     "torque" : 13.0,
     "torqueRpm" : 5.0,
@@ -5741,7 +5741,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4475,
+    "id" : 5952,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5749,7 +5749,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4475,
+    "id" : 5952,
     "dryWeight" : 184.0,
     "seatHeight" : 800.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5761,9 +5761,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4476,
+  "id" : 5953,
   "idMotoplanete" : 19,
-  "name" : "500 V-DUE ",
+  "name" : "500 V-DUE",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/19/500-V-DUE-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/500Vdue.jpg",
   "year" : "1997",
@@ -5773,23 +5773,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/500Vdue.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4476,
+    "id" : 5953,
     "rearShock" : "monoamortisseur Öhlins, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4476,
+    "id" : 5953,
     "fork" : "Fourche télescopique inversée ? 46 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4476,
+    "id" : 5953,
     "gasSupply" : "Injection",
     "torque" : 9.0,
     "torqueRpm" : 8000.0,
@@ -5808,7 +5808,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4476,
+    "id" : 5953,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -5816,7 +5816,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4476,
+    "id" : 5953,
     "dryWeight" : 164.0,
     "seatHeight" : 820.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5828,9 +5828,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4477,
+  "id" : 5954,
   "idMotoplanete" : 3299,
-  "name" : "DB3 900 MANTRA ",
+  "name" : "DB3 900 MANTRA",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3299/DB3-900-MANTRA-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/mantra.jpg",
   "year" : "1997",
@@ -5840,23 +5840,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/mantra.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4477,
+    "id" : 5954,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4477,
+    "id" : 5954,
     "fork" : "Fourche téléhydraulique Païoli Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4477,
+    "id" : 5954,
     "gasSupply" : "2 carburateurs Ø 38 mm",
     "torque" : 9.2,
     "torqueRpm" : 5700.0,
@@ -5875,7 +5875,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4477,
+    "id" : 5954,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5883,7 +5883,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4477,
+    "id" : 5954,
     "dryWeight" : 172.0,
     "seatHeight" : 780.0,
     "type" : "Treillis tubulaire en aluminium",
@@ -5895,9 +5895,9 @@
     "movingWeight" : 185.0
   }
 }, {
-  "id" : 4478,
+  "id" : 5955,
   "idMotoplanete" : 3296,
-  "name" : "1100 SB6 ",
+  "name" : "1100 SB6",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3296/1100-SB6-1996/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB6.jpg",
   "year" : "1996",
@@ -5907,23 +5907,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB6.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4478,
+    "id" : 5955,
     "rearShock" : "monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4478,
+    "id" : 5955,
     "fork" : "Fourche téléhydraulique Paioli Ø 46 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4478,
+    "id" : 5955,
     "gasSupply" : "4 carburateurs Ø 40 mm",
     "torque" : 12.0,
     "torqueRpm" : 9000.0,
@@ -5942,7 +5942,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4478,
+    "id" : 5955,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -5950,7 +5950,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4478,
+    "id" : 5955,
     "dryWeight" : 190.0,
     "seatHeight" : null,
     "type" : "Périmétrique double poutre en aluminium",
@@ -5962,9 +5962,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4479,
+  "id" : 5956,
   "idMotoplanete" : 3298,
-  "name" : "DB3 900 MANTRA ",
+  "name" : "DB3 900 MANTRA",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3298/DB3-900-MANTRA-1996/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/mantra.jpg",
   "year" : "1996",
@@ -5974,23 +5974,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/mantra.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4479,
+    "id" : 5956,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4479,
+    "id" : 5956,
     "fork" : "Fourche téléhydraulique Païoli Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4479,
+    "id" : 5956,
     "gasSupply" : "2 carburateurs Ø 38 mm",
     "torque" : 9.2,
     "torqueRpm" : 5700.0,
@@ -6009,7 +6009,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4479,
+    "id" : 5956,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6017,7 +6017,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4479,
+    "id" : 5956,
     "dryWeight" : 172.0,
     "seatHeight" : 780.0,
     "type" : "Treillis tubulaire en aluminium",
@@ -6029,9 +6029,9 @@
     "movingWeight" : 185.0
   }
 }, {
-  "id" : 4480,
+  "id" : 5957,
   "idMotoplanete" : 3295,
-  "name" : "1100 SB6 ",
+  "name" : "1100 SB6",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3295/1100-SB6-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB6.jpg",
   "year" : "1995",
@@ -6041,23 +6041,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB6.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4480,
+    "id" : 5957,
     "rearShock" : "monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4480,
+    "id" : 5957,
     "fork" : "Fourche téléhydraulique Paioli Ø 46 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4480,
+    "id" : 5957,
     "gasSupply" : "4 carburateurs Ø 40 mm",
     "torque" : 12.0,
     "torqueRpm" : 9000.0,
@@ -6076,7 +6076,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4480,
+    "id" : 5957,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6084,7 +6084,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4480,
+    "id" : 5957,
     "dryWeight" : 190.0,
     "seatHeight" : null,
     "type" : "Périmétrique double poutre en aluminium",
@@ -6096,9 +6096,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4481,
+  "id" : 5958,
   "idMotoplanete" : 3293,
-  "name" : "750 SB7 ",
+  "name" : "750 SB7",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3293/750-SB7-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB-7.jpg",
   "year" : "1995",
@@ -6108,23 +6108,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB-7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4481,
+    "id" : 5958,
     "rearShock" : "monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4481,
+    "id" : 5958,
     "fork" : "Fourche télescopique inversée Paioli ∅ 46 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4481,
+    "id" : 5958,
     "gasSupply" : "Injection Ø nc",
     "torque" : 8.0,
     "torqueRpm" : 9000.0,
@@ -6143,7 +6143,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4481,
+    "id" : 5958,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6151,7 +6151,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4481,
+    "id" : 5958,
     "dryWeight" : 186.0,
     "seatHeight" : 755.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -6163,9 +6163,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4482,
+  "id" : 5959,
   "idMotoplanete" : 12,
-  "name" : "DB3 900 MANTRA ",
+  "name" : "DB3 900 MANTRA",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/12/DB3-900-MANTRA-1995/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/mantra.jpg",
   "year" : "1995",
@@ -6175,23 +6175,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/mantra.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4482,
+    "id" : 5959,
     "rearShock" : "monoamortisseur, déb : 130 mm",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4482,
+    "id" : 5959,
     "fork" : "Fourche téléhydraulique Païoli Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4482,
+    "id" : 5959,
     "gasSupply" : "2 carburateurs Ø 38 mm",
     "torque" : 9.2,
     "torqueRpm" : 5700.0,
@@ -6210,7 +6210,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4482,
+    "id" : 5959,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6218,7 +6218,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4482,
+    "id" : 5959,
     "dryWeight" : 172.0,
     "seatHeight" : 780.0,
     "type" : "Treillis tubulaire en aluminium",
@@ -6230,9 +6230,9 @@
     "movingWeight" : 185.0
   }
 }, {
-  "id" : 4483,
+  "id" : 5960,
   "idMotoplanete" : 28,
-  "name" : "1100 SB6 ",
+  "name" : "1100 SB6",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/28/1100-SB6-1994/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB6.jpg",
   "year" : "1994",
@@ -6242,23 +6242,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB6.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4483,
+    "id" : 5960,
     "rearShock" : "monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4483,
+    "id" : 5960,
     "fork" : "Fourche téléhydraulique Paioli Ø 46 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4483,
+    "id" : 5960,
     "gasSupply" : "4 carburateurs Ø 40 mm",
     "torque" : 12.0,
     "torqueRpm" : 9000.0,
@@ -6277,7 +6277,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4483,
+    "id" : 5960,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6285,7 +6285,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4483,
+    "id" : 5960,
     "dryWeight" : 190.0,
     "seatHeight" : null,
     "type" : "Périmétrique double poutre en aluminium",
@@ -6297,9 +6297,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4484,
+  "id" : 5961,
   "idMotoplanete" : 30,
-  "name" : "750 SB7 ",
+  "name" : "750 SB7",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/30/750-SB7-1994/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/SB-7.jpg",
   "year" : "1994",
@@ -6309,23 +6309,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/SB-7.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4484,
+    "id" : 5961,
     "rearShock" : "monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 230 mm, étrier 2 pistons",
     "rearWheel" : "180/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4484,
+    "id" : 5961,
     "fork" : "Fourche télescopique inversée Paioli ∅ 46 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4484,
+    "id" : 5961,
     "gasSupply" : "Injection Ø nc",
     "torque" : 8.0,
     "torqueRpm" : 9000.0,
@@ -6344,7 +6344,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4484,
+    "id" : 5961,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6352,7 +6352,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4484,
+    "id" : 5961,
     "dryWeight" : 186.0,
     "seatHeight" : 755.0,
     "type" : "Périmétrique double poutre en aluminium",
@@ -6364,9 +6364,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4485,
+  "id" : 5962,
   "idMotoplanete" : 32,
-  "name" : "TESI 1D 851 ",
+  "name" : "TESI 1D 851",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/32/TESI-1D-851-1992/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-1D.jpg",
   "year" : "1992",
@@ -6376,23 +6376,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-1D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4485,
+    "id" : 5962,
     "rearShock" : "monoamortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "170/60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4485,
+    "id" : 5962,
     "fork" : null,
     "frontShock" : "bras oscillant, moyeu directeur, momoamortisseur",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4485,
+    "id" : 5962,
     "gasSupply" : "Double injecteurs",
     "torque" : 8.0,
     "torqueRpm" : 8500.0,
@@ -6411,7 +6411,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4485,
+    "id" : 5962,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -6419,7 +6419,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4485,
+    "id" : 5962,
     "dryWeight" : 188.0,
     "seatHeight" : 785.0,
     "type" : "type Omega en aluminium",
@@ -6431,9 +6431,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4486,
+  "id" : 5963,
   "idMotoplanete" : 31,
-  "name" : "TESI 1D 904 ",
+  "name" : "TESI 1D 904",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/31/TESI-1D-904-1992/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/Tesi-1D.jpg",
   "year" : "1992",
@@ -6443,23 +6443,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/Tesi-1D.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4486,
+    "id" : 5963,
     "rearShock" : "monoamortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "170/60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4486,
+    "id" : 5963,
     "fork" : null,
     "frontShock" : "bras oscillant, moyeu directeur, momoamortisseur",
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm avec étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4486,
+    "id" : 5963,
     "gasSupply" : "Double injecteurs",
     "torque" : 9.0,
     "torqueRpm" : 7000.0,
@@ -6478,7 +6478,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4486,
+    "id" : 5963,
     "gearboxSpeeds" : "à 6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "par chaîne",
@@ -6486,7 +6486,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4486,
+    "id" : 5963,
     "dryWeight" : 188.0,
     "seatHeight" : 785.0,
     "type" : "type Omega en aluminium",
@@ -6498,9 +6498,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4487,
+  "id" : 5964,
   "idMotoplanete" : 3297,
-  "name" : "1100 SB4 ",
+  "name" : "1100 SB4",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/3297/1100-SB4-1984/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/sb-4.jpg",
   "year" : "1984",
@@ -6510,23 +6510,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/sb-4.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4487,
+    "id" : 5964,
     "rearShock" : "monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque ? 280 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4487,
+    "id" : 5964,
     "fork" : "Fourche téléhydraulique Ø 40 mm, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 80 - 16\"",
     "frontBrake" : "2 disques ? 280 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4487,
+    "id" : 5964,
     "gasSupply" : "2 carburateurs Ø 34 mm",
     "torque" : 8.0,
     "torqueRpm" : 6400.0,
@@ -6545,7 +6545,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4487,
+    "id" : 5964,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6553,7 +6553,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4487,
+    "id" : 5964,
     "dryWeight" : 184.0,
     "seatHeight" : null,
     "type" : "Treillis multibulaire",
@@ -6565,9 +6565,9 @@
     "movingWeight" : 211.0
   }
 }, {
-  "id" : 4488,
+  "id" : 5965,
   "idMotoplanete" : 27,
-  "name" : "1100 SB4 ",
+  "name" : "1100 SB4",
   "urlMotoplanete" : "http://www.motoplanete.com/bimota/27/1100-SB4-1983/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/bimota/sb-4.jpg",
   "year" : "1983",
@@ -6577,23 +6577,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/bimota/sb-4.jpg" ],
-  "idManufacturer" : 19,
+  "idManufacturer" : 20,
   "rearAxle" : {
-    "id" : 4488,
+    "id" : 5965,
     "rearShock" : "monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque ? 280 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 60 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4488,
+    "id" : 5965,
     "fork" : "Fourche téléhydraulique Ø 40 mm, déb : 140 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 80 - 16\"",
     "frontBrake" : "2 disques ? 280 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4488,
+    "id" : 5965,
     "gasSupply" : "2 carburateurs Ø 34 mm",
     "torque" : 8.0,
     "torqueRpm" : 6400.0,
@@ -6612,7 +6612,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4488,
+    "id" : 5965,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -6620,7 +6620,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4488,
+    "id" : 5965,
     "dryWeight" : 184.0,
     "seatHeight" : null,
     "type" : "Treillis multibulaire",

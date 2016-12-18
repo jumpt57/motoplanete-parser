@@ -1,7 +1,7 @@
 [ {
-  "id" : 4696,
+  "id" : 6171,
   "idMotoplanete" : 3730,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3730/GT-125-R-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2011.jpg",
   "year" : "2011",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 4290,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2011.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4696,
+    "id" : 6171,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4696,
+    "id" : 6171,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4696,
+    "id" : 6171,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4696,
+    "id" : 6171,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4696,
+    "id" : 6171,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4697,
+  "id" : 6172,
   "idMotoplanete" : 3964,
-  "name" : "GT 125 ",
+  "name" : "GT 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3964/GT-125-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2010.jpg",
   "year" : "2011",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 2990,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2010.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4697,
+    "id" : 6172,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4697,
+    "id" : 6172,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4697,
+    "id" : 6172,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4697,
+    "id" : 6172,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4697,
+    "id" : 6172,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4698,
+  "id" : 6173,
   "idMotoplanete" : 2866,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2866/GV-650-AQUILA-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2010.jpg",
   "year" : "2010",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2010.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4698,
+    "id" : 6173,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4698,
+    "id" : 6173,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4698,
+    "id" : 6173,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.7,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4698,
+    "id" : 6173,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4698,
+    "id" : 6173,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4699,
+  "id" : 6174,
   "idMotoplanete" : 2496,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2496/GT-125-R-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2010.jpg",
   "year" : "2010",
@@ -210,25 +210,25 @@
   "zeroToHundred" : null,
   "price" : 4590,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2010.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4699,
+    "id" : 6174,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4699,
+    "id" : 6174,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4699,
+    "id" : 6174,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4699,
+    "id" : 6174,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4699,
+    "id" : 6174,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -267,9 +267,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4700,
+  "id" : 6175,
   "idMotoplanete" : 3963,
-  "name" : "GT 125 ",
+  "name" : "GT 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3963/GT-125-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2010.jpg",
   "year" : "2010",
@@ -277,25 +277,25 @@
   "zeroToHundred" : null,
   "price" : 3990,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2010.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4700,
+    "id" : 6175,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4700,
+    "id" : 6175,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4700,
+    "id" : 6175,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4700,
+    "id" : 6175,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4700,
+    "id" : 6175,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4701,
+  "id" : 6176,
   "idMotoplanete" : 2865,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2865/GV-650-AQUILA-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2009.jpg",
   "year" : "2009",
@@ -346,23 +346,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2009.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4701,
+    "id" : 6176,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4701,
+    "id" : 6176,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4701,
+    "id" : 6176,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.7,
     "torqueRpm" : 7000.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4701,
+    "id" : 6176,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4701,
+    "id" : 6176,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4702,
+  "id" : 6177,
   "idMotoplanete" : 2495,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2495/GT-125-R-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2009.jpg",
   "year" : "2009",
@@ -411,25 +411,25 @@
   "zeroToHundred" : null,
   "price" : 4725,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2009.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4702,
+    "id" : 6177,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4702,
+    "id" : 6177,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4702,
+    "id" : 6177,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4702,
+    "id" : 6177,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4702,
+    "id" : 6177,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -468,9 +468,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4703,
+  "id" : 6178,
   "idMotoplanete" : 3962,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3962/COMET-125-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2009",
@@ -478,25 +478,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4703,
+    "id" : 6178,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4703,
+    "id" : 6178,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4703,
+    "id" : 6178,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4703,
+    "id" : 6178,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4703,
+    "id" : 6178,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4704,
+  "id" : 6179,
   "idMotoplanete" : 2864,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2864/GV-650-AQUILA-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2008.jpg",
   "year" : "2008",
@@ -547,23 +547,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2008.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4704,
+    "id" : 6179,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4704,
+    "id" : 6179,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4704,
+    "id" : 6179,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.7,
     "torqueRpm" : 7000.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4704,
+    "id" : 6179,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4704,
+    "id" : 6179,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4705,
+  "id" : 6180,
   "idMotoplanete" : 2494,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2494/GT-125-R-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2008.jpg",
   "year" : "2008",
@@ -612,25 +612,25 @@
   "zeroToHundred" : null,
   "price" : 4725,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2008.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4705,
+    "id" : 6180,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4705,
+    "id" : 6180,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4705,
+    "id" : 6180,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4705,
+    "id" : 6180,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4705,
+    "id" : 6180,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -669,9 +669,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4706,
+  "id" : 6181,
   "idMotoplanete" : 3961,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3961/COMET-125-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2008",
@@ -679,25 +679,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4706,
+    "id" : 6181,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4706,
+    "id" : 6181,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4706,
+    "id" : 6181,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4706,
+    "id" : 6181,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4706,
+    "id" : 6181,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4707,
+  "id" : 6182,
   "idMotoplanete" : 2863,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2863/GV-650-AQUILA-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2007.jpg",
   "year" : "2007",
@@ -748,23 +748,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2007.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4707,
+    "id" : 6182,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4707,
+    "id" : 6182,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4707,
+    "id" : 6182,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.7,
     "torqueRpm" : 7000.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4707,
+    "id" : 6182,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4707,
+    "id" : 6182,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4708,
+  "id" : 6183,
   "idMotoplanete" : 2493,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2493/GT-125-R-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2007.jpg",
   "year" : "2007",
@@ -813,25 +813,25 @@
   "zeroToHundred" : null,
   "price" : 4725,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2007.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4708,
+    "id" : 6183,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4708,
+    "id" : 6183,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4708,
+    "id" : 6183,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4708,
+    "id" : 6183,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4708,
+    "id" : 6183,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -870,9 +870,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4709,
+  "id" : 6184,
   "idMotoplanete" : 3960,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3960/COMET-125-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2007",
@@ -880,25 +880,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4709,
+    "id" : 6184,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4709,
+    "id" : 6184,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4709,
+    "id" : 6184,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4709,
+    "id" : 6184,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4709,
+    "id" : 6184,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4710,
+  "id" : 6185,
   "idMotoplanete" : 2819,
-  "name" : "COMET 650 ",
+  "name" : "COMET 650",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2819/COMET-650-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-comet-650-2006.jpg",
   "year" : "2006",
@@ -949,23 +949,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-comet-650-2006.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4710,
+    "id" : 6185,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 260 mm, étrier 2 pistons",
     "rearWheel" : "160 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4710,
+    "id" : 6185,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4710,
+    "id" : 6185,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 6.9,
     "torqueRpm" : 7500.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4710,
+    "id" : 6185,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4710,
+    "id" : 6185,
     "dryWeight" : 180.0,
     "seatHeight" : 780.0,
     "type" : "treillis tubulaire en aluminium",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4711,
+  "id" : 6186,
   "idMotoplanete" : 2862,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2862/GV-650-AQUILA-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2006.jpg",
   "year" : "2006",
@@ -1016,23 +1016,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2006.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4711,
+    "id" : 6186,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4711,
+    "id" : 6186,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4711,
+    "id" : 6186,
     "gasSupply" : "carburateur Ø nc",
     "torque" : 6.2,
     "torqueRpm" : 7000.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4711,
+    "id" : 6186,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4711,
+    "id" : 6186,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -1071,9 +1071,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4712,
+  "id" : 6187,
   "idMotoplanete" : 2492,
-  "name" : "GT 125 R ",
+  "name" : "GT 125 R",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2492/GT-125-R-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2006.jpg",
   "year" : "2006",
@@ -1081,25 +1081,25 @@
   "zeroToHundred" : null,
   "price" : 4725,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-R-2006.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4712,
+    "id" : 6187,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier à 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4712,
+    "id" : 6187,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers à 2 pistons"
   },
   "engine" : {
-    "id" : 4712,
+    "id" : 6187,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4712,
+    "id" : 6187,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4712,
+    "id" : 6187,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "Double berceau en acier",
@@ -1138,9 +1138,9 @@
     "movingWeight" : 165.0
   }
 }, {
-  "id" : 4713,
+  "id" : 6188,
   "idMotoplanete" : 3959,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3959/COMET-125-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2006",
@@ -1148,25 +1148,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4713,
+    "id" : 6188,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4713,
+    "id" : 6188,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4713,
+    "id" : 6188,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4713,
+    "id" : 6188,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4713,
+    "id" : 6188,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4714,
+  "id" : 6189,
   "idMotoplanete" : 3971,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3971/XRX-125-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2006",
@@ -1215,25 +1215,25 @@
   "zeroToHundred" : null,
   "price" : 2891,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4714,
+    "id" : 6189,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4714,
+    "id" : 6189,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4714,
+    "id" : 6189,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4714,
+    "id" : 6189,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4714,
+    "id" : 6189,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -1272,9 +1272,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4715,
+  "id" : 6190,
   "idMotoplanete" : 2818,
-  "name" : "COMET 650 ",
+  "name" : "COMET 650",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2818/COMET-650-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-comet-650-2005.jpg",
   "year" : "2005",
@@ -1284,23 +1284,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-comet-650-2005.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4715,
+    "id" : 6190,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 260 mm, étrier 2 pistons",
     "rearWheel" : "160 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4715,
+    "id" : 6190,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4715,
+    "id" : 6190,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 6.9,
     "torqueRpm" : 7500.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4715,
+    "id" : 6190,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4715,
+    "id" : 6190,
     "dryWeight" : 180.0,
     "seatHeight" : 780.0,
     "type" : "treillis tubulaire en aluminium",
@@ -1339,9 +1339,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4716,
+  "id" : 6191,
   "idMotoplanete" : 2867,
-  "name" : "GV 650 AQUILA ",
+  "name" : "GV 650 AQUILA",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2867/GV-650-AQUILA-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2005.jpg",
   "year" : "2005",
@@ -1351,23 +1351,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GV-650-aquila-2005.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4716,
+    "id" : 6191,
     "rearShock" : "Monoamortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 270 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4716,
+    "id" : 6191,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4716,
+    "id" : 6191,
     "gasSupply" : "carburateur Ø nc",
     "torque" : 6.2,
     "torqueRpm" : 7000.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4716,
+    "id" : 6191,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4716,
+    "id" : 6191,
     "dryWeight" : 220.0,
     "seatHeight" : 690.0,
     "type" : "treillis tubulaire en aluminium",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4717,
+  "id" : 6192,
   "idMotoplanete" : 3958,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3958/COMET-125-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2005",
@@ -1416,25 +1416,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4717,
+    "id" : 6192,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4717,
+    "id" : 6192,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4717,
+    "id" : 6192,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4717,
+    "id" : 6192,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4717,
+    "id" : 6192,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -1473,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4718,
+  "id" : 6193,
   "idMotoplanete" : 3970,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3970/XRX-125-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2005",
@@ -1483,25 +1483,25 @@
   "zeroToHundred" : null,
   "price" : 3120,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4718,
+    "id" : 6193,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4718,
+    "id" : 6193,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4718,
+    "id" : 6193,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4718,
+    "id" : 6193,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4718,
+    "id" : 6193,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4719,
+  "id" : 6194,
   "idMotoplanete" : 2817,
-  "name" : "COMET 650 ",
+  "name" : "COMET 650",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/2817/COMET-650-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-comet-650-2004.jpg",
   "year" : "2004",
@@ -1552,23 +1552,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-comet-650-2004.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4719,
+    "id" : 6194,
     "rearShock" : "Mono-amortisseur, déb : 110 mm",
     "rearBrake" : "1 disque Ø 260 mm, étrier 2 pistons",
     "rearWheel" : "160 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4719,
+    "id" : 6194,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 60 - 17\"",
     "frontBrake" : "2 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4719,
+    "id" : 6194,
     "gasSupply" : "2 carburateurs Ø 39 mm",
     "torque" : 6.9,
     "torqueRpm" : 7500.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4719,
+    "id" : 6194,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4719,
+    "id" : 6194,
     "dryWeight" : 180.0,
     "seatHeight" : 780.0,
     "type" : "treillis tubulaire en aluminium",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4720,
+  "id" : 6195,
   "idMotoplanete" : 3957,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3957/COMET-125-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2004",
@@ -1617,25 +1617,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4720,
+    "id" : 6195,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4720,
+    "id" : 6195,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4720,
+    "id" : 6195,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4720,
+    "id" : 6195,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4720,
+    "id" : 6195,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4721,
+  "id" : 6196,
   "idMotoplanete" : 3969,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3969/XRX-125-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2004",
@@ -1684,25 +1684,25 @@
   "zeroToHundred" : null,
   "price" : 3120,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4721,
+    "id" : 6196,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4721,
+    "id" : 6196,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4721,
+    "id" : 6196,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4721,
+    "id" : 6196,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4721,
+    "id" : 6196,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -1741,9 +1741,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4722,
+  "id" : 6197,
   "idMotoplanete" : 4010,
-  "name" : "125 GF ",
+  "name" : "125 GF",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/4010/125-GF-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg",
   "year" : "2003",
@@ -1751,25 +1751,25 @@
   "zeroToHundred" : null,
   "price" : 2529,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4722,
+    "id" : 6197,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4722,
+    "id" : 6197,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 130 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4722,
+    "id" : 6197,
     "gasSupply" : null,
     "torque" : 1.1,
     "torqueRpm" : 7500.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4722,
+    "id" : 6197,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4722,
+    "id" : 6197,
     "dryWeight" : 126.0,
     "seatHeight" : 788.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1808,9 +1808,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4723,
+  "id" : 6198,
   "idMotoplanete" : 3956,
-  "name" : "COMET 125 ",
+  "name" : "COMET 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3956/COMET-125-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg",
   "year" : "2003",
@@ -1818,25 +1818,25 @@
   "zeroToHundred" : null,
   "price" : 3490,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-GT-125-comet-2003.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4723,
+    "id" : 6198,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 2 pistons",
     "rearWheel" : "150 / 70 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4723,
+    "id" : 6198,
     "fork" : "Fourche téléhydraulique Ø 34 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 300 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4723,
+    "id" : 6198,
     "gasSupply" : "2 carburateurs Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 10000.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4723,
+    "id" : 6198,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4723,
+    "id" : 6198,
     "dryWeight" : 150.0,
     "seatHeight" : 795.0,
     "type" : "double longeron en acier",
@@ -1875,9 +1875,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4724,
+  "id" : 6199,
   "idMotoplanete" : 3968,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3968/XRX-125-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2003",
@@ -1885,25 +1885,25 @@
   "zeroToHundred" : null,
   "price" : 3120,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4724,
+    "id" : 6199,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4724,
+    "id" : 6199,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4724,
+    "id" : 6199,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4724,
+    "id" : 6199,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4724,
+    "id" : 6199,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -1942,9 +1942,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4725,
+  "id" : 6200,
   "idMotoplanete" : 4009,
-  "name" : "125 GF ",
+  "name" : "125 GF",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/4009/125-GF-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg",
   "year" : "2002",
@@ -1952,25 +1952,25 @@
   "zeroToHundred" : null,
   "price" : 2529,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4725,
+    "id" : 6200,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4725,
+    "id" : 6200,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 130 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4725,
+    "id" : 6200,
     "gasSupply" : null,
     "torque" : 1.1,
     "torqueRpm" : 7500.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4725,
+    "id" : 6200,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4725,
+    "id" : 6200,
     "dryWeight" : 126.0,
     "seatHeight" : 788.0,
     "type" : "Double berceau tubulaire en acier",
@@ -2009,9 +2009,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4726,
+  "id" : 6201,
   "idMotoplanete" : 3967,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3967/XRX-125-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2002",
@@ -2019,25 +2019,25 @@
   "zeroToHundred" : null,
   "price" : 3120,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4726,
+    "id" : 6201,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4726,
+    "id" : 6201,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4726,
+    "id" : 6201,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4726,
+    "id" : 6201,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4726,
+    "id" : 6201,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -2076,9 +2076,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4727,
+  "id" : 6202,
   "idMotoplanete" : 4008,
-  "name" : "125 GF ",
+  "name" : "125 GF",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/4008/125-GF-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg",
   "year" : "2001",
@@ -2086,25 +2086,25 @@
   "zeroToHundred" : null,
   "price" : 2529,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4727,
+    "id" : 6202,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4727,
+    "id" : 6202,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 130 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4727,
+    "id" : 6202,
     "gasSupply" : null,
     "torque" : 1.1,
     "torqueRpm" : 7500.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4727,
+    "id" : 6202,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4727,
+    "id" : 6202,
     "dryWeight" : 126.0,
     "seatHeight" : 788.0,
     "type" : "Double berceau tubulaire en acier",
@@ -2143,9 +2143,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4728,
+  "id" : 6203,
   "idMotoplanete" : 3966,
-  "name" : "XRX 125 ",
+  "name" : "XRX 125",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3966/XRX-125-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
   "year" : "2001",
@@ -2153,25 +2153,25 @@
   "zeroToHundred" : null,
   "price" : 3120,
   "priceABS" : null,
-  "categoryId" : 10,
+  "categoryId" : 27,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4728,
+    "id" : 6203,
     "rearShock" : "Mono-amortisseur, déb : 200 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4728,
+    "id" : 6203,
     "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4728,
+    "id" : 6203,
     "gasSupply" : null,
     "torque" : 1.0,
     "torqueRpm" : 7500.0,
@@ -2190,7 +2190,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4728,
+    "id" : 6203,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2198,7 +2198,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4728,
+    "id" : 6203,
     "dryWeight" : 120.0,
     "seatHeight" : 850.0,
     "type" : "Simple berceau en acier",
@@ -2210,143 +2210,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4729,
-  "idMotoplanete" : 4007,
-  "name" : "125 GF ",
-  "urlMotoplanete" : "http://www.motoplanete.com/hyosung/4007/125-GF-2000/contact.html",
-  "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg",
-  "year" : "2000",
-  "maxSpeed" : 105,
-  "zeroToHundred" : null,
-  "price" : 2529,
-  "priceABS" : null,
-  "categoryId" : 4,
-  "imagesUrl" : [ "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg" ],
-  "idManufacturer" : 40,
-  "rearAxle" : {
-    "id" : 4729,
-    "rearShock" : "Mono-amortisseur",
-    "rearBrake" : "1 tambour Ø 130 mm",
-    "rearWheel" : null,
-    "type" : null
-  },
-  "frontAxle" : {
-    "id" : 4729,
-    "fork" : "Fourche téléhydraulique Ø nc",
-    "frontShock" : null,
-    "frontWheel" : null,
-    "frontBrake" : "1 disque Ø 130 mm, étrier 1 piston"
-  },
-  "engine" : {
-    "id" : 4729,
-    "gasSupply" : null,
-    "torque" : 1.1,
-    "torqueRpm" : 7500.0,
-    "act" : null,
-    "power" : 14.0,
-    "powerRpm" : 8600.0,
-    "cooling" : "Refroidissement par air",
-    "displacement" : "124 cc (57 x 48 mm)",
-    "type" : "Monocylindre, 4 temps",
-    "powerToWeightRatio" : 9.0,
-    "valve" : "4 soupapes",
-    "valveCommand" : null,
-    "engineIntake" : null,
-    "bridable" : null,
-    "camshaft" : null,
-    "batteryPack" : null
-  },
-  "transmission" : {
-    "id" : 4729,
-    "gearboxSpeeds" : "5 rapports",
-    "geerboxType" : "manuelle",
-    "secondaryTransmission" : "chaîne",
-    "type" : null,
-    "reverse" : null
-  },
-  "frame" : {
-    "id" : 4729,
-    "dryWeight" : 126.0,
-    "seatHeight" : 788.0,
-    "type" : "Double berceau tubulaire en acier",
-    "tankCapacity" : 13.7,
-    "lenght" : 1965,
-    "wheelbase" : 1292,
-    "width" : 756,
-    "height" : 1095.0,
-    "movingWeight" : null
-  }
-}, {
-  "id" : 4730,
-  "idMotoplanete" : 3965,
-  "name" : "XRX 125 ",
-  "urlMotoplanete" : "http://www.motoplanete.com/hyosung/3965/XRX-125-2000/contact.html",
-  "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg",
-  "year" : "2000",
-  "maxSpeed" : 100,
-  "zeroToHundred" : null,
-  "price" : 3120,
-  "priceABS" : null,
-  "categoryId" : 10,
-  "imagesUrl" : [ "http://www.motoplanete.com/hyosung/hyosung-XRX-125.jpg" ],
-  "idManufacturer" : 40,
-  "rearAxle" : {
-    "id" : 4730,
-    "rearShock" : "Mono-amortisseur, déb : 200 mm",
-    "rearBrake" : "1 tambour Ø 130 mm",
-    "rearWheel" : null,
-    "type" : null
-  },
-  "frontAxle" : {
-    "id" : 4730,
-    "fork" : "Fourche téléhydraulique inversée Ø 31 mm, déb : 250 mm",
-    "frontShock" : null,
-    "frontWheel" : "90 / 90 - 21\"",
-    "frontBrake" : "1 disque Ø 240 mm, étriers 2 pistons"
-  },
-  "engine" : {
-    "id" : 4730,
-    "gasSupply" : null,
-    "torque" : 1.0,
-    "torqueRpm" : 7500.0,
-    "act" : null,
-    "power" : 14.0,
-    "powerRpm" : 7500.0,
-    "cooling" : "Refroidissement par air et huile",
-    "displacement" : "124.5 cc (57 x 48.8 mm)",
-    "type" : "Monocylindre, 4 temps",
-    "powerToWeightRatio" : 8.57,
-    "valve" : "4 soupapes par cylindre",
-    "valveCommand" : null,
-    "engineIntake" : null,
-    "bridable" : null,
-    "camshaft" : null,
-    "batteryPack" : null
-  },
-  "transmission" : {
-    "id" : 4730,
-    "gearboxSpeeds" : "5 rapports",
-    "geerboxType" : "manuelle",
-    "secondaryTransmission" : "chaîne",
-    "type" : null,
-    "reverse" : null
-  },
-  "frame" : {
-    "id" : 4730,
-    "dryWeight" : 120.0,
-    "seatHeight" : 850.0,
-    "type" : "Simple berceau en acier",
-    "tankCapacity" : 8.0,
-    "lenght" : null,
-    "wheelbase" : 1425,
-    "width" : null,
-    "height" : null,
-    "movingWeight" : null
-  }
-}, {
-  "id" : 4731,
+  "id" : 6204,
   "idMotoplanete" : 4006,
-  "name" : "125 GF ",
+  "name" : "125 GF",
   "urlMotoplanete" : "http://www.motoplanete.com/hyosung/4006/125-GF-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg",
   "year" : "1999",
@@ -2354,25 +2220,25 @@
   "zeroToHundred" : null,
   "price" : 2529,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/hyosung/Hyosung-GF-125.jpg" ],
-  "idManufacturer" : 40,
+  "idManufacturer" : 41,
   "rearAxle" : {
-    "id" : 4731,
+    "id" : 6204,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4731,
+    "id" : 6204,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 130 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4731,
+    "id" : 6204,
     "gasSupply" : null,
     "torque" : 1.1,
     "torqueRpm" : 7500.0,
@@ -2391,7 +2257,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4731,
+    "id" : 6204,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2399,7 +2265,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4731,
+    "id" : 6204,
     "dryWeight" : 126.0,
     "seatHeight" : 788.0,
     "type" : "Double berceau tubulaire en acier",

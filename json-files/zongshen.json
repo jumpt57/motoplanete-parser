@@ -1,7 +1,7 @@
 [ {
-  "id" : 5009,
+  "id" : 6499,
   "idMotoplanete" : 3743,
-  "name" : "125 ZS-R ",
+  "name" : "125 ZS-R",
   "urlMotoplanete" : "http://www.motoplanete.com/zongshen/3743/125-ZS-R-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zongshen/125-ZS-R.jpg",
   "year" : "2007",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 2450,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/zongshen/125-ZS-R.jpg" ],
-  "idManufacturer" : 73,
+  "idManufacturer" : 75,
   "rearAxle" : {
-    "id" : 5009,
+    "id" : 6499,
     "rearShock" : "2 combinés latéraux",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5009,
+    "id" : 6499,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 250 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 5009,
+    "id" : 6499,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 5009,
+    "id" : 6499,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5009,
+    "id" : 6499,
     "dryWeight" : 130.0,
     "seatHeight" : null,
     "type" : "tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 5010,
+  "id" : 6500,
   "idMotoplanete" : 3742,
-  "name" : "125 ZS-R ",
+  "name" : "125 ZS-R",
   "urlMotoplanete" : "http://www.motoplanete.com/zongshen/3742/125-ZS-R-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zongshen/125-ZS-R.jpg",
   "year" : "2006",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 2450,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/zongshen/125-ZS-R.jpg" ],
-  "idManufacturer" : 73,
+  "idManufacturer" : 75,
   "rearAxle" : {
-    "id" : 5010,
+    "id" : 6500,
     "rearShock" : "2 combinés latéraux",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5010,
+    "id" : 6500,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 250 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 5010,
+    "id" : 6500,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 5010,
+    "id" : 6500,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5010,
+    "id" : 6500,
     "dryWeight" : 130.0,
     "seatHeight" : null,
     "type" : "tubulaire en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 5011,
+  "id" : 6501,
   "idMotoplanete" : 3741,
-  "name" : "125 ZS-R ",
+  "name" : "125 ZS-R",
   "urlMotoplanete" : "http://www.motoplanete.com/zongshen/3741/125-ZS-R-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zongshen/125-ZS-R.jpg",
   "year" : "2005",
@@ -143,25 +143,25 @@
   "zeroToHundred" : null,
   "price" : 2450,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/zongshen/125-ZS-R.jpg" ],
-  "idManufacturer" : 73,
+  "idManufacturer" : 75,
   "rearAxle" : {
-    "id" : 5011,
+    "id" : 6501,
     "rearShock" : "2 combinés latéraux",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5011,
+    "id" : 6501,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 250 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 5011,
+    "id" : 6501,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 5011,
+    "id" : 6501,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5011,
+    "id" : 6501,
     "dryWeight" : 130.0,
     "seatHeight" : null,
     "type" : "tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 5012,
+  "id" : 6502,
   "idMotoplanete" : 3740,
-  "name" : "125 ZS-R ",
+  "name" : "125 ZS-R",
   "urlMotoplanete" : "http://www.motoplanete.com/zongshen/3740/125-ZS-R-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/zongshen/125-ZS-R.jpg",
   "year" : "2004",
@@ -210,25 +210,25 @@
   "zeroToHundred" : null,
   "price" : 2450,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/zongshen/125-ZS-R.jpg" ],
-  "idManufacturer" : 73,
+  "idManufacturer" : 75,
   "rearAxle" : {
-    "id" : 5012,
+    "id" : 6502,
     "rearShock" : "2 combinés latéraux",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 5012,
+    "id" : 6502,
     "fork" : "Fourche téléhydraulique Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø 250 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 5012,
+    "id" : 6502,
     "gasSupply" : "Carburateur Ø 26 mm",
     "torque" : 1.0,
     "torqueRpm" : 7000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 5012,
+    "id" : 6502,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 5012,
+    "id" : 6502,
     "dryWeight" : 130.0,
     "seatHeight" : null,
     "type" : "tubulaire en acier",

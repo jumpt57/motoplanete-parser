@@ -1,7 +1,7 @@
 [ {
-  "id" : 4685,
+  "id" : 6160,
   "idMotoplanete" : 2681,
-  "name" : "W3 ",
+  "name" : "W3",
   "urlMotoplanete" : "http://www.motoplanete.com/feuling/2681/W3-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/feuling/feuling-W3-2000.jpg",
   "year" : "2000",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/feuling/feuling-W3-2000.jpg" ],
-  "idManufacturer" : 34,
+  "idManufacturer" : 35,
   "rearAxle" : {
-    "id" : 4685,
+    "id" : 6160,
     "rearShock" : "2 combinés latéraux",
     "rearBrake" : "1 disque Ø 292 mm, étrier 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4685,
+    "id" : 6160,
     "fork" : "Fourche téléhydraulique inversée Ø nc",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø 292 mm , étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4685,
+    "id" : 6160,
     "gasSupply" : "3 carburateurs Ø 40mm",
     "torque" : 25.5,
     "torqueRpm" : 3000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4685,
+    "id" : 6160,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4685,
+    "id" : 6160,
     "dryWeight" : 268.0,
     "seatHeight" : null,
     "type" : "Double berceau en acier",

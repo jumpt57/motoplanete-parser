@@ -1,7 +1,7 @@
 [ {
-  "id" : 2246,
+  "id" : 2507,
   "idMotoplanete" : 5990,
-  "name" : "450 FS ",
+  "name" : "450 FS",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5990/450-FS-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-450-FS-2016.jpg",
   "year" : "2016",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 10150,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-450-FS-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2246,
+    "id" : 2507,
     "rearShock" : "Mono-amortisseur WP, déb : 266 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "165 / 65 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2246,
+    "id" : 2507,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 280 mm",
     "frontShock" : null,
     "frontWheel" : "125 / 80 - 17\"",
     "frontBrake" : "1 disque Ø 310 mm, étrier Brembo 4 pistons fixation radiale"
   },
   "engine" : {
-    "id" : 2246,
+    "id" : 2507,
     "gasSupply" : "Injection Ø 44 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2246,
+    "id" : 2507,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2246,
+    "id" : 2507,
     "dryWeight" : 105.3,
     "seatHeight" : 890.0,
     "type" : "Simple berceau tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2247,
+  "id" : 2508,
   "idMotoplanete" : 5989,
-  "name" : "701 Supermoto ",
+  "name" : "701 Supermoto",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5989/701-Supermoto-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-701-Supermoto-2016.jpg",
   "year" : "2016",
@@ -76,25 +76,25 @@
   "zeroToHundred" : null,
   "price" : 9650,
   "priceABS" : null,
-  "categoryId" : 6,
+  "categoryId" : 31,
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-701-Supermoto-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2247,
+    "id" : 2508,
     "rearShock" : "Mono-amortisseur WP, déb : 250 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
     "rearWheel" : "160 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2247,
+    "id" : 2508,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 215 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 320 mm, étrier radial 4 pistons"
   },
   "engine" : {
-    "id" : 2247,
+    "id" : 2508,
     "gasSupply" : "Injection Ø 46 mm",
     "torque" : 6.9,
     "torqueRpm" : 6500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2247,
+    "id" : 2508,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2247,
+    "id" : 2508,
     "dryWeight" : 145.0,
     "seatHeight" : 890.0,
     "type" : "cadre treillis en tubes d'acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2248,
+  "id" : 2509,
   "idMotoplanete" : 6018,
-  "name" : "TC 125 ",
+  "name" : "TC 125",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6018/TC-125-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TC-125-2016.jpg",
   "year" : "2016",
@@ -147,21 +147,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-TC-125-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2248,
+    "id" : 2509,
     "rearShock" : "Mono-amortisseur WP, déb : 300 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "100 / 90 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2248,
+    "id" : 2509,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "80 / 100 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2248,
+    "id" : 2509,
     "gasSupply" : "Carburateur Ø 38 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2248,
+    "id" : 2509,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2248,
+    "id" : 2509,
     "dryWeight" : 89.1,
     "seatHeight" : 960.0,
     "type" : "Cadre tubulaire central en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2249,
+  "id" : 2510,
   "idMotoplanete" : 6019,
-  "name" : "TC 250 ",
+  "name" : "TC 250",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6019/TC-250-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TC-250-2016.jpg",
   "year" : "2016",
@@ -214,21 +214,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-TC-250-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2249,
+    "id" : 2510,
     "rearShock" : "Mono-amortisseur WP, déb : 317 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "110 / 90 - 19\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2249,
+    "id" : 2510,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "80 / 100 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2249,
+    "id" : 2510,
     "gasSupply" : "Carburateur Ø 36 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2249,
+    "id" : 2510,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2249,
+    "id" : 2510,
     "dryWeight" : 97.7,
     "seatHeight" : 992.0,
     "type" : "Cadre tubulaire central en acier",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2250,
+  "id" : 2511,
   "idMotoplanete" : 5986,
-  "name" : "701 Enduro ",
+  "name" : "701 Enduro",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5986/701-Enduro-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-701-Enduro-2016.jpg",
   "year" : "2016",
@@ -281,21 +281,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-701-Enduro-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2250,
+    "id" : 2511,
     "rearShock" : "Mono-amortisseur WP, déb : 275 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2250,
+    "id" : 2511,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 275 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2250,
+    "id" : 2511,
     "gasSupply" : "Injection Ø 46 mm",
     "torque" : 6.9,
     "torqueRpm" : 6500.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2250,
+    "id" : 2511,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2250,
+    "id" : 2511,
     "dryWeight" : 145.0,
     "seatHeight" : 910.0,
     "type" : "cadre treillis en tubes d'acier",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2251,
+  "id" : 2512,
   "idMotoplanete" : 5994,
-  "name" : "FE 250 ",
+  "name" : "FE 250",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5994/FE-250-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-250-2016.jpg",
   "year" : "2016",
@@ -348,21 +348,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-FE-250-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2251,
+    "id" : 2512,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2251,
+    "id" : 2512,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2251,
+    "id" : 2512,
     "gasSupply" : "Injection Ø 42 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2251,
+    "id" : 2512,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2251,
+    "id" : 2512,
     "dryWeight" : 107.3,
     "seatHeight" : 970.0,
     "type" : "Simple berceau tubulaire en acier",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2252,
+  "id" : 2513,
   "idMotoplanete" : 6006,
-  "name" : "FE 350 ",
+  "name" : "FE 350",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6006/FE-350-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-350-2016.jpg",
   "year" : "2016",
@@ -415,21 +415,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-FE-350-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2252,
+    "id" : 2513,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2252,
+    "id" : 2513,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2252,
+    "id" : 2513,
     "gasSupply" : "Injection Ø 42 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2252,
+    "id" : 2513,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2252,
+    "id" : 2513,
     "dryWeight" : 109.0,
     "seatHeight" : 970.0,
     "type" : "Cadre tubulaire central en acier",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2253,
+  "id" : 2514,
   "idMotoplanete" : 6007,
-  "name" : "FE 450 ",
+  "name" : "FE 450",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6007/FE-450-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-450-FE-2016.jpg",
   "year" : "2016",
@@ -482,21 +482,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-450-FE-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2253,
+    "id" : 2514,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2253,
+    "id" : 2514,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2253,
+    "id" : 2514,
     "gasSupply" : "Injection Ø 42 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2253,
+    "id" : 2514,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2253,
+    "id" : 2514,
     "dryWeight" : 112.8,
     "seatHeight" : 970.0,
     "type" : "Cadre tubulaire central en acier",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2254,
+  "id" : 2515,
   "idMotoplanete" : 6008,
-  "name" : "FE 501 ",
+  "name" : "FE 501",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/6008/FE-501-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-FE-501-2016.jpg",
   "year" : "2016",
@@ -549,21 +549,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-FE-501-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2254,
+    "id" : 2515,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2254,
+    "id" : 2515,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2254,
+    "id" : 2515,
     "gasSupply" : "Injection Ø 42 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2254,
+    "id" : 2515,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2254,
+    "id" : 2515,
     "dryWeight" : 113.3,
     "seatHeight" : 970.0,
     "type" : "Cadre tubulaire central en acier",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2255,
+  "id" : 2516,
   "idMotoplanete" : 5988,
-  "name" : "TE 125 ",
+  "name" : "TE 125",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5988/TE-125-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TE-125-2016.jpg",
   "year" : "2016",
@@ -616,21 +616,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-TE-125-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2255,
+    "id" : 2516,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "120 / 90 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2255,
+    "id" : 2516,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2255,
+    "id" : 2516,
     "gasSupply" : null,
     "torque" : null,
     "torqueRpm" : null,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2255,
+    "id" : 2516,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2255,
+    "id" : 2516,
     "dryWeight" : 95.8,
     "seatHeight" : 960.0,
     "type" : "Cadre tubulaire central en acier",
@@ -669,9 +669,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2256,
+  "id" : 2517,
   "idMotoplanete" : 5992,
-  "name" : "TE 250 ",
+  "name" : "TE 250",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5992/TE-250-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-TE-250-2016.jpg",
   "year" : "2016",
@@ -683,21 +683,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-TE-250-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2256,
+    "id" : 2517,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2256,
+    "id" : 2517,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2256,
+    "id" : 2517,
     "gasSupply" : "Carburateur Ø 36 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2256,
+    "id" : 2517,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2256,
+    "id" : 2517,
     "dryWeight" : 104.4,
     "seatHeight" : 960.0,
     "type" : "Simple berceau tubulaire en acier",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2257,
+  "id" : 2518,
   "idMotoplanete" : 5993,
-  "name" : "TE 300 ",
+  "name" : "TE 300",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/5993/TE-300-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/Husqvarna-300-TE-2016.jpg",
   "year" : "2016",
@@ -750,21 +750,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/Husqvarna-300-TE-2016.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2257,
+    "id" : 2518,
     "rearShock" : "Mono-amortisseur WP, déb : 330 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2257,
+    "id" : 2518,
     "fork" : "Fourche téléhydraulique inversée WP Ø 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2257,
+    "id" : 2518,
     "gasSupply" : "Carburateur Ø 36 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2257,
+    "id" : 2518,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2257,
+    "id" : 2518,
     "dryWeight" : 104.4,
     "seatHeight" : 960.0,
     "type" : "Simple berceau tubulaire en acier",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2258,
+  "id" : 2519,
   "idMotoplanete" : 4311,
-  "name" : "TR 650 Strada ",
+  "name" : "TR 650 Strada",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/4311/TR-650-Strada-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Strada-2013.jpg",
   "year" : "2013",
@@ -817,21 +817,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Strada-2013.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2258,
+    "id" : 2519,
     "rearShock" : "Mono-amortisseur, déb : 190 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2258,
+    "id" : 2519,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 190 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 80 - 19\"",
     "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2258,
+    "id" : 2519,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.2,
     "torqueRpm" : 5750.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2258,
+    "id" : 2519,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2258,
+    "id" : 2519,
     "dryWeight" : 168.0,
     "seatHeight" : 860.0,
     "type" : "poutre en tubes d?acier",
@@ -870,9 +870,9 @@
     "movingWeight" : 186.0
   }
 }, {
-  "id" : 2259,
+  "id" : 2520,
   "idMotoplanete" : 4313,
-  "name" : "TR 650 Terra ",
+  "name" : "TR 650 Terra",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/4313/TR-650-Terra-2013/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Terra-2013.jpg",
   "year" : "2013",
@@ -884,21 +884,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/husqvarna-TR-650-Terra-2013.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2259,
+    "id" : 2520,
     "rearShock" : "Mono-amortisseur, déb : 190 mm",
     "rearBrake" : "1 disque Ø 240mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2259,
+    "id" : 2520,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 190 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2259,
+    "id" : 2520,
     "gasSupply" : "Injection Ø nc",
     "torque" : 6.2,
     "torqueRpm" : 5750.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2259,
+    "id" : 2520,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2259,
+    "id" : 2520,
     "dryWeight" : 166.0,
     "seatHeight" : 865.0,
     "type" : "poutre en tubes d?acier",
@@ -937,9 +937,9 @@
     "movingWeight" : 184.0
   }
 }, {
-  "id" : 2260,
+  "id" : 2521,
   "idMotoplanete" : 3468,
-  "name" : "NUDA 900 R ",
+  "name" : "NUDA 900 R",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/3468/NUDA-900-R-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-nuda-900-r-2012.jpg",
   "year" : "2012",
@@ -951,21 +951,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/husqvarna-nuda-900-r-2012.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2260,
+    "id" : 2521,
     "rearShock" : "Monoamortisseur Öhlins, déb : 180 mm",
     "rearBrake" : "1 disque Ø 265 mm, étrier 1 piston",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2260,
+    "id" : 2521,
     "fork" : "Fourche téléhydraulique inversée Ø 48 mm, déb : 210 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux monoblocs Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 2260,
+    "id" : 2521,
     "gasSupply" : "Injection Ø 46 mm",
     "torque" : 9.78,
     "torqueRpm" : 7000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2260,
+    "id" : 2521,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2260,
+    "id" : 2521,
     "dryWeight" : 174.0,
     "seatHeight" : 895.0,
     "type" : "Treillis en tubes d'acier",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 2261,
+  "id" : 2522,
   "idMotoplanete" : 3518,
-  "name" : "TE 511 ",
+  "name" : "TE 511",
   "urlMotoplanete" : "http://www.motoplanete.com/husqvarna/3518/TE-511-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/husqvarna/husqvarna-TE-511-2011.jpg",
   "year" : "2011",
@@ -1018,21 +1018,21 @@
   "imagesUrl" : [ "http://www.motoplanete.com/husqvarna/husqvarna-TE-511-2011.jpg" ],
   "idManufacturer" : 6,
   "rearAxle" : {
-    "id" : 2261,
+    "id" : 2522,
     "rearShock" : "Mono-amortisseur, déb : 300 mm",
     "rearBrake" : "1 disque Ã 240 mm, étrier 1 piston",
     "rearWheel" : "140 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 2261,
+    "id" : 2522,
     "fork" : "Fourche téléhydraulique inversée Ã 48 mm, déb : 300 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ã 260 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 2261,
+    "id" : 2522,
     "gasSupply" : "Injection Ã¸ nc",
     "torque" : null,
     "torqueRpm" : null,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 2261,
+    "id" : 2522,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 2261,
+    "id" : 2522,
     "dryWeight" : 113.0,
     "seatHeight" : 995.0,
     "type" : "simple berceau dédoublé en acier molybdène",

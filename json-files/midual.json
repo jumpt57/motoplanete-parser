@@ -1,7 +1,7 @@
 [ {
-  "id" : 4788,
+  "id" : 6261,
   "idMotoplanete" : 5107,
-  "name" : "Type 1 ",
+  "name" : "Type 1",
   "urlMotoplanete" : "http://www.motoplanete.com/midual/5107/Type-1-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/midual/Midual-1000-Type-1-2016.jpg",
   "year" : "2016",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/midual/Midual-1000-Type-1-2016.jpg" ],
-  "idManufacturer" : 49,
+  "idManufacturer" : 50,
   "rearAxle" : {
-    "id" : 4788,
+    "id" : 6261,
     "rearShock" : "monoamortisseur Öhlins TTX36, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4788,
+    "id" : 6261,
     "fork" : "Fourche téléhydraulique inversée Öhlins FGRT Ø 43 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4788,
+    "id" : 6261,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 10.2,
     "torqueRpm" : 5300.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4788,
+    "id" : 6261,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4788,
+    "id" : 6261,
     "dryWeight" : null,
     "seatHeight" : 810.0,
     "type" : "en aluminium à double paroi faisant office de réservoir",

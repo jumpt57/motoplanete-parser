@@ -1,7 +1,7 @@
 [ {
-  "id" : 4868,
+  "id" : 6341,
   "idMotoplanete" : 3631,
-  "name" : "1100 M4 ",
+  "name" : "1100 M4",
   "urlMotoplanete" : "http://www.motoplanete.com/ncr/3631/1100-M4-2012/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ncr/NCR-1100-M4-2012.jpg",
   "year" : "2012",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 47800,
   "priceABS" : null,
-  "categoryId" : 17,
+  "categoryId" : 32,
   "imagesUrl" : [ "http://www.motoplanete.com/ncr/NCR-1100-M4-2012.jpg" ],
-  "idManufacturer" : 56,
+  "idManufacturer" : 57,
   "rearAxle" : {
-    "id" : 4868,
+    "id" : 6341,
     "rearShock" : "Monoamortisseur Öhlins",
     "rearBrake" : "1 disque Ø 200 mm, étrier à 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4868,
+    "id" : 6341,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "2 disques Ø 300 mm, étriers radiaux à 4 pistons"
   },
   "engine" : {
-    "id" : 4868,
+    "id" : 6341,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 11.5,
     "torqueRpm" : 5100.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4868,
+    "id" : 6341,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4868,
+    "id" : 6341,
     "dryWeight" : 130.0,
     "seatHeight" : null,
     "type" : "Treillis tubulaire de titane",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4869,
+  "id" : 6342,
   "idMotoplanete" : 2385,
-  "name" : "Millona 16 ",
+  "name" : "Millona 16",
   "urlMotoplanete" : "http://www.motoplanete.com/ncr/2385/Millona-16-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ncr/NCR-Millona-16-2010.jpg",
   "year" : "2010",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/ncr/NCR-Millona-16-2010.jpg" ],
-  "idManufacturer" : 56,
+  "idManufacturer" : 57,
   "rearAxle" : {
-    "id" : 4869,
+    "id" : 6342,
     "rearShock" : "Mono-amortisseur Öhlins TTX",
     "rearBrake" : "1 disque Brembo Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4869,
+    "id" : 6342,
     "fork" : "Fourche téléhydraulique inversée Öhlins FGR 000 Ø 43 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo Ø 320mm, étriers radiaux monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4869,
+    "id" : 6342,
     "gasSupply" : "Injection Ø 50 mm",
     "torque" : null,
     "torqueRpm" : null,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4869,
+    "id" : 6342,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4869,
+    "id" : 6342,
     "dryWeight" : 145.0,
     "seatHeight" : null,
     "type" : "treillis tubulaire en tube d'acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4870,
+  "id" : 6343,
   "idMotoplanete" : 102,
-  "name" : "Mike Hailwood TT Replica ",
+  "name" : "Mike Hailwood TT Replica",
   "urlMotoplanete" : "http://www.motoplanete.com/ncr/102/Mike-Hailwood-TT-Replica-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/ncr/Mike-Hailwood-TT.jpg",
   "year" : "2009",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 18,
   "imagesUrl" : [ "http://www.motoplanete.com/ncr/Mike-Hailwood-TT.jpg" ],
-  "idManufacturer" : 56,
+  "idManufacturer" : 57,
   "rearAxle" : {
-    "id" : 4870,
+    "id" : 6343,
     "rearShock" : "Double amortisseur combiné Ohlins",
     "rearBrake" : "Simple disque Ø 200 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4870,
+    "id" : 6343,
     "fork" : "Fourche téléhydraulique Ohlins FGR 900 inversée Ø",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques pétales Ø300 mm, étriers radiaux monoblocs 4 pistons"
   },
   "engine" : {
-    "id" : 4870,
+    "id" : 6343,
     "gasSupply" : "Injection Ø nc",
     "torque" : 13.5,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4870,
+    "id" : 6343,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4870,
+    "id" : 6343,
     "dryWeight" : null,
     "seatHeight" : null,
     "type" : "tubulaire en titane",

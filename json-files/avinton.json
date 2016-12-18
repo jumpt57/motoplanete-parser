@@ -1,7 +1,7 @@
 [ {
-  "id" : 4383,
+  "id" : 5860,
   "idMotoplanete" : 6336,
-  "name" : "Pearl ",
+  "name" : "Pearl",
   "urlMotoplanete" : "http://www.motoplanete.com/avinton/6336/Pearl-2017/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/avinton/a380.JPG",
   "year" : "2017",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/avinton/a380.JPG" ],
-  "idManufacturer" : 17,
+  "idManufacturer" : 18,
   "rearAxle" : {
-    "id" : 4383,
+    "id" : 5860,
     "rearShock" : "Mono-amortisseur Ohlins, déb : 125 mm",
     "rearBrake" : "SImple disque de 230 mm / étrier 2 pistons",
     "rearWheel" : "200/55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4383,
+    "id" : 5860,
     "fork" : "fourche inversée Ohlins diam. 43mm réglable en compression et détente, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120/70 - 17\"",
     "frontBrake" : "Simple disque flottant diam. 320mm"
   },
   "engine" : {
-    "id" : 4383,
+    "id" : 5860,
     "gasSupply" : null,
     "torque" : 18.35,
     "torqueRpm" : 3000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4383,
+    "id" : 5860,
     "gearboxSpeeds" : "5 rapports développée en partenariat avec Andrews",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée (carter sec) / secondaire",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4383,
+    "id" : 5860,
     "dryWeight" : 179.0,
     "seatHeight" : 790.0,
     "type" : "poutre tubulaire avec moteur suspendu",
@@ -66,9 +66,9 @@
     "movingWeight" : 197.0
   }
 }, {
-  "id" : 4384,
+  "id" : 5861,
   "idMotoplanete" : 6449,
-  "name" : "Side car GL ",
+  "name" : "Side car GL",
   "urlMotoplanete" : "http://www.motoplanete.com/avinton/6449/Side-car-GL-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/avinton/avintonside380.jpg",
   "year" : "2016",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 23,
   "imagesUrl" : [ "http://www.motoplanete.com/avinton/avintonside380.jpg" ],
-  "idManufacturer" : 17,
+  "idManufacturer" : 18,
   "rearAxle" : {
-    "id" : 4384,
+    "id" : 5861,
     "rearShock" : null,
     "rearBrake" : null,
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4384,
+    "id" : 5861,
     "fork" : null,
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : null
   },
   "engine" : {
-    "id" : 4384,
+    "id" : 5861,
     "gasSupply" : "injection",
     "torque" : 18.35,
     "torqueRpm" : 3000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4384,
+    "id" : 5861,
     "gearboxSpeeds" : "5 rapports développée en partenariat avec Andrews",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie crantée (carter sec) / secondaire",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4384,
+    "id" : 5861,
     "dryWeight" : null,
     "seatHeight" : null,
     "type" : null,
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4385,
+  "id" : 5862,
   "idMotoplanete" : 5412,
-  "name" : "Collector GT ",
+  "name" : "Collector GT",
   "urlMotoplanete" : "http://www.motoplanete.com/avinton/5412/Collector-GT-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/avinton/avinton-collector-GT-2015.jpg",
   "year" : "2015",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/avinton/avinton-collector-GT-2015.jpg" ],
-  "idManufacturer" : 17,
+  "idManufacturer" : 18,
   "rearAxle" : {
-    "id" : 4385,
+    "id" : 5862,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 228 mm, étrier 4 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4385,
+    "id" : 5862,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 100 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 (ou 2 )disque Ø 335mm, 1 (ou 2) étrier à 6 pistons"
   },
   "engine" : {
-    "id" : 4385,
+    "id" : 5862,
     "gasSupply" : "1 carburateur Ø 41 mm",
     "torque" : 17.1,
     "torqueRpm" : 3000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4385,
+    "id" : 5862,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4385,
+    "id" : 5862,
     "dryWeight" : 175.0,
     "seatHeight" : 790.0,
     "type" : "Poutre tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : 191.0
   }
 }, {
-  "id" : 4386,
+  "id" : 5863,
   "idMotoplanete" : 5400,
-  "name" : "Collector RACE ",
+  "name" : "Collector RACE",
   "urlMotoplanete" : "http://www.motoplanete.com/avinton/5400/Collector-RACE-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/avinton/avinton-collector-race-2015.jpg",
   "year" : "2015",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/avinton/avinton-collector-race-2015.jpg" ],
-  "idManufacturer" : 17,
+  "idManufacturer" : 18,
   "rearAxle" : {
-    "id" : 4386,
+    "id" : 5863,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 228 mm, étrier 4 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4386,
+    "id" : 5863,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 100 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 (ou 2 )disque Ø 335mm, 1 (ou 2) étrier à 6 pistons"
   },
   "engine" : {
-    "id" : 4386,
+    "id" : 5863,
     "gasSupply" : "1 carburateur Ø 41 mm",
     "torque" : 17.1,
     "torqueRpm" : 3000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4386,
+    "id" : 5863,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4386,
+    "id" : 5863,
     "dryWeight" : 175.0,
     "seatHeight" : 790.0,
     "type" : "Poutre tubulaire en acier",
@@ -267,9 +267,9 @@
     "movingWeight" : 191.0
   }
 }, {
-  "id" : 4387,
+  "id" : 5864,
   "idMotoplanete" : 5413,
-  "name" : "Collector Roadster ",
+  "name" : "Collector Roadster",
   "urlMotoplanete" : "http://www.motoplanete.com/avinton/5413/Collector-Roadster-2015/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/avinton/avinton-collector-roadster-2015.jpg",
   "year" : "2015",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/avinton/avinton-collector-roadster-2015.jpg" ],
-  "idManufacturer" : 17,
+  "idManufacturer" : 18,
   "rearAxle" : {
-    "id" : 4387,
+    "id" : 5864,
     "rearShock" : "Mono-amortisseur, déb : 125 mm",
     "rearBrake" : "1 disque Ø 228 mm, étrier 4 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4387,
+    "id" : 5864,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm, déb : 100 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 (ou 2 )disque Ø 335mm, 1 (ou 2) étrier à 6 pistons"
   },
   "engine" : {
-    "id" : 4387,
+    "id" : 5864,
     "gasSupply" : "1 carburateur Ø 41 mm",
     "torque" : 17.1,
     "torqueRpm" : 3000.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4387,
+    "id" : 5864,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4387,
+    "id" : 5864,
     "dryWeight" : 175.0,
     "seatHeight" : 790.0,
     "type" : "Poutre tubulaire en acier",

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4624,
+  "id" : 6101,
   "idMotoplanete" : 3700,
-  "name" : "125 ROADSPORT R ",
+  "name" : "125 ROADSPORT R",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3700/125-ROADSPORT-R-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2010.jpg",
   "year" : "2011",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : 2995,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2010.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4624,
+    "id" : 6101,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 ./ 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4624,
+    "id" : 6101,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4624,
+    "id" : 6101,
     "gasSupply" : "Injection Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8400.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4624,
+    "id" : 6101,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4624,
+    "id" : 6101,
     "dryWeight" : 162.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4625,
+  "id" : 6102,
   "idMotoplanete" : 3707,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3707/125-ROADWIN-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2011",
@@ -76,25 +76,25 @@
   "zeroToHundred" : 8.2,
   "price" : 2685,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4625,
+    "id" : 6102,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4625,
+    "id" : 6102,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4625,
+    "id" : 6102,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4625,
+    "id" : 6102,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4625,
+    "id" : 6102,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4626,
+  "id" : 6103,
   "idMotoplanete" : 3719,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3719/125-DAYSTAR-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2011",
@@ -143,25 +143,25 @@
   "zeroToHundred" : null,
   "price" : 3065,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4626,
+    "id" : 6103,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4626,
+    "id" : 6103,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4626,
+    "id" : 6103,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4626,
+    "id" : 6103,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4626,
+    "id" : 6103,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4627,
+  "id" : 6104,
   "idMotoplanete" : 2452,
-  "name" : "125 ROADSPORT R ",
+  "name" : "125 ROADSPORT R",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/2452/125-ROADSPORT-R-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2010.jpg",
   "year" : "2010",
@@ -210,25 +210,25 @@
   "zeroToHundred" : null,
   "price" : 3499,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2010.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4627,
+    "id" : 6104,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 ./ 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4627,
+    "id" : 6104,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4627,
+    "id" : 6104,
     "gasSupply" : "Injection Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8400.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4627,
+    "id" : 6104,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4627,
+    "id" : 6104,
     "dryWeight" : 162.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4628,
+  "id" : 6105,
   "idMotoplanete" : 3706,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3706/125-ROADWIN-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2010",
@@ -277,25 +277,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4628,
+    "id" : 6105,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4628,
+    "id" : 6105,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4628,
+    "id" : 6105,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4628,
+    "id" : 6105,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4628,
+    "id" : 6105,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -334,9 +334,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4629,
+  "id" : 6106,
   "idMotoplanete" : 3718,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3718/125-DAYSTAR-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2010",
@@ -344,25 +344,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4629,
+    "id" : 6106,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4629,
+    "id" : 6106,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4629,
+    "id" : 6106,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -381,7 +381,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4629,
+    "id" : 6106,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -389,7 +389,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4629,
+    "id" : 6106,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -401,9 +401,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4630,
+  "id" : 6107,
   "idMotoplanete" : 2454,
-  "name" : "125 ROADSPORT R ",
+  "name" : "125 ROADSPORT R",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/2454/125-ROADSPORT-R-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2009.jpg",
   "year" : "2009",
@@ -411,25 +411,25 @@
   "zeroToHundred" : null,
   "price" : 3690,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2009.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4630,
+    "id" : 6107,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 ./ 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4630,
+    "id" : 6107,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4630,
+    "id" : 6107,
     "gasSupply" : "Injection Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8400.0,
@@ -448,7 +448,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4630,
+    "id" : 6107,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -456,7 +456,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4630,
+    "id" : 6107,
     "dryWeight" : 162.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -468,9 +468,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4631,
+  "id" : 6108,
   "idMotoplanete" : 3705,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3705/125-ROADWIN-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2009",
@@ -478,25 +478,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4631,
+    "id" : 6108,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4631,
+    "id" : 6108,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4631,
+    "id" : 6108,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -515,7 +515,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4631,
+    "id" : 6108,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -523,7 +523,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4631,
+    "id" : 6108,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -535,9 +535,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4632,
+  "id" : 6109,
   "idMotoplanete" : 3717,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3717/125-DAYSTAR-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2009",
@@ -545,25 +545,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4632,
+    "id" : 6109,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4632,
+    "id" : 6109,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4632,
+    "id" : 6109,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -582,7 +582,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4632,
+    "id" : 6109,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -590,7 +590,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4632,
+    "id" : 6109,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -602,9 +602,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4633,
+  "id" : 6110,
   "idMotoplanete" : 2455,
-  "name" : "125 ROADSPORT R ",
+  "name" : "125 ROADSPORT R",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/2455/125-ROADSPORT-R-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2008.jpg",
   "year" : "2008",
@@ -612,25 +612,25 @@
   "zeroToHundred" : null,
   "price" : 3570,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2008.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4633,
+    "id" : 6110,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 ./ 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4633,
+    "id" : 6110,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4633,
+    "id" : 6110,
     "gasSupply" : "Injection Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8400.0,
@@ -649,7 +649,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4633,
+    "id" : 6110,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -657,7 +657,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4633,
+    "id" : 6110,
     "dryWeight" : 162.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -669,9 +669,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4634,
+  "id" : 6111,
   "idMotoplanete" : 3704,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3704/125-ROADWIN-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2008",
@@ -679,25 +679,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4634,
+    "id" : 6111,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4634,
+    "id" : 6111,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4634,
+    "id" : 6111,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -716,7 +716,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4634,
+    "id" : 6111,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -724,7 +724,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4634,
+    "id" : 6111,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -736,9 +736,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4635,
+  "id" : 6112,
   "idMotoplanete" : 3716,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3716/125-DAYSTAR-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2008",
@@ -746,25 +746,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4635,
+    "id" : 6112,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4635,
+    "id" : 6112,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4635,
+    "id" : 6112,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -783,7 +783,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4635,
+    "id" : 6112,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -791,7 +791,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4635,
+    "id" : 6112,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -803,9 +803,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4636,
+  "id" : 6113,
   "idMotoplanete" : 2456,
-  "name" : "125 ROADSPORT R ",
+  "name" : "125 ROADSPORT R",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/2456/125-ROADSPORT-R-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2007.jpg",
   "year" : "2007",
@@ -813,25 +813,25 @@
   "zeroToHundred" : null,
   "price" : 3570,
   "priceABS" : null,
-  "categoryId" : 3,
+  "categoryId" : 29,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadsport-R-2007.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4636,
+    "id" : 6113,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 1 piston",
     "rearWheel" : "140 ./ 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4636,
+    "id" : 6113,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4636,
+    "id" : 6113,
     "gasSupply" : "Injection Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 8400.0,
@@ -850,7 +850,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4636,
+    "id" : 6113,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -858,7 +858,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4636,
+    "id" : 6113,
     "dryWeight" : 162.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -870,9 +870,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4637,
+  "id" : 6114,
   "idMotoplanete" : 3703,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3703/125-ROADWIN-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2007",
@@ -880,25 +880,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4637,
+    "id" : 6114,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4637,
+    "id" : 6114,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4637,
+    "id" : 6114,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -917,7 +917,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4637,
+    "id" : 6114,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -925,7 +925,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4637,
+    "id" : 6114,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -937,9 +937,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4638,
+  "id" : 6115,
   "idMotoplanete" : 3715,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3715/125-DAYSTAR-2007/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2007",
@@ -947,25 +947,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4638,
+    "id" : 6115,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4638,
+    "id" : 6115,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4638,
+    "id" : 6115,
     "gasSupply" : "Injection",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -984,7 +984,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4638,
+    "id" : 6115,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -992,7 +992,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4638,
+    "id" : 6115,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1004,9 +1004,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4639,
+  "id" : 6116,
   "idMotoplanete" : 3702,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3702/125-ROADWIN-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2006",
@@ -1014,25 +1014,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4639,
+    "id" : 6116,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4639,
+    "id" : 6116,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4639,
+    "id" : 6116,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -1051,7 +1051,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4639,
+    "id" : 6116,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1059,7 +1059,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4639,
+    "id" : 6116,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -1071,9 +1071,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4640,
+  "id" : 6117,
   "idMotoplanete" : 3714,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3714/125-DAYSTAR-2006/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2006",
@@ -1081,25 +1081,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4640,
+    "id" : 6117,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4640,
+    "id" : 6117,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4640,
+    "id" : 6117,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1118,7 +1118,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4640,
+    "id" : 6117,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1126,7 +1126,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4640,
+    "id" : 6117,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1138,9 +1138,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4641,
+  "id" : 6118,
   "idMotoplanete" : 3701,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3701/125-ROADWIN-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2005",
@@ -1148,25 +1148,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4641,
+    "id" : 6118,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4641,
+    "id" : 6118,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4641,
+    "id" : 6118,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -1185,7 +1185,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4641,
+    "id" : 6118,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1193,7 +1193,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4641,
+    "id" : 6118,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -1205,9 +1205,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4642,
+  "id" : 6119,
   "idMotoplanete" : 3713,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3713/125-DAYSTAR-2005/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2005",
@@ -1215,25 +1215,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4642,
+    "id" : 6119,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4642,
+    "id" : 6119,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4642,
+    "id" : 6119,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1252,7 +1252,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4642,
+    "id" : 6119,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1260,7 +1260,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4642,
+    "id" : 6119,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1272,9 +1272,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4643,
+  "id" : 6120,
   "idMotoplanete" : 3699,
-  "name" : "125 ROADWIN ",
+  "name" : "125 ROADWIN",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3699/125-ROADWIN-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg",
   "year" : "2004",
@@ -1282,25 +1282,25 @@
   "zeroToHundred" : 8.2,
   "price" : 3190,
   "priceABS" : null,
-  "categoryId" : 4,
+  "categoryId" : 30,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-roadwin.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4643,
+    "id" : 6120,
     "rearShock" : "Mono-amortisseur, déb : 100 mm",
     "rearBrake" : "1 disque Ø 220mm, étrier 2 pistons",
     "rearWheel" : "140 / 60 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4643,
+    "id" : 6120,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "110 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 280 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4643,
+    "id" : 6120,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7500.0,
@@ -1319,7 +1319,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4643,
+    "id" : 6120,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1327,7 +1327,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4643,
+    "id" : 6120,
     "dryWeight" : 132.0,
     "seatHeight" : 780.0,
     "type" : "périmétrique en acier",
@@ -1339,9 +1339,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4644,
+  "id" : 6121,
   "idMotoplanete" : 3712,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3712/125-DAYSTAR-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2004",
@@ -1349,25 +1349,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4644,
+    "id" : 6121,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4644,
+    "id" : 6121,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4644,
+    "id" : 6121,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1386,7 +1386,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4644,
+    "id" : 6121,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1394,7 +1394,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4644,
+    "id" : 6121,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1406,9 +1406,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4645,
+  "id" : 6122,
   "idMotoplanete" : 3711,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3711/125-DAYSTAR-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2003",
@@ -1416,25 +1416,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4645,
+    "id" : 6122,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4645,
+    "id" : 6122,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4645,
+    "id" : 6122,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1453,7 +1453,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4645,
+    "id" : 6122,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1461,7 +1461,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4645,
+    "id" : 6122,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1473,9 +1473,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4646,
+  "id" : 6123,
   "idMotoplanete" : 4097,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4097/125-VS-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "2003",
@@ -1483,25 +1483,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4646,
+    "id" : 6123,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4646,
+    "id" : 6123,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4646,
+    "id" : 6123,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1520,7 +1520,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4646,
+    "id" : 6123,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1528,7 +1528,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4646,
+    "id" : 6123,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -1540,9 +1540,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4647,
+  "id" : 6124,
   "idMotoplanete" : 3710,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3710/125-DAYSTAR-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2002",
@@ -1550,25 +1550,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4647,
+    "id" : 6124,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4647,
+    "id" : 6124,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4647,
+    "id" : 6124,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1587,7 +1587,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4647,
+    "id" : 6124,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1595,7 +1595,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4647,
+    "id" : 6124,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1607,9 +1607,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4648,
+  "id" : 6125,
   "idMotoplanete" : 4096,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4096/125-VS-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "2002",
@@ -1617,25 +1617,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4648,
+    "id" : 6125,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4648,
+    "id" : 6125,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4648,
+    "id" : 6125,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1654,7 +1654,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4648,
+    "id" : 6125,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1662,7 +1662,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4648,
+    "id" : 6125,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -1674,9 +1674,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4649,
+  "id" : 6126,
   "idMotoplanete" : 3709,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3709/125-DAYSTAR-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2001",
@@ -1684,25 +1684,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4649,
+    "id" : 6126,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4649,
+    "id" : 6126,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4649,
+    "id" : 6126,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1721,7 +1721,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4649,
+    "id" : 6126,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1729,7 +1729,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4649,
+    "id" : 6126,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1741,9 +1741,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4650,
+  "id" : 6127,
   "idMotoplanete" : 4095,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4095/125-VS-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "2001",
@@ -1751,25 +1751,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4650,
+    "id" : 6127,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4650,
+    "id" : 6127,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4650,
+    "id" : 6127,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1788,7 +1788,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4650,
+    "id" : 6127,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1796,7 +1796,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4650,
+    "id" : 6127,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -1808,9 +1808,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4651,
+  "id" : 6128,
   "idMotoplanete" : 3708,
-  "name" : "125 DAYSTAR ",
+  "name" : "125 DAYSTAR",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3708/125-DAYSTAR-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg",
   "year" : "2000",
@@ -1818,25 +1818,25 @@
   "zeroToHundred" : null,
   "price" : 2890,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-daystar.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4651,
+    "id" : 6128,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "130 / 90 - 15\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4651,
+    "id" : 6128,
     "fork" : "Fourche téléhydraulique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 260 mm, étriers 2 pistons"
   },
   "engine" : {
-    "id" : 4651,
+    "id" : 6128,
     "gasSupply" : "Carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1855,7 +1855,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4651,
+    "id" : 6128,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1863,7 +1863,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4651,
+    "id" : 6128,
     "dryWeight" : 154.0,
     "seatHeight" : 695.0,
     "type" : "Double berceau tubulaire en acier",
@@ -1875,9 +1875,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4652,
+  "id" : 6129,
   "idMotoplanete" : 4094,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4094/125-VS-2000/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "2000",
@@ -1885,25 +1885,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4652,
+    "id" : 6129,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4652,
+    "id" : 6129,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4652,
+    "id" : 6129,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1922,7 +1922,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4652,
+    "id" : 6129,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1930,7 +1930,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4652,
+    "id" : 6129,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -1942,9 +1942,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4653,
+  "id" : 6130,
   "idMotoplanete" : 4093,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4093/125-VS-1999/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "1999",
@@ -1952,25 +1952,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4653,
+    "id" : 6130,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4653,
+    "id" : 6130,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4653,
+    "id" : 6130,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -1989,7 +1989,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4653,
+    "id" : 6130,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -1997,7 +1997,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4653,
+    "id" : 6130,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -2009,9 +2009,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4654,
+  "id" : 6131,
   "idMotoplanete" : 4092,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/4092/125-VS-1998/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "1998",
@@ -2019,25 +2019,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4654,
+    "id" : 6131,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4654,
+    "id" : 6131,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4654,
+    "id" : 6131,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -2056,7 +2056,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4654,
+    "id" : 6131,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2064,7 +2064,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4654,
+    "id" : 6131,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",
@@ -2076,9 +2076,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4655,
+  "id" : 6132,
   "idMotoplanete" : 3720,
-  "name" : "125 VS ",
+  "name" : "125 VS",
   "urlMotoplanete" : "http://www.motoplanete.com/daelim/3720/125-VS-1997/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/daelim/daelim-125-VS.jpg",
   "year" : "1997",
@@ -2086,25 +2086,25 @@
   "zeroToHundred" : 20.2,
   "price" : 2253,
   "priceABS" : null,
-  "categoryId" : 11,
+  "categoryId" : 28,
   "imagesUrl" : [ "http://www.motoplanete.com/daelim/daelim-125-VS.jpg" ],
-  "idManufacturer" : 28,
+  "idManufacturer" : 29,
   "rearAxle" : {
-    "id" : 4655,
+    "id" : 6132,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 tambour Ø 130 mm",
     "rearWheel" : "110 / 90 - 16\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4655,
+    "id" : 6132,
     "fork" : "Fourche téléhydraulique Ø 30 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 240 mm, étrier 1 piston"
   },
   "engine" : {
-    "id" : 4655,
+    "id" : 6132,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 1.2,
     "torqueRpm" : 7000.0,
@@ -2123,7 +2123,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4655,
+    "id" : 6132,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -2131,7 +2131,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4655,
+    "id" : 6132,
     "dryWeight" : 132.0,
     "seatHeight" : 720.0,
     "type" : "simple berceau tubulaire en acier",

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4757,
+  "id" : 6230,
   "idMotoplanete" : 4968,
-  "name" : "C-01 ",
+  "name" : "C-01",
   "urlMotoplanete" : "http://www.motoplanete.com/lotus/4968/C-01-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/lotus/Lotus-C-01-2014.jpg",
   "year" : "2014",
@@ -9,25 +9,25 @@
   "zeroToHundred" : null,
   "price" : null,
   "priceABS" : null,
-  "categoryId" : 17,
+  "categoryId" : 32,
   "imagesUrl" : [ "http://www.motoplanete.com/lotus/Lotus-C-01-2014.jpg" ],
-  "idManufacturer" : 44,
+  "idManufacturer" : 45,
   "rearAxle" : {
-    "id" : 4757,
+    "id" : 6230,
     "rearShock" : "2 amortisseurs latéraux, déb : 70 mm",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4757,
+    "id" : 6230,
     "fork" : "Fourche téléhydraulique inversée Ø nc, déb : 80 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 19\"",
     "frontBrake" : "2 disques Ø 320 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4757,
+    "id" : 6230,
     "gasSupply" : "injection Ø nc",
     "torque" : null,
     "torqueRpm" : null,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4757,
+    "id" : 6230,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4757,
+    "id" : 6230,
     "dryWeight" : 181.0,
     "seatHeight" : 710.0,
     "type" : null,

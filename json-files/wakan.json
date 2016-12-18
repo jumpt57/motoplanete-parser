@@ -1,7 +1,7 @@
 [ {
-  "id" : 4988,
+  "id" : 6462,
   "idMotoplanete" : 1675,
-  "name" : "ROADSTER 1640 ",
+  "name" : "ROADSTER 1640",
   "urlMotoplanete" : "http://www.motoplanete.com/wakan/1675/ROADSTER-1640-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/wakan/1640-roadster-2009.jpg",
   "year" : "2009",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/wakan/1640-roadster-2009.jpg" ],
-  "idManufacturer" : 70,
+  "idManufacturer" : 72,
   "rearAxle" : {
-    "id" : 4988,
+    "id" : 6462,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier à 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4988,
+    "id" : 6462,
     "fork" : "Fourche téléhydraulique inversée Ø 46 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 340 mm, étrier à 6 pistons"
   },
   "engine" : {
-    "id" : 4988,
+    "id" : 6462,
     "gasSupply" : "1 carburateur Ø 41 mm",
     "torque" : 15.9,
     "torqueRpm" : 4150.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4988,
+    "id" : 6462,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4988,
+    "id" : 6462,
     "dryWeight" : 177.0,
     "seatHeight" : 790.0,
     "type" : null,

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4918,
+  "id" : 6391,
   "idMotoplanete" : 3133,
-  "name" : "1600 CROWN ",
+  "name" : "1600 CROWN",
   "urlMotoplanete" : "http://www.motoplanete.com/saxon/3133/1600-CROWN-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/saxon/saxon-1600-crown-2011.jpg",
   "year" : "2011",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/saxon/saxon-1600-crown-2011.jpg" ],
-  "idManufacturer" : 64,
+  "idManufacturer" : 65,
   "rearAxle" : {
-    "id" : 4918,
+    "id" : 6391,
     "rearShock" : "amortisseur sous le chassis",
     "rearBrake" : "1 disque Ø nc, étriers Brembo 2 pistons",
     "rearWheel" : "240 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4918,
+    "id" : 6391,
     "fork" : "Fourche à parallélogramme Springer",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 21\"",
     "frontBrake" : "1 disque Ø nc, étriers Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4918,
+    "id" : 6391,
     "gasSupply" : "1 carburateur Ø 42 mm",
     "torque" : 12.0,
     "torqueRpm" : 3000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4918,
+    "id" : 6391,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4918,
+    "id" : 6391,
     "dryWeight" : 283.5,
     "seatHeight" : 610.0,
     "type" : "Double berceau tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4919,
+  "id" : 6392,
   "idMotoplanete" : 3137,
-  "name" : "1600 HENCHMAN ",
+  "name" : "1600 HENCHMAN",
   "urlMotoplanete" : "http://www.motoplanete.com/saxon/3137/1600-HENCHMAN-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/saxon/saxon-1600-henchman.jpg",
   "year" : "2011",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/saxon/saxon-1600-henchman.jpg" ],
-  "idManufacturer" : 64,
+  "idManufacturer" : 65,
   "rearAxle" : {
-    "id" : 4919,
+    "id" : 6392,
     "rearShock" : null,
     "rearBrake" : "1 disque Ø nc, étrier Brembo 2 pistons",
     "rearWheel" : "200 - 18\"",
     "type" : "cadre rigide"
   },
   "frontAxle" : {
-    "id" : 4919,
+    "id" : 6392,
     "fork" : "Fourche téléhydraulique Ø 41 mm",
     "frontShock" : null,
     "frontWheel" : "90 - 21\"",
     "frontBrake" : "1 disque Ø nc, étrier Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4919,
+    "id" : 6392,
     "gasSupply" : "1 carburateur Ø 42 mm",
     "torque" : 12.0,
     "torqueRpm" : 3000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4919,
+    "id" : 6392,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4919,
+    "id" : 6392,
     "dryWeight" : 260.0,
     "seatHeight" : 660.0,
     "type" : "Double berceau tubulaire en acier",
@@ -133,9 +133,9 @@
     "movingWeight" : 283.5
   }
 }, {
-  "id" : 4920,
+  "id" : 6393,
   "idMotoplanete" : 3136,
-  "name" : "1600 HENCHMAN ",
+  "name" : "1600 HENCHMAN",
   "urlMotoplanete" : "http://www.motoplanete.com/saxon/3136/1600-HENCHMAN-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/saxon/saxon-1600-henchman.jpg",
   "year" : "2010",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/saxon/saxon-1600-henchman.jpg" ],
-  "idManufacturer" : 64,
+  "idManufacturer" : 65,
   "rearAxle" : {
-    "id" : 4920,
+    "id" : 6393,
     "rearShock" : null,
     "rearBrake" : "1 disque Ø nc, étrier Brembo 2 pistons",
     "rearWheel" : "200 - 18\"",
     "type" : "cadre rigide"
   },
   "frontAxle" : {
-    "id" : 4920,
+    "id" : 6393,
     "fork" : "Fourche téléhydraulique Ø 41 mm",
     "frontShock" : null,
     "frontWheel" : "90 - 21\"",
     "frontBrake" : "1 disque Ø nc, étrier Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4920,
+    "id" : 6393,
     "gasSupply" : "1 carburateur Ø 42 mm",
     "torque" : 12.0,
     "torqueRpm" : 3000.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4920,
+    "id" : 6393,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4920,
+    "id" : 6393,
     "dryWeight" : 260.0,
     "seatHeight" : 660.0,
     "type" : "Double berceau tubulaire en acier",
@@ -200,9 +200,9 @@
     "movingWeight" : 283.5
   }
 }, {
-  "id" : 4921,
+  "id" : 6394,
   "idMotoplanete" : 1453,
-  "name" : "WHIP ",
+  "name" : "WHIP",
   "urlMotoplanete" : "http://www.motoplanete.com/saxon/1453/WHIP-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/saxon/saxon-whip-2009.jpg",
   "year" : "2009",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/saxon/saxon-whip-2009.jpg" ],
-  "idManufacturer" : 64,
+  "idManufacturer" : 65,
   "rearAxle" : {
-    "id" : 4921,
+    "id" : 6394,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 disque Ø nc, étrier 2 pistons",
     "rearWheel" : null,
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4921,
+    "id" : 6394,
     "fork" : "Fourche téléhydraulique Ø 41 mm",
     "frontShock" : null,
     "frontWheel" : null,
     "frontBrake" : "1 disque Ø nc, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4921,
+    "id" : 6394,
     "gasSupply" : "1 carburateur Ø 42 mm",
     "torque" : 12.0,
     "torqueRpm" : 3000.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4921,
+    "id" : 6394,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4921,
+    "id" : 6394,
     "dryWeight" : 253.0,
     "seatHeight" : null,
     "type" : "Double berceau en tubes dacier",
@@ -267,9 +267,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4922,
+  "id" : 6395,
   "idMotoplanete" : 3134,
-  "name" : "1600 BLACKLORD ",
+  "name" : "1600 BLACKLORD",
   "urlMotoplanete" : "http://www.motoplanete.com/saxon/3134/1600-BLACKLORD-2008/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/saxon/saxon-1600-blacklord.jpg",
   "year" : "2008",
@@ -279,23 +279,23 @@
   "priceABS" : null,
   "categoryId" : 15,
   "imagesUrl" : [ "http://www.motoplanete.com/saxon/saxon-1600-blacklord.jpg" ],
-  "idManufacturer" : 64,
+  "idManufacturer" : 65,
   "rearAxle" : {
-    "id" : 4922,
+    "id" : 6395,
     "rearShock" : "Amortisseur dissimulé",
     "rearBrake" : "1 disque Ø nc, étrier Brembo 2 pistons",
     "rearWheel" : "260 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4922,
+    "id" : 6395,
     "fork" : "Fourche téléhydraulique Ø 41 mm",
     "frontShock" : null,
     "frontWheel" : "90 - 21\"",
     "frontBrake" : "1 disque Ø nc, étrier Brembo 4 pistons"
   },
   "engine" : {
-    "id" : 4922,
+    "id" : 6395,
     "gasSupply" : "1 carburateur Ø 42 mm",
     "torque" : 12.0,
     "torqueRpm" : 3000.0,
@@ -314,7 +314,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4922,
+    "id" : 6395,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "courroie",
@@ -322,7 +322,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4922,
+    "id" : 6395,
     "dryWeight" : null,
     "seatHeight" : 660.0,
     "type" : "Double berceau tubulaire en acier",

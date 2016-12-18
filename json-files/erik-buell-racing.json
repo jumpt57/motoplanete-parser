@@ -1,7 +1,7 @@
 [ {
-  "id" : 4684,
+  "id" : 6159,
   "idMotoplanete" : 4736,
-  "name" : "Buell Racing 1190 RX ",
+  "name" : "Buell Racing 1190 RX",
   "urlMotoplanete" : "http://www.motoplanete.com/erik-buell-racing/4736/1190-RX-2014/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/erik-buell-racing/EBR-1190-RX-2014.jpg",
   "year" : "2014",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/erik-buell-racing/EBR-1190-RX-2014.jpg" ],
-  "idManufacturer" : 32,
+  "idManufacturer" : 33,
   "rearAxle" : {
-    "id" : 4684,
+    "id" : 6159,
     "rearShock" : "Mono-amortisseur",
     "rearBrake" : "1 disque Ø 220 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4684,
+    "id" : 6159,
     "fork" : "Fourche téléhydraulique inversée Ø nc",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "1 disque Ø 386 mm, étrier 8 pistons"
   },
   "engine" : {
-    "id" : 4684,
+    "id" : 6159,
     "gasSupply" : "injection Ø nc",
     "torque" : 14.0,
     "torqueRpm" : 8200.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4684,
+    "id" : 6159,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4684,
+    "id" : 6159,
     "dryWeight" : 190.0,
     "seatHeight" : 826.0,
     "type" : "périmétique en aluminum avec réservoir intégré",

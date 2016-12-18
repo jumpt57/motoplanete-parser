@@ -1,7 +1,7 @@
 [ {
-  "id" : 4388,
+  "id" : 5865,
   "idMotoplanete" : 4091,
-  "name" : "1300 ",
+  "name" : "1300",
   "urlMotoplanete" : "http://www.motoplanete.com/BFG/4091/1300-1982/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/BFG/BFG-1300-1982.jpg",
   "year" : "1982",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 12,
   "imagesUrl" : [ "http://www.motoplanete.com/BFG/BFG-1300-1982.jpg" ],
-  "idManufacturer" : 18,
+  "idManufacturer" : 19,
   "rearAxle" : {
-    "id" : 4388,
+    "id" : 5865,
     "rearShock" : "2 combinés latéraux, déb : 120 mm",
     "rearBrake" : "1 disque Ø 300 mm, étrier 1 piston",
     "rearWheel" : "120 / 90 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4388,
+    "id" : 5865,
     "fork" : "Fourche téléhydraulique Ø nc, déb : 175 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "2 disques Ø 300 mm, étriers 1 piston"
   },
   "engine" : {
-    "id" : 4388,
+    "id" : 5865,
     "gasSupply" : "1 carburateur Solex Ø 28 mm",
     "torque" : 10.4,
     "torqueRpm" : 3250.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4388,
+    "id" : 5865,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "cardan",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4388,
+    "id" : 5865,
     "dryWeight" : 267.0,
     "seatHeight" : 780.0,
     "type" : "tubulaire en acier",

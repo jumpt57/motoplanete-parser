@@ -1,7 +1,7 @@
 [ {
-  "id" : 4906,
+  "id" : 6379,
   "idMotoplanete" : 3273,
-  "name" : "V-ROEHR 1250 SC ",
+  "name" : "V-ROEHR 1250 SC",
   "urlMotoplanete" : "http://www.motoplanete.com/roehr/3273/V-ROEHR-1250-SC-2011/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2010.jpg",
   "year" : "2011",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2010.jpg" ],
-  "idManufacturer" : 61,
+  "idManufacturer" : 62,
   "rearAxle" : {
-    "id" : 4906,
+    "id" : 6379,
     "rearShock" : "Monobras et mono-amortisseur Öhlins, déb : 114 mm",
     "rearBrake" : "1 disque Brembo Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4906,
+    "id" : 6379,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 119 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo Ø 330 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4906,
+    "id" : 6379,
     "gasSupply" : "Injection",
     "torque" : 15.9,
     "torqueRpm" : 7600.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4906,
+    "id" : 6379,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4906,
+    "id" : 6379,
     "dryWeight" : 196.0,
     "seatHeight" : 800.0,
     "type" : "Douple poutre périmétrique au chrome-molybdène relié à des platines en alu",
@@ -66,9 +66,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4907,
+  "id" : 6380,
   "idMotoplanete" : 1724,
-  "name" : "V-ROEHR 1250 SC ",
+  "name" : "V-ROEHR 1250 SC",
   "urlMotoplanete" : "http://www.motoplanete.com/roehr/1724/V-ROEHR-1250-SC-2010/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2010.jpg",
   "year" : "2010",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2010.jpg" ],
-  "idManufacturer" : 61,
+  "idManufacturer" : 62,
   "rearAxle" : {
-    "id" : 4907,
+    "id" : 6380,
     "rearShock" : "Monobras et mono-amortisseur Öhlins, déb : 114 mm",
     "rearBrake" : "1 disque Brembo Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4907,
+    "id" : 6380,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 119 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo Ø 330 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4907,
+    "id" : 6380,
     "gasSupply" : "Injection",
     "torque" : 15.9,
     "torqueRpm" : 7600.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4907,
+    "id" : 6380,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4907,
+    "id" : 6380,
     "dryWeight" : 196.0,
     "seatHeight" : 800.0,
     "type" : "Douple poutre périmétrique au chrome-molybdène relié à des platines en alu",
@@ -133,9 +133,9 @@
     "movingWeight" : 222.0
   }
 }, {
-  "id" : 4908,
+  "id" : 6381,
   "idMotoplanete" : 1723,
-  "name" : "V-ROEHR 1250 SC ",
+  "name" : "V-ROEHR 1250 SC",
   "urlMotoplanete" : "http://www.motoplanete.com/roehr/1723/V-ROEHR-1250-SC-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2009.jpg",
   "year" : "2009",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/roehr/V-Roehr-1250-SC-2009.jpg" ],
-  "idManufacturer" : 61,
+  "idManufacturer" : 62,
   "rearAxle" : {
-    "id" : 4908,
+    "id" : 6381,
     "rearShock" : "Monobras et mono-amortisseur Öhlins, déb : 114 mm",
     "rearBrake" : "1 disque Brembo Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "190 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4908,
+    "id" : 6381,
     "fork" : "Fourche téléhydraulique inversée Öhlins Ø 43 mm, déb : 119 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Brembo Ø 330 mm, étriers radiaux 4 pistons"
   },
   "engine" : {
-    "id" : 4908,
+    "id" : 6381,
     "gasSupply" : "Injection",
     "torque" : 15.9,
     "torqueRpm" : 7600.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4908,
+    "id" : 6381,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4908,
+    "id" : 6381,
     "dryWeight" : 196.0,
     "seatHeight" : 800.0,
     "type" : "Douple poutre périmétrique au chrome-molybdène relié à des platines en alu",

@@ -1,7 +1,7 @@
 [ {
-  "id" : 4909,
+  "id" : 6382,
   "idMotoplanete" : 5843,
-  "name" : "400 Himalayan ",
+  "name" : "400 Himalayan",
   "urlMotoplanete" : "http://www.motoplanete.com/royal-enfield/5843/400-Himalayan-2016/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/royal-enfield/Royal-Enfield-400-Himalayan-2016.jpg",
   "year" : "2016",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 5,
   "imagesUrl" : [ "http://www.motoplanete.com/royal-enfield/Royal-Enfield-400-Himalayan-2016.jpg" ],
-  "idManufacturer" : 62,
+  "idManufacturer" : 63,
   "rearAxle" : {
-    "id" : 4909,
+    "id" : 6382,
     "rearShock" : "Mono-amortisseur, déb : 180 mm",
     "rearBrake" : "1 disque Ø 240 mm, étrier 1 piston",
     "rearWheel" : "120 / 90 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4909,
+    "id" : 6382,
     "fork" : "Fourche téléhydraulique Ø 41 mm, déb : 200 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 21\"",
     "frontBrake" : "1 disque Ø 300 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4909,
+    "id" : 6382,
     "gasSupply" : "1 carburateur Ø nc",
     "torque" : 3.6,
     "torqueRpm" : 4000.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4909,
+    "id" : 6382,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4909,
+    "id" : 6382,
     "dryWeight" : null,
     "seatHeight" : 800.0,
     "type" : "tubulaire en acier",
@@ -66,9 +66,9 @@
     "movingWeight" : 182.0
   }
 }, {
-  "id" : 4910,
+  "id" : 6383,
   "idMotoplanete" : 1616,
-  "name" : "Bullet 500 Classic Blake et Mortimer ",
+  "name" : "Bullet 500 Classic Blake et Mortimer",
   "urlMotoplanete" : "http://www.motoplanete.com/royal-enfield/1616/Bullet-500-Classic-Blake-et-Mortimer-2009/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/royal-enfield/bullet-classic-500-blake-mortimer.jpg",
   "year" : "2009",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 2,
   "imagesUrl" : [ "http://www.motoplanete.com/royal-enfield/bullet-classic-500-blake-mortimer.jpg" ],
-  "idManufacturer" : 62,
+  "idManufacturer" : 63,
   "rearAxle" : {
-    "id" : 4910,
+    "id" : 6383,
     "rearShock" : "2 amortisseurs combinés, déb : 80 mm",
     "rearBrake" : "1 tambour Ø 152 mm",
     "rearWheel" : "110 / 80 - 18\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4910,
+    "id" : 6383,
     "fork" : "Fourche telescopique Ø 35 mm, déb : 130 mm",
     "frontShock" : null,
     "frontWheel" : "90 / 90 - 18\"",
     "frontBrake" : "1 disque Ø 280 mm, étrier 2 pistons"
   },
   "engine" : {
-    "id" : 4910,
+    "id" : 6383,
     "gasSupply" : "Injection",
     "torque" : 3.56,
     "torqueRpm" : 3000.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4910,
+    "id" : 6383,
     "gearboxSpeeds" : "5 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaîne",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4910,
+    "id" : 6383,
     "dryWeight" : 187.0,
     "seatHeight" : 820.0,
     "type" : "berceau tubulaire en acier",

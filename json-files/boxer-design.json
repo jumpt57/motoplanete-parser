@@ -1,7 +1,7 @@
 [ {
-  "id" : 4490,
+  "id" : 5967,
   "idMotoplanete" : 2619,
-  "name" : "VB1 1000 Evo ",
+  "name" : "VB1 1000 Evo",
   "urlMotoplanete" : "http://www.motoplanete.com/boxer-design/2619/VB1-1000-Evo-2004/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/boxer-design/VB1-2004-evo.jpg",
   "year" : "2004",
@@ -11,23 +11,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/boxer-design/VB1-2004-evo.jpg" ],
-  "idManufacturer" : 21,
+  "idManufacturer" : 22,
   "rearAxle" : {
-    "id" : 4490,
+    "id" : 5967,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4490,
+    "id" : 5967,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4490,
+    "id" : 5967,
     "gasSupply" : "Injection Ø 54 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -46,7 +46,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4490,
+    "id" : 5967,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -54,7 +54,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4490,
+    "id" : 5967,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -66,9 +66,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4491,
+  "id" : 5968,
   "idMotoplanete" : 2618,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/boxer-design/2618/VB1-1000-2003/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/boxer-design/VB1-2003.jpg",
   "year" : "2003",
@@ -78,23 +78,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/boxer-design/VB1-2003.jpg" ],
-  "idManufacturer" : 21,
+  "idManufacturer" : 22,
   "rearAxle" : {
-    "id" : 4491,
+    "id" : 5968,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4491,
+    "id" : 5968,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4491,
+    "id" : 5968,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -113,7 +113,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4491,
+    "id" : 5968,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -121,7 +121,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4491,
+    "id" : 5968,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -133,9 +133,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4492,
+  "id" : 5969,
   "idMotoplanete" : 2617,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/boxer-design/2617/VB1-1000-2002/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/boxer-design/VB1-2002.jpg",
   "year" : "2002",
@@ -145,23 +145,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/boxer-design/VB1-2002.jpg" ],
-  "idManufacturer" : 21,
+  "idManufacturer" : 22,
   "rearAxle" : {
-    "id" : 4492,
+    "id" : 5969,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4492,
+    "id" : 5969,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4492,
+    "id" : 5969,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -180,7 +180,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4492,
+    "id" : 5969,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -188,7 +188,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4492,
+    "id" : 5969,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
@@ -200,9 +200,9 @@
     "movingWeight" : null
   }
 }, {
-  "id" : 4493,
+  "id" : 5970,
   "idMotoplanete" : 2616,
-  "name" : "VB1 1000 ",
+  "name" : "VB1 1000",
   "urlMotoplanete" : "http://www.motoplanete.com/boxer-design/2616/VB1-1000-2001/contact.html",
   "urlImgMotoplanete" : "http://www.motoplanete.com/boxer-design/VB1-2001.jpg",
   "year" : "2001",
@@ -212,23 +212,23 @@
   "priceABS" : null,
   "categoryId" : 1,
   "imagesUrl" : [ "http://www.motoplanete.com/boxer-design/VB1-2001.jpg" ],
-  "idManufacturer" : 21,
+  "idManufacturer" : 22,
   "rearAxle" : {
-    "id" : 4493,
+    "id" : 5970,
     "rearShock" : "Mono-amortisseur sous le moteur, déb : 120 mm",
     "rearBrake" : "1 disque Ø 245 mm, étrier 2 pistons",
     "rearWheel" : "180 / 55 - 17\"",
     "type" : null
   },
   "frontAxle" : {
-    "id" : 4493,
+    "id" : 5970,
     "fork" : "Fourche téléhydraulique inversée Ø 41 mm, déb : 120 mm",
     "frontShock" : null,
     "frontWheel" : "120 / 70 - 17\"",
     "frontBrake" : "2 disques Ø 320mm, étriers 4 pistons"
   },
   "engine" : {
-    "id" : 4493,
+    "id" : 5970,
     "gasSupply" : "Injection Ø 45 mm",
     "torque" : 9.7,
     "torqueRpm" : 6500.0,
@@ -247,7 +247,7 @@
     "batteryPack" : null
   },
   "transmission" : {
-    "id" : 4493,
+    "id" : 5970,
     "gearboxSpeeds" : "6 rapports",
     "geerboxType" : "manuelle",
     "secondaryTransmission" : "chaine",
@@ -255,7 +255,7 @@
     "reverse" : null
   },
   "frame" : {
-    "id" : 4493,
+    "id" : 5970,
     "dryWeight" : 185.0,
     "seatHeight" : 810.0,
     "type" : "double poutre tubulaire",
