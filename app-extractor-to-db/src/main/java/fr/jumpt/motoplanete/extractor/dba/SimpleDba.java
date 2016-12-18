@@ -636,8 +636,10 @@ public class SimpleDba {
 
 		Connection con = ConnectionManager.getConnexion();
 		
+		String value = dictionary.getValue().replace("\'", "\''");
+		
 		String query = "UPDATE data_bikes_old."+ dictionary.getType() +" SET " + dictionary.getFeature() + " = '"
-				+ dictionary.getCorrectValue() +"' WHERE "+dictionary.getFeature()+" = '"+dictionary.getValue()+"';";
+				+ dictionary.getCorrectValue() +"' WHERE "+dictionary.getFeature()+" = '"+ value +"';";
 		
 		try {
 			

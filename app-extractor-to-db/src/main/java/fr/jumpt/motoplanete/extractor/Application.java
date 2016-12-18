@@ -1,14 +1,13 @@
 package fr.jumpt.motoplanete.extractor;
 
-import fr.jumpt.motoplanete.extractor.workers.BddWorker;
-import fr.jumpt.motoplanete.extractor.workers.DictionaryWorker;
+import fr.jumpt.motoplanete.extractor.workers.ImagesWorker;
 
 public class Application {
 
 	public static void main(String[] args) throws Exception {
 		System.out.println("START APP");
 
-		BddWorker.cleanBdd();
+		//BddWorker.cleanBdd();
 
 		//ManufacturersWorker.loadManufacturers();
 
@@ -16,7 +15,7 @@ public class Application {
 
 		//BikesWorker.loadBikes();
 
-		BddWorker.insertBikes();
+		//BddWorker.insertBikes();
 
 		//DictionaryWorker.processFeatures();
 
@@ -24,9 +23,9 @@ public class Application {
 
 		// DictionaryWorker.copyToCorrectedFeaturesTable();
 
-		DictionaryWorker.correctAllValues();
+		//DictionaryWorker.correctAllValues();
 
-		// ImagesWorker.dowload();
+		ImagesWorker.dowload();
 
 		System.out.println("END APP");
 	}
