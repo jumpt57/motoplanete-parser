@@ -10,6 +10,7 @@ import fr.jumpt.motoplanete.extractor.models.Manufacturer;
 public abstract class DictionaryWorker {
 
 	public static void processFeatures() {
+		System.out.println("INSERT DICTIONARY FEATURES");
 		try {
 			for (Manufacturer manufacturer : ManufacturersWorker.jsonToObject()) {
 				for (Bike bike : BikesWorker.jsonToObject(manufacturer)) {
@@ -69,28 +70,28 @@ public abstract class DictionaryWorker {
 		} catch (Exception e) {
 			System.out.println("Problème lors du traitement des données du dictionnaire");
 		}
-
+		System.out.println("END INSERT DICTIONARY FEATURES");
 	}
 	
 	public static void featuresCorrection(){
+		System.out.println("CORRECT DICTIONARY FEATURES");
 		try{
 			for (Dictionary dico : SimpleDba.getAllDictionary()) {
 				if(dico.getCorrectValue().isEmpty()){
 					dico.setCorrectValue(StringUtils.capitalize(dico.getValue().trim()));
 					SimpleDba.updateDictionary(dico);
-				}		
-				else if(dico.getCorrectValue().contains("\\'")){									
-					dico.setCorrectValue(dico.getCorrectValue().replace("\\'", "''"));				
-					SimpleDba.updateDictionary(dico);
 				}
+				
 			}
 			
 		} catch(Exception e){
 			System.out.println("Problème lors de la correction des données du dictionnaire");
 		}
+		System.out.println("END CORRECT DICTIONARY FEATURES");
 	}
 	
 	public static void copyToCorrectedFeaturesTable(){
+		System.out.println("COPY CORRECTED DICTIONARY FEATURES");
 		try{
 			for (Dictionary dico : SimpleDba.getAllDictionary()) {
 				SimpleDba.insertBikeFeaturesValueCorrected(dico);		
@@ -99,9 +100,11 @@ public abstract class DictionaryWorker {
 		} catch(Exception e){
 			System.out.println("Problème lors du dump des corrections des données du dictionnaire");
 		}
+		System.out.println("END COPY CORRECTED DICTIONARY FEATURES");
 	}
 	
 	public static void correctAllValues(){
+		System.out.println("COPY CORRECT BIKES FEATURES");
 		try{
 			for (Dictionary dico : SimpleDba.getAllDictionary()) {
 				SimpleDba.updateBikesValue(dico);								
@@ -110,6 +113,7 @@ public abstract class DictionaryWorker {
 		} catch(Exception e){
 			System.out.println("Problème lors de la correction des données des motos via le dictionnaire");
 		}
+		System.out.println("COPY END CORRECT BIKES FEATURES");
 	}
 
 }

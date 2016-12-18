@@ -20,22 +20,22 @@ import fr.jumpt.motoplanete.extractor.utils.ConnectionManager;
 
 public class SimpleDba {
 
-	public static final String DELETE_ALL_BIKE_GENERAL = "DELETE FROM data_bikes.bike_general_information;";
-	public static final String DELETE_ALL_CATEGORIES = "DELETE FROM data_bikes.bike_categories;";
-	public static final String DELETE_ALL_MANUFACTURERS = "DELETE FROM data_bikes.bike_manufacturers;";
-	public static final String DELETE_ALL_BIKE_ENGINE = "DELETE FROM data_bikes.bike_engine;";
-	public static final String DELETE_ALL_BIKE_FRAME = "DELETE FROM data_bikes.bike_frame;";
-	public static final String DELETE_ALL_BIKE_FRONT_AXLE = "DELETE FROM data_bikes.bike_front_axle;";
-	public static final String DELETE_ALL_BIKE_REAR_AXLE = "DELETE FROM data_bikes.bike_rear_axle;";
-	public static final String DELETE_ALL_BIKE_TRANSMISSION = "DELETE FROM data_bikes.bike_transmission;";
+	public static final String DELETE_ALL_BIKE_GENERAL = "DELETE FROM data_bikes_old.bike_general_information;";
+	public static final String DELETE_ALL_CATEGORIES = "DELETE FROM data_bikes_old.bike_categories;";
+	public static final String DELETE_ALL_MANUFACTURERS = "DELETE FROM data_bikes_old.bike_manufacturers;";
+	public static final String DELETE_ALL_BIKE_ENGINE = "DELETE FROM data_bikes_old.bike_engine;";
+	public static final String DELETE_ALL_BIKE_FRAME = "DELETE FROM data_bikes_old.bike_frame;";
+	public static final String DELETE_ALL_BIKE_FRONT_AXLE = "DELETE FROM data_bikes_old.bike_front_axle;";
+	public static final String DELETE_ALL_BIKE_REAR_AXLE = "DELETE FROM data_bikes_old.bike_rear_axle;";
+	public static final String DELETE_ALL_BIKE_TRANSMISSION = "DELETE FROM data_bikes_old.bike_transmission;";
 
-	public static final String MAX_ID_BIKE_GENERAL = "SELECT MAX(id) FROM data_bikes.bike_general_information;";
-	public static final String MAX_ID_CATEGORIES = "SELECT MAX(id) FROM data_bikes.bike_categories;";
-	public static final String MAX_ID_MANUFACTURER = "SELECT MAX(id) FROM data_bikes.bike_manufacturers;";
+	public static final String MAX_ID_BIKE_GENERAL = "SELECT MAX(id) FROM data_bikes_old.bike_general_information;";
+	public static final String MAX_ID_CATEGORIES = "SELECT MAX(id) FROM data_bikes_old.bike_categories;";
+	public static final String MAX_ID_MANUFACTURER = "SELECT MAX(id) FROM data_bikes_old.bike_manufacturers;";
 
-	public static final String GET_BIKE_ID_BY_NAME = "SELECT id FROM data_bikes.bike_categories WHERE name LIKE ?;";
-	public static final String GET_CATEGORY_ID_BY_NAME = "SELECT id FROM data_bikes.bike_categories WHERE name LIKE ?;";
-	public static final String GET_MANUFACTURER_ID_BY_NAME = "SELECT id FROM data_bikes.bike_manufacturers WHERE name LIKE ?;";
+	public static final String GET_BIKE_ID_BY_NAME = "SELECT id FROM data_bikes_old.bike_categories WHERE name LIKE ?;";
+	public static final String GET_CATEGORY_ID_BY_NAME = "SELECT id FROM data_bikes_old.bike_categories WHERE name LIKE ?;";
+	public static final String GET_MANUFACTURER_ID_BY_NAME = "SELECT id FROM data_bikes_old.bike_manufacturers WHERE name LIKE ?;";
 
 	/**
 	 * Permet de supprimer dans la BDD
@@ -53,6 +53,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("deleteAll error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -82,6 +83,7 @@ public class SimpleDba {
 			return null;
 		} catch (Exception e) {
 			System.out.println("getMaxId error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -114,6 +116,7 @@ public class SimpleDba {
 			return null;
 		} catch (Exception e) {
 			System.out.println("getIdByName error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -134,7 +137,7 @@ public class SimpleDba {
 		Connection con = ConnectionManager.getConnexion();
 		try {
 			PreparedStatement stmt = con.prepareStatement(
-					"SELECT COUNT(id) as count FROM data_bikes.bike_general_information WHERE name LIKE ? AND year LIKE ?;");
+					"SELECT COUNT(id) as count FROM data_bikes_old.bike_general_information WHERE name LIKE ? AND year LIKE ?;");
 			stmt.setObject(1, name);
 			stmt.setObject(2, year);
 
@@ -153,6 +156,7 @@ public class SimpleDba {
 			return null;
 		} catch (Exception e) {
 			System.out.println("getBikeExistByNameAndYear error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -173,7 +177,7 @@ public class SimpleDba {
 		Connection con = ConnectionManager.getConnexion();
 		try {
 
-			String query = "INSERT INTO data_bikes.bike_general_information (id, name, images_url, year, max_speed, "
+			String query = "INSERT INTO data_bikes_old.bike_general_information (id, name, images_url, year, max_speed, "
 					+ " zero_to_hundred, price, price_with_abs, id_category, id_rear_axle, id_front_axle, id_engine, id_transmission, id_frame,  id_manufacturer) "
 					+ " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
 
@@ -200,8 +204,10 @@ public class SimpleDba {
 
 		} catch (Exception e) {
 			System.out.println("insertBike error");
+			e.printStackTrace();
 			return null;
 		} finally {
+			System.out.println("Insert " + bike.getName() + " " + bike.getYear() + " OK");
 			try {
 				con.close();
 			} catch (SQLException e) {
@@ -218,7 +224,7 @@ public class SimpleDba {
 	public static Integer insertEngine(Engine engine) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_engine (id, gas_supply, torque, act, power, cooling, displacement, type, "
+			String query = "INSERT INTO data_bikes_old.bike_engine (id, gas_supply, torque, act, power, cooling, displacement, type, "
 					+ " power_to_weight_ratio, valve, valve_command, engine_intake, bridable, max_power_rpm, max_torque_rpm, camshaft, battery_pack) "
 					+ " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
 
@@ -246,6 +252,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertEngine error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -264,7 +271,7 @@ public class SimpleDba {
 	public static Integer insertFrame(Frame frame) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_frame (id, dry_weight, seat_height, type, tank_capacity, "
+			String query = "INSERT INTO data_bikes_old.bike_frame (id, dry_weight, seat_height, type, tank_capacity, "
 					+ " lenght, wheel_base, width, height, moving_weight) " + " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
@@ -284,6 +291,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertFrame error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -302,7 +310,7 @@ public class SimpleDba {
 	public static Integer insertFrontAxle(FrontAxle frontAxle) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_front_axle (id, fork, front_shock, front_wheel, front_brake) "
+			String query = "INSERT INTO data_bikes_old.bike_front_axle (id, fork, front_shock, front_wheel, front_brake) "
 					+ " VALUES (?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
@@ -317,6 +325,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertFrontAxle error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -335,7 +344,7 @@ public class SimpleDba {
 	public static Integer insertRearAxle(RearAxle rearAxle) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_rear_axle (id, rear_shock, rear_brake, rear_wheel, type) "
+			String query = "INSERT INTO data_bikes_old.bike_rear_axle (id, rear_shock, rear_brake, rear_wheel, type) "
 					+ " VALUES (?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
@@ -350,6 +359,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertRearAxle error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -368,7 +378,7 @@ public class SimpleDba {
 	public static Integer insertTransmission(Transmission transmission) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_transmission (id, gearbox_speeds, gearbox_type, secondary_transmission, type, reverse) "
+			String query = "INSERT INTO data_bikes_old.bike_transmission (id, gearbox_speeds, gearbox_type, secondary_transmission, type, reverse) "
 					+ " VALUES (?, ?, ?, ?, ?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
@@ -384,6 +394,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertTransmission error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -403,7 +414,7 @@ public class SimpleDba {
 	public static Integer insertCategory(Integer id, String name) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_categories (id, name) VALUES (?, ?);";
+			String query = "INSERT INTO data_bikes_old.bike_categories (id, name) VALUES (?, ?);";
 
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setInt(1, id);
@@ -414,6 +425,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertCategory error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -432,7 +444,7 @@ public class SimpleDba {
 	public static Integer insertManufacturer(Manufacturer man) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "INSERT INTO data_bikes.bike_manufacturers (id, name, years, description, logo_url, images_url) VALUES (?, ?, ?, ?, ?, ?);";
+			String query = "INSERT INTO data_bikes_old.bike_manufacturers (id, name, years, description, logo_url, images_url) VALUES (?, ?, ?, ?, ?, ?);";
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setInt(1, man.getId());
 			stmt.setString(2, man.getName());
@@ -446,6 +458,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("insertManufacturer error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -462,7 +475,7 @@ public class SimpleDba {
 			if (value == null) {
 				return null;
 			}
-			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary WHERE type LIKE ? AND feature LIKE ? AND value LIKE ?;";
+			String query1 = "SELECT COUNT(feature) as count FROM data_bikes_old.bike_features_dictionary WHERE type LIKE ? AND feature LIKE ? AND value LIKE ?;";
 			PreparedStatement stmt = con.prepareStatement(query1);
 			stmt.setObject(1, type);
 			stmt.setObject(2, feature);
@@ -475,7 +488,7 @@ public class SimpleDba {
 				stmt.close();
 
 				if (result == 0) {
-					String query2 = "INSERT INTO data_bikes.bike_features_dictionary (type, feature, value, correct_value) VALUES (?, ?, ?, ?);";
+					String query2 = "INSERT INTO data_bikes_old.bike_features_dictionary (type, feature, value, correct_value) VALUES (?, ?, ?, ?);";
 					PreparedStatement stmt2 = con.prepareStatement(query2);
 					stmt2.setObject(1, type);
 					stmt2.setObject(2, feature);
@@ -484,6 +497,8 @@ public class SimpleDba {
 
 					int result2 = stmt2.executeUpdate();
 					stmt2.close();
+					
+					System.out.println("Add feature " + type + " " + feature + " " + value + " OK");
 					return result2;
 				} else {
 					return result;
@@ -494,6 +509,7 @@ public class SimpleDba {
 
 		} catch (Exception e) {
 			System.out.println("insertBikeFeaturesValue error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -507,7 +523,7 @@ public class SimpleDba {
 	public static Integer insertBikeFeaturesValueCorrected(Dictionary dico) {
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query1 = "SELECT COUNT(feature) as count FROM data_bikes.bike_features_dictionary_corrected WHERE type LIKE ? AND feature LIKE ? AND correct_value LIKE ?;";
+			String query1 = "SELECT COUNT(feature) as count FROM data_bikes_old.bike_features_dictionary_corrected WHERE type LIKE ? AND feature LIKE ? AND correct_value LIKE ?;";
 			PreparedStatement stmt = con.prepareStatement(query1);
 			stmt.setObject(1, dico.getType());
 			stmt.setObject(2, dico.getFeature());
@@ -520,7 +536,7 @@ public class SimpleDba {
 				stmt.close();
 
 				if (result == 0) {
-					String query2 = "INSERT INTO data_bikes.bike_features_dictionary_corrected (type, feature, correct_value) VALUES (?, ?, ?);";
+					String query2 = "INSERT INTO data_bikes_old.bike_features_dictionary_corrected (type, feature, correct_value) VALUES (?, ?, ?);";
 					PreparedStatement stmt2 = con.prepareStatement(query2);
 					stmt2.setObject(1, dico.getType());
 					stmt2.setObject(2, dico.getFeature());
@@ -538,6 +554,7 @@ public class SimpleDba {
 
 		} catch (Exception e) {
 			System.out.println("insertBikeFeaturesValueCorrected error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -554,7 +571,7 @@ public class SimpleDba {
 		Connection con = ConnectionManager.getConnexion();
 		try {
 			List<Dictionary> dicos = new ArrayList<Dictionary>();
-			String query = "SELECT type, feature, value, correct_value FROM data_bikes.bike_features_dictionary;";
+			String query = "SELECT type, feature, value, correct_value FROM data_bikes_old.bike_features_dictionary;";
 			PreparedStatement stmt = con.prepareStatement(query);
 
 			ResultSet rs = stmt.executeQuery();
@@ -574,6 +591,7 @@ public class SimpleDba {
 			return dicos;
 		} catch (Exception e) {
 			System.out.println("getAllDictionary error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -588,7 +606,7 @@ public class SimpleDba {
 
 		Connection con = ConnectionManager.getConnexion();
 		try {
-			String query = "UPDATE data_bikes.bike_features_dictionary SET correct_value = ? WHERE type = ? AND feature = ? AND value = ?;";
+			String query = "UPDATE data_bikes_old.bike_features_dictionary SET correct_value = ? WHERE type = ? AND feature = ? AND value = ?;";
 			PreparedStatement stmt = con.prepareStatement(query);
 			stmt.setObject(1, dictionary.getCorrectValue());
 			stmt.setObject(2, dictionary.getType());
@@ -601,6 +619,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("updateDictionary error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {
@@ -612,10 +631,12 @@ public class SimpleDba {
 	}
 	
 	public static Integer updateBikesValue(Dictionary dictionary) {
+		
+		System.out.println("Correct " + dictionary.getFeature());
 
 		Connection con = ConnectionManager.getConnexion();
 		
-		String query = "UPDATE data_bikes."+ dictionary.getType() +" SET " + dictionary.getFeature() + " = '"
+		String query = "UPDATE data_bikes_old."+ dictionary.getType() +" SET " + dictionary.getFeature() + " = '"
 				+ dictionary.getCorrectValue() +"' WHERE "+dictionary.getFeature()+" = '"+dictionary.getValue()+"';";
 		
 		try {
@@ -629,6 +650,7 @@ public class SimpleDba {
 			return result;
 		} catch (Exception e) {
 			System.out.println("updateBikesValue error");
+			e.printStackTrace();
 			return null;
 		} finally {
 			try {

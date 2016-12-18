@@ -26,6 +26,7 @@ public abstract class BikesWorker {
 	 * 
 	 */
 	public static void loadBikes() {
+		System.out.println("LOAD BIKES");
 		try {
 			for (Manufacturer manufacturer : ManufacturersWorker.jsonToObject()) {
 				List<Bike> bikes = new ArrayList<Bike>();
@@ -44,6 +45,7 @@ public abstract class BikesWorker {
 		} catch (Exception e) {
 			System.out.println("Problème lors du chargement des motos");
 		}
+		System.out.println("END LOAD BIKES");
 	}
 
 	/**
@@ -86,6 +88,7 @@ public abstract class BikesWorker {
 			}
 		} catch (Exception e) {
 			System.out.println("Erreur 500 !");
+			e.printStackTrace();
 		}
 
 	}
@@ -151,7 +154,7 @@ public abstract class BikesWorker {
 						bike.getEngine()
 								.setTorqueRpm(Double.parseDouble(torque.split("à")[1].replace("tr/min", "").trim()));
 					} else {
-						bike.getEngine().setTorque(Double.parseDouble(torque.replace("mkg", "").trim()));
+						bike.getEngine().setTorque(Double.parseDouble(torque.replace("mkg", "").replace("avec l'air forcé", "").trim()));
 					}
 				} else if (element.text().contains("soupapes")) {
 					bike.getEngine().setValve(element.text());
@@ -170,8 +173,9 @@ public abstract class BikesWorker {
 						bike.getEngine().setPower(Double.parseDouble(power.split("à")[0].replace("ch", "").trim()));
 						bike.getEngine()
 								.setPowerRpm(Double.parseDouble(power.split("à")[1].replace("tr/min", "").trim()));
-					} else {
-						bike.getEngine().setPower(Double.parseDouble(power.replace("ch", "").trim()));
+					}
+					else {
+						bike.getEngine().setPower(Double.parseDouble(power.replace("ch", "").replace("avec l'air forcé", "").trim()));
 					}
 				} else if (element.text().contains("cc")) {
 					bike.getEngine().setDisplacement(element.text());

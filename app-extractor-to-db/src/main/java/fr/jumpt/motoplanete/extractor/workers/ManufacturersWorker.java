@@ -28,6 +28,7 @@ public abstract class ManufacturersWorker {
 	 * 
 	 */
 	public static void loadManufacturers() {
+		System.out.println("LOAD MANUFACTURERS");
 		System.out.println("Manufacturers loading start");
 		try {			
 			List<Manufacturer> mans = new ArrayList<Manufacturer>();
@@ -39,7 +40,8 @@ public abstract class ManufacturersWorker {
 			System.out.println("Manufacturers loading end");
 		} catch (Exception e) {
 			e.printStackTrace();
-		}		
+		}
+		System.out.println("END LOAD MANUFACTURERS");
 	}
 
 	/**
