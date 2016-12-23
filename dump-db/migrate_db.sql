@@ -10,7 +10,7 @@ insert into data_bikes.bikes (id, name, images_url, year, max_speed, zero_to_hun
     select id, name, images_url, year, max_speed, zero_to_hundred, price, price_with_abs, now(), now(), id_category, id_manufacturer
     from data_motoplanete.bike_general_information;	
 	
-/*insert into data_bikes.categories_bikes (created_at, updated_at, category_id, bike_id)
+insert into data_bikes.categories_bikes (created_at, updated_at, category_id, bike_id)
     select now(), now(), id_category, id
     from data_motoplanete.bike_general_information;
 	
@@ -54,7 +54,7 @@ UPDATE data_bikes.bikes
 SET images_url[1] = replace(images_url[1], 'http://www.motoplanete.com/', '/images/bikes/');
 
 UPDATE data_bikes.manufacturers
-SET logo_url = '/images/manufacturers/' || lower(name) || '.png';*/
+SET logo_url = '/images/manufacturers/' || lower(name) || '.png';
 
 
 
