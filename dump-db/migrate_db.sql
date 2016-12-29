@@ -20,7 +20,7 @@ insert into data_bikes.manufacturers_bikes (created_at, updated_at, manufacturer
 	
 insert into data_bikes.features_dictionary (type, feature, value, correct_value, created_at, updated_at)
     select type, feature, value, correct_value, now(), now()
-    from data_motoplanete.bike_features_dictionary
+    from data_motoplanete.bike_features_dictionary;
 	
 insert into data_bikes.engines (id, gas_supply, camshaft, cooling, displacement, type, valve, valve_command, engine_intake, bridable, max_torque_rpm, max_power_rpm, power, 
 torque, power_to_weight_ratio, battery_pack, created_at, updated_at, id_bike)
@@ -54,7 +54,7 @@ UPDATE data_bikes.bikes
 SET images_url[1] = replace(images_url[1], 'http://www.motoplanete.com/', '/images/bikes/');
 
 UPDATE data_bikes.manufacturers
-SET logo_url = '/images/manufacturers/' || lower(name) || '.png';
+SET logo_url = '/images/manufacturers/' || replace(lower(name), ' ', '_') || '.png';
 
 
 
