@@ -51,10 +51,10 @@ select transmission.id, transmission.gearbox_speeds, transmission.gearbox_type, 
 	
 	
 UPDATE data_bikes.bikes
-SET images_url[1] = replace(images_url[1], 'http://www.motoplanete.com/', '/images/bikes/');
+SET images_url[1] = replace(images_url[1], 'http://www.motoplanete.com/', '/api/images/bikes/');
 
 UPDATE data_bikes.manufacturers
-SET logo_url = '/images/manufacturers/' || replace(lower(name), ' ', '_') || '.png';
+SET logo_url = '/api/images/manufacturers/' || replace(lower(name), ' ', '-') || '.png';
 
 
 
